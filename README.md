@@ -10,7 +10,6 @@ As a part of this project, we plan to build various information retrieval system
 ### Project structure:
 - src/ : All the code for the project is in this directory.
 - data/ : Contains the entire corpus along with the queries needed
-- IRProject.pdf : Please find more details on our project in this document
 
 ---
 
