@@ -1,0 +1,100 @@
+cacm-1686.html: cacm october 1968 lesem l b hirsch p m holography optics fourier transforms computer <b>applications</b> display device photography physics mathematics <b>image</b> <b>processing</b> 3.17 3.19 5.19 ca681001 jb february 21 1978 427 pm
+cacm-3047.html: cacm november 1978 horn b bachman b <b>image</b> registration synthetic <b>images</b> surface models automatic hill shading <b>digital</b> terrain models <b>image</b> transformation <b>image</b> matching shaded <b>images</b> 3.63 3.11 3.14 8.2 3.83 ca781104 dh january 26 1979 1116
+cacm-3013.html: operator distance center centroid neighborhood edge <b>value</b> briefly considered turns equivalent standard <b>digital</b> <b>approximations</b> gradient
+cacm-2142.html: herman g t approximation biomedical <b>image</b> <b>processing</b> efficient encoding <b>image</b> <b>processing</b> linear programming <b>mathematical</b> programming monte carlo techniques optimization picture compression picture description picture <b>processing</b> stereology x-ray analysis 3.12 3.13 3.15 3.17 3.63 5.41 5.6 ca711201 jb february 2 1978 1032
+cacm-1144.html: <b>digital</b> computer determination alpha source activity technique determining activity homogeneity alpha source
+cacm-2065.html: cacm may 1970 hodes l <b>image</b> <b>processing</b> biomedical <b>image</b> <b>processing</b> on-line <b>image</b> <b>processing</b> semiautomatic <b>image</b> <b>processing</b> data structure structure operators picture <b>processing</b> biomedical picture <b>processing</b> on-line picture <b>processing</b> semiautomatic picture <b>processing</b> semiautomatic karyotyping karyotyping list <b>processing</b> picture <b>processing</b> 3.12 3.34 3.63 4.39 6.29 ca700501 jb february 13 1978 227 pm
+cacm-2370.html: system design programming support typical <b>applications</b> scanner control optical character recognitionand <b>image</b> <b>processing</b> presented
+cacm-2283.html: found algorithm operating triangular array sensitive <b>image</b> irregularities <b>noise</b> yield thinned <b>image</b> reduced number points
+cacm-2421.html: list <b>processing</b> procedures used single pass xy display required generating binary <b>image</b> slight increase execution time fully buffered core results
+cacm-0533.html: need technique arises testing performance data <b>processing</b> engineering systems inputs corrupted correlated <b>noise</b> <b>of</b> known form required
+cacm-1891.html: three-dimensional computer display stereographic display terminal produced raster display (brad) recently developed brookhaven.
+cacm-1327.html: data <b>image</b> scan decision table <b>image</b> arrive proper course action
+cacm-1741.html: cacm june 1968 ophir d rankowitz s shepherd b j spinrad r j computer display computer graphics computer raster display tv display console <b>digital</b> tv display swept raster computer display swept raster tv computer display tv graphics terminal multiconsole computer graphics inexpensive graphic terminal 2.0 4.49 6.35 ca680604 jb february 22 1978 435 pm
+cacm-3015.html: cacm february 1978 herman g lent a lutz p biomedical <b>image</b> <b>processing</b> <b>image</b> reconstruction x-ray tomography <b>mathematical</b> programming linear inequalities relaxation techniques 3.12 3.17 3.34 3.63 5.14 5.18 5.41 ca780208 jb march 28 1978 213 pm
+cacm-2528.html: binary pattern reconstruction projections z algorithm r445 cacm march 1973 lau j pattern reconstruction <b>image</b> reconstruction data compression picture <b>processing</b> 3.63 5.30 ca730311 jb january 24 1978 1022
+cacm-2529.html: binary pattern reconstruction projections z algorithm a445 cacm march 1973 chang s pattern reconstruction <b>image</b> reconstruction data compression picture <b>processing</b> 3.63 5.30 ca730310 jb january 24 1978 1025
+cacm-2674.html: cacm march 1974 barrett r <b>c</b> fordan b w jr graphics scan conversion raster display line drawing discrete <b>image</b> dot generation matrix displays 4.41 6.35 8.2 ca740309 jb january 18 1978 1108
+cacm-2893.html: computers innovation <b>american</b> local governments computers electronic data <b>processing</b> major technological innovation operations <b>american</b> local government
+cacm-2051.html: <b>article</b> explains usefulness limitations programs illustrates small portion hypothetical data
+cacm-1350.html: augmented predictive analyzer context-free languages-its relative efficiency proven greibach context-free grammar g, standard-form grammar gs constructed, generates languages generated rules form --> cy(1) ... y(m), (m >= o) y(i) intermediate symbols terminal symbol.
+cacm-1929.html: <b>images</b> computers microfilm plotters <b>digital</b> computers widely <b>processing</b> information data kinds including pictorial information contained photographs graphical representations
+cacm-2188.html: cacm june 1971 foley j d design guidelines graphic display systems <b>mathematical</b> model optimum system design queueing model 3.8 6.22 6.35 ca710602 jb february 3 1978 1026
+cacm-0973.html: cacm november 1964 bellman r collier <b>c</b> kagiwada <b>h</b> kalaba r selvester r ca641110 jb march 9 1978 400 pm
+cacm-1424.html: automatic analysis electronic <b>digital</b> circuits list <b>processing</b> mapping black diagrams <b>digital</b> circuits list structures described list <b>processing</b> program written control data 3600 mapping carry circuit analysis
+cacm-1839.html: <b>singular</b> <b>decomposition</b> complex matrix algorithm 358 f1 4,5 cacm october 1969 businger p a goulub g <b>h</b> <b>singular</b> values matrix <b>decomposition</b> squares solution pseudoinverse 5.14 ca691007 jb february 15 1978 322 pm
+cacm-2788.html: <b>finding</b> circles array accumulators cacm february 1975 kimme <b>c</b> balard d sklansky j picture <b>processing</b> pattern recognition curve detectionline fitting 3.63 ca750211 jb january 10 1978 915
+cacm-1543.html: computer formulation equations motion tensor notation means extending area application <b>digital</b> computers numerical data <b>processing</b> stage reducing need human participation formulation types computer problems
+cacm-2687.html: cacm february 1974 jordan b w jr barrett r <b>c</b> graphics raster display line drawing discrete <b>image</b> dot generation matrix displays 4.41 6.35 8.2 ca740202 jb january 18 1978 128 pm
+cacm-1726.html: simpler material instance claims sections patents <b>applications</b> utmost accuracy necessary unsupervised mode advocated
+cacm-2211.html: scanned <b>image</b> stored core memory computer software scan conversion convert rectangular coordinates point word bit output display array core storage
+cacm-1108.html: <b>digital</b> data processor tracking partially illuminated moon study lunar tracking techniques fabrication breadboard assess feasibility technique selected conducted define tracking system observation sight line center partially illuminated moon
+cacm-2829.html: texture reflection computer generated <b>images</b> 1974 catmull developed algorithm rendering <b>images</b> bivariate surface patches
+cacm-0104.html: <b>digital</b> simulation discrete flow systems discrete flow systems discussed characterized movement randomly arriving items interacting channels
+cacm-2402.html: pictorial pattern recognition phase problem x-ray crystallography availability interactive three-dimensional computer graphics systems coupled powerful <b>digital</b> computers encourages development algorithms adapted environment
+cacm-2971.html: resulting language suitable troducing programming concepts <b>applications</b> including business data <b>processing</b> scientific calculations non-numeric computation
+cacm-2054.html: feasibility voice input on-line computer <b>processing</b> system on-line <b>digital</b> computer <b>processing</b> system considered ordinary telephone complete terminal device input computer provided sequence spoken words output user audio responses machine
+cacm-1588.html: cacm june 1967 lawson jr <b>h</b> w ca670604 jb february 28 1978 930
+cacm-1196.html: <b>applications</b> differential equations general problem solving large class problems leading <b>digital</b> computer <b>processing</b> formulated terms numerical solution systems ordinary differential equations
+cacm-2125.html: cacm january 1970 montanari u digitized <b>image</b> connection tree minimal polygon optimal approximation nonlinear programming 3.63 5.13 5.17 ca700106 jb february 14 1978 200 pm
+cacm-2826.html: simplicity stick figure <b>image</b> encourages high level interaction design stage
+cacm-2663.html: study computer graduate school business cacm april 1974 lucas <b>h</b> <b>c</b> jr montgomery d b larreche j <b>c</b> education management business schools 1.50 1.52 ca740407 jb january 18 1978 935
+cacm-2993.html: case maximizing minimizing objective function <b>subject</b> constrain set attempted mps solved giving indication infeasibility other
+cacm-2396.html: muse model understand simple english muse computer model natural language <b>processing</b> based semantic memory network quillians tlc
+cacm-2254.html: cacm december 1972 phillips j r adams <b>h</b> <b>c</b> dynamic partitioning array partitioning array language data structure tree structure programming language design array control blocks partition control blocks 4.12 4.2 4.22 ca721201 jb january 27 1978 120 pm
+cacm-2977.html: cacm april 1977 lucac <b>h</b> <b>c</b> jr sutton j a budgets stage theories stage hypothesis 3.50 3.59 ca770405 jb december 29 1977 512
+cacm-3057.html: objective <b>find</b> transformed <b>digital</b> picture picture sum absolute errors gray level togram transformed picture reference picture minimized
+cacm-2689.html: crt report generating system cacm january 1974 lucas <b>h</b> <b>c</b> jr report generation automated systems design data <b>processing</b> management 3.50 4.12 4.22 ca740110 jb january 18 1978 140 pm
+cacm-2367.html: cacm april 1972 horowitz e morgan <b>h</b> l shaw a <b>c</b> computers society social implications course proposal 1.0 1.52 2.1 ca720406 jb january 31 1978 106 pm
+cacm-2787.html: cacm march 1975 johnston <b>h</b> <b>c</b> hoare <b>c</b> a r binary matrices matrix reduction tight set school timetable construction structured programming 3.51 4.9 5.39 ca750301 jb january 10 1978 903
+cacm-2906.html: cacm november 1977 hammer m owe w g kruskal v j wladawsky i high level language nonprocedural language data flow language business application business data <b>processing</b> structured programming modular programming format specification design methodology 3.50 4.22 4.32 ca771110 jb december 27 1977 706
+cacm-0849.html: cacm may 1963 sussenguth jr e <b>h</b> ca630518 jb march 14 1978 1049
+cacm-2050.html: cacm june 1970 damerau f j content analysis parsing syntactic analysis natural language <b>processing</b> information retrieval language analysis text <b>processing</b> 3.42 3.71 ca700605 jb february 13 1978 1143
+cacm-1846.html: technique <b>find</b> method simulating parallel events report found
+cacm-0674.html: application ibm 1620 edp methods calculation formation constants complex irons cacm november 1963 <b>andrews</b> a <b>c</b> hassler j decou f ca631118 jb march 13 1978 318 pm
+cacm-2231.html: cacm january 1971 chang s pattern reconstruction <b>image</b> reconstruction data compression pattern recognition integral geometry 3.63 5.30 ca710103 jb february 8 1978 1233 pm
+cacm-0415.html: <b>digital</b> computers western germany cacm december 1962 schuff <b>h</b> k ca621224 jb march 17 1978 432 pm
+cacm-1665.html: automatic generation efficient lexical processors finite state techniques practical application theory finite-state automata generate lexical processors dealt tutorial <b>article</b> aed rword system developed m part aed-1 system
+cacm-1695.html: system operated entirely <b>digital</b> display unit interacts directly user permits easy rapid transitions phases modeling process
+cacm-3156.html: computing connected components parallel computers present parallel algorithm n2 processors <b>find</b> connected components undirected graph vertices time olog2n
+cacm-2004.html: cacm september 1970 bouknight w j half-tone computer graphics line-scan <b>image</b> <b>processing</b> hidden surface polygonal surface structure presentations 4.9 ca700901 jb february 10 1978 227 pm
+cacm-1233.html: conventions symbols preparation flowcharts information <b>processing</b> systems a standard working paper paper intended outline conventions considered flowcharts information <b>processing</b> systems
+cacm-1590.html: utterances recorded normal <b>noise</b> level computer room band-compressed phase-distorted manner
+cacm-0615.html: cacm april 1962 hellerman <b>h</b> ca620402 jb march 20 1978 229 pm
+cacm-1824.html: cacm november 1969 balzer r m farber d j text <b>processing</b> string <b>processing</b> symbol manipulation pl/i bnf syntax parser translator pattern matching 4.12 4.13 4.20 4.22 4.29 ca691106 jb february 15 1978 1244 pm
+cacm-0195.html: cacm may 1960 <b>patterson</b> g w ca600502 jb march 22 1978 133 pm
+cacm-1423.html: <b>applications</b> numerical analysis widely existing algorithms fairly complicated require considerable storage space
+cacm-1261.html: modeling simulation <b>digital</b> networks simulation <b>digital</b> networks <b>digital</b> computer engineer effective means analyzing time-quantized logical behavior
+cacm-1181.html: present <b>applications</b> <b>include</b> cardiac-output calculations radio-activity tracer studies neurophysiology time-sequence studies nerve impulses
+cacm-1363.html: cacm october 1966 martin w <b>c</b> paulson k <b>c</b> sashkin l ca661004 jb march 2 1978 405 pm
+cacm-2174.html: stable marriage problem <b>original</b> work gale shapley assignment method stable marriage criterion extended <b>find</b> stable marriage assignments
+cacm-0606.html: method eliminating ambiguity due signal coincidence <b>digital</b> design cacm april 1962 kaiser <b>c</b> j ca620411 jb march 20 1978 216 pm
+cacm-1325.html: cacm january 1965 whipple g <b>h</b> dickson j f horibe <b>h</b> stark l ca650112 jb march 8 1978 227 pm
+cacm-1197.html: <b>finding</b> zeros polynomial q-d algorithm method finds simultaneously zeros polynomial developed <b>h</b> rutishauser tested number polynomials real coefficients
+cacm-0089.html: routine <b>find</b> solution simultaneous linear equations polynomial coefficients cacm april 1959 larson e <b>h</b> marshall d p ca590403 jb march 22 1978 712 pm
+cacm-0078.html: apparent sequential computers <b>digital</b> analog solve initial problems boundary problems <b>mathematical</b> process found compensate machines inadequacy
+cacm-0531.html: person-matching electronic methods record linkage updating accomplished establishments preassigned number, payroll number, customer number, social security number.
+cacm-2314.html: requirements advanced programming systems list <b>processing</b> list <b>processing</b> systems designed facilitate production large programs manipulate large complex symbolic data stores
+cacm-2484.html: cacm july 1973 huang j <b>c</b> data base data-base management information retrieval information structure organization storage allocation tree graph 3.70 3.73 3.74 5.32 ca730702 jb january 23 1978 114 pm
+cacm-1415.html: automatic derivation microsentences <b>decomposition</b> long complex english sentences shorter kernel-like constituent sentences microsentenceshas suggested avenue conducting automatic retrieval natural language messages
+cacm-2130.html: segmentation techniques proposed <b>c</b> v ramamoorthy <b>subject</b> limitations arise preferred segment size compatible physical restrictions imposed computing equipment
+cacm-1721.html: intersection point determined identified <b>singular</b> point modifications applied system ensure <b>singular</b> point stable ie
+cacm-1445.html: computer teach introductory statistics obvious aid calculation offered computer forces change curricula mathematics, statistics, physics, engineering courses.
+cacm-1691.html: comparison correlational behavior random number generators ibm 360 hutchinson states new prime modulo multiplicative congruential pseudorandom generator attributed d <b>h</b> lehmer passed usual statistical tests random number generators
+cacm-2702.html: hand <b>subject</b> grammar problem parameters complexity problem depends strongly representation chosen k specifically shown problem np-complete expressed unary
+cacm-2262.html: garbage collection virtual memory computer systems list <b>processing</b> typically growing demand space program execution
+cacm-1195.html: uplifts-university pittsburgh linear tandem system series computer programs developed operational <b>processing</b> national aeronautics space administration linear system ibm 1401-7090 combined data <b>processing</b> system
+cacm-0670.html: pertinent propriety data <b>processing</b> banks nonbank entities rendering service charge bank depositors
+cacm-1428.html: cacm may 1966 rockwell jr m a shubin <b>h</b> weil m <b>h</b> meagher p f ca660509 jb march 3 1978 949
+cacm-1700.html: if search time logical <b>product</b> using operation mask similarly constructed question mask equal question mask question words present store item
+cacm-0595.html: guides teaching cobol teaching cobol divided main <b>subject</b> areas.
+cacm-0894.html: cacm march 1963 luther <b>h</b> a ca630326 jb march 14 1978 1251 pm
+cacm-2289.html: particular parallelized algorithms presented solution spanning tree distance path problems direct <b>applications</b> wire routing pert chart analysis analysis types networks
+cacm-1519.html: system oriented mode batch <b>processing</b> system such atlas supervisor ibsys gecos multiaccess system resembling user ctss multics simultaneously depending installation adjust schedulers
+cacm-1961.html: efficient search algorithm <b>find</b> elementary circuits graph theoretically efficient search algorithm presented exhaustive search <b>find</b> elementary circuits graph
+cacm-2486.html: <b>include</b> representation special characters foreign alphabets <b>mathematical</b> symbols etc
+cacm-1571.html: user-oriented time-shared online system existing system planned additions data <b>processing</b> laboratory brain research institute ucla described
+cacm-1855.html: cacm august 1969 dewar <b>h</b> bratley p syntactic analysis language <b>processing</b> language analysis parsing analysis procedure recognition procedure english sentences linguistics psycholinguistics transformational grammar limited dictionary predictive analysis 3.42 3.36 ca690808 jb february 15 1978 524 pm
+cacm-2313.html: <b>original</b> concepts split terms adopted refer concepts
+cacm-2041.html: shellsort algorithm 201 $m1 cacm june 1970 chandler j p harrison w <b>c</b> sorting minimal storage sorting <b>digital</b> computer sorting 5.31 ca700614 jb february 13 1978 1029
+cacm-0931.html: systematic mistake analysis <b>digital</b> computer programs cacm february 1963 miller j <b>c</b> maloney <b>c</b> j ca630202 jb march 14 1978 223 pm

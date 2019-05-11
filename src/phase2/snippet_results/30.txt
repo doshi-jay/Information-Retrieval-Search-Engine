@@ -1,0 +1,100 @@
+cacm-3142.html: cacm may 1979 sterling t errors <b>systems</b> errors billing errors management <b>systems</b> consumers 2.0 2.1 2.12 2.2 3.50 3.52 3.55 4.19 4.6 ca790503 dh june 5 1979 321 pm
+cacm-2341.html: variety graphical problems <b>including</b> flowcharting bargraphs logic diagrams mathematical-equation formation <b>text</b> justification preparation programmed printer appears easy natural way
+cacm-2876.html: intentional resolution privacy protection database <b>systems</b> traditionally privacy protection database <b>systems</b> understood control information user database
+cacm-2871.html: logical analysis programs present <b>systems</b> verification computer programs incomplete intermediate inductive assertions provided manually user termination proven incorrect programs treated
+cacm-1926.html: cacm march 1969 berns g m <b>text</b> processing indexing printing documentation <b>text</b> editing <b>formatting</b> frequency dictionary justification vocabulary 3.74 3.75 3.9 ca690301 jb february 20 1978 945
+cacm-2572.html: accepting inevitability desirability technology should 1 sure feasibility internally externally proposed 2 project wait complementary techniques 3 evaluate projected supplementary techniques 4 establish existence demand proposed 5 take steps involve representative group ultimate users <b>systems</b> design 6 carefully think side effects man world view
+cacm-1470.html: <b>examples</b> frequently list processing languages illustrate forms described
+cacm-2864.html: characteristics program localities term "locality" denote subset program's segments referenced phase execution.
+cacm-0084.html: survey progress trend development automatic data processing business management control <b>systems</b> federal government december 1957-ii part 2 ca590406 cacm may 1959 ca590502 jb march 22 1978 642 pm
+cacm-1457.html: data manipulation programming problems automatic information retrieval automatic information retrieval programs require manipulation variety data structures <b>including</b> linear <b>text</b> sparse matrices tree list structures
+cacm-1908.html: study known attempt evaluate <b>systems</b> predominant user population decade-the professionals who nonprogrammers computer aid decision-making problem-solving programming end itself
+cacm-3011.html: management utilization computers american local governments traditional concepts management information <b>systems</b> mis bear relation information <b>systems</b> top management local governments
+cacm-2987.html: representation many-sided polygons polygonal lines rapid processing representation polygons polygonal lines sets consecutive sides collectively examined.
+cacm-2931.html: <b>examples</b> give wide-ranging mathematical answers queries machine
+cacm-3088.html: <b>examples</b> provided illustrate equations compute effective processing time record expected timesharing response time balanced unbalanced resource utilization conditions
+cacm-2541.html: freedom simplified incremental compilation <b>systems</b> addressing structure centralized communication mechanisms enabling construction hierarchical subsystems
+cacm-0397.html: card format sufficient identify material reference books <b>articles</b> programming terms hardware terms equipment machine <b>systems</b> abbreviations etc suitable standard card reference information processing
+cacm-0195.html: code?
+cacm-0248.html: proprietary mathematical programming?-impressions panel discussion panel discussion "what proprietary mathematical programming?"
+cacm-2375.html: choice utility function measure total performance <b>including</b> system oriented individual request oriented measures described
+cacm-1196.html: applications differential equations general problem solving large class problems leading digital computer processing formulated terms numerical solution <b>systems</b> ordinary differential equations.
+cacm-0724.html: profile programmer synopsis: 549 members acm participated study concerned primarily attitudes programmers careers jobs.
+cacm-3065.html: brother trees insertion deletion provided class (or one-sided) brother trees (log n) performance.
+cacm-2344.html: optimization performance time-sharing <b>systems</b> simulation simulation model time-sharing system finite noncontiguous store infinite auxiliary store study variation system parameters store size number jobs allowed execute simultaneously job-scheduling algorithm etc
+cacm-2947.html: sitar interactive <b>text</b> processing system small computers sitar low-cost teractive <b>text</b> handling <b>text</b> analysis system nontechnical users ways comparable teractive bibliographical search retrieval <b>systems</b> additional features
+cacm-2583.html: guidelines humanizing computerized information <b>systems</b> report stanley house cacm november 1974 sterling t d humanization social implication management information <b>systems</b> regulations social behavioral sciences philosophy 1.5 2 3.3 3.4 3.5 ca741101 jb january 16 1978 1053
+cacm-2165.html: general relativity application algebraic manipulative <b>systems</b> paper describes applications symbolic algebra <b>systems</b> problems general relativity <b>including</b> derivation field equations petrov classification metric solution field equations presence matter simple case
+cacm-3089.html: performance rollback recovery <b>systems</b> intermittent failures mathematical model transaction-oriented system intermittent failures proposed
+cacm-0718.html: experiment automatic verification programs effective compiler replacing explicit verification, cost technique?
+cacm-2312.html: present future scientific computation pessimistic forecast expected happen application computers physical sciences.
+cacm-2909.html: unnecessary diversity notation syntactic definitions?
+cacm-1099.html: professional computer work blind developments computer technology opened professional opportunities intelligent blind.
+cacm-2343.html: proposal establish pseudo virtual memory writable overlays computer <b>systems</b> solve executable storage size problems large programs overlays
+cacm-2988.html: memory management response time paper presents computationally tractable methodology <b>including</b> accurately effects finite memory size workload memory requirements queueing network models computer <b>systems</b>
+cacm-2882.html: data retrieval <b>systems</b> organized database organizations <b>including</b> inverted list threaded list cellular list organizations hybrid combinations <b>systems</b>
+cacm-0104.html: digital simulation discrete flow <b>systems</b> discrete flow <b>systems</b> discussed characterized movement randomly arriving items interacting channels
+cacm-1747.html: cacm may 1968 van horn e c computer design computer design criteria computer <b>systems</b> computer <b>systems</b> design input equipment input equipment design operating <b>systems</b> operating <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed system design virtual computers programming languages programming language design program semantics programming language semantics determinism reproducibility repeatability deterministic computers protection memory protection information security information privacy computing reliability debugging program debugging program testing parallel processing parallel programming multiprocessing 2.11 4.12 4.13 4.20 4.30 4.42 4.43 5.24 6.20 6.35 ca680509 jb february 23 1978 906
+cacm-1267.html: performance <b>systems</b> data transmission transfer rate information bits -an asa tutorial standard information thruput characteristic <b>systems</b> performance discussed
+cacm-3179.html: overview eft symposium increasingly recognized large-scale technologies eft potential aiding solution societal problems.
+cacm-1383.html: implications digital computer education mathematical sciences digital computer profoundly altered definition interesting mathematics.
+cacm-3173.html: psychology learning basic paper addresses question: person know learning basic programming?
+cacm-1616.html: tensor calculations computer: appendix main <b>text</b> paper [comm.
+cacm-2634.html: evaluation statistical software social sciences hundred college university computer installations offer types statistical packages general use.
+cacm-1097.html: algorithm converting integers base base known, simple algorithm integer conversion number <b>systems</b> presented proved.
+cacm-2786.html: system typesetting mathematics paper describes design implementation system typesetting mathematics.
+cacm-1112.html: test run garbled <b>text</b> correct identifications made 95 percent error types
+cacm-3150.html: high level languages enabled programmer escape intricacies machines order code higher level programming <b>systems</b> provide means understand manipulate complex <b>systems</b> components
+cacm-1324.html: <b>systems</b> range conversation machine programs make sentences pictures <b>systems</b> translate english logical calculi
+cacm-2314.html: requirements advanced programming <b>systems</b> list processing list processing <b>systems</b> designed facilitate production large programs manipulate large complex symbolic data stores
+cacm-2631.html: information-theoretic approach <b>text</b> searching direct access <b>systems</b> direct access computer bibliographic information attempt made overcome problems information retrieval namely maintenance large dictionaries greater part infrequently
+cacm-1435.html: design computer simulation experiments industrial <b>systems</b> aim paper provide background information existing literature experimental design techniques applicable design computer simulation experiments industrial <b>systems</b>
+cacm-2812.html: cacm december 1976 nunamaker j f jr konsynski b r jr ho t singer c computer-aided analysis information <b>systems</b> logical system design problem statement language problem statement analyzer physical system design accurately defined <b>systems</b> <b>systems</b> optimization design algorithm 2.44 3.50 4.33 4.9 8.1 ca761203 jb january 3 1978 231 pm
+cacm-3025.html: pdp-10s contributions computing technology include accelerating transition batch oriented time sharing computing <b>systems</b> transferring hardware technology dec and elsewhere minicomputer design manufacturing supporting minicomputer hardware software development serving model single user timeshared interactive minicomputer/microcomputer <b>systems</b>
+cacm-2859.html: model limiting behavior system yields approximate results simple model suggests results valid larger class models <b>including</b> nearly real <b>systems</b> simple model tested measurements program behavior simulations <b>systems</b> memory references real programs
+cacm-1001.html: copyright aspects computer usage paper concerned question constitutes infringement copyright book nondramatic literary work work fed computer indexed, analyzed, partially reprinted, utilized computer produce eye-readable output.
+cacm-1248.html: automatic simplification computer programs presented paper problem writing program examine program perform simplifications detected argument-program's form alone, knowledge supposed do.
+cacm-1413.html: vision technology education educational technology fashionable.
+cacm-2305.html: "plankalkul" konrad zuse: forerunner today's programming languages plankalkul attempt korrad zuse 1940's devise notational conceptual system writing today termed program.
+cacm-2519.html: problem communicating complex information nature difficulty involved communicating mathematical results scientists computer based information retrieval system examined.
+cacm-2764.html: intelligent analyzer understander english paper describes working analysis generation program natural language, handles paragraph length input.
+cacm-2835.html: recursion analysis compiler optimization simple method detection recursive procedures presented compiler optimization.
+cacm-0300.html: cobol: sample problem simplified merchandise control problem chosen presenting cobol users potential users computing systems.
+cacm-0633.html: simulation analysis biochemical <b>systems</b> (iii.
+cacm-1652.html: code non-numeric information processing applications online <b>systems</b> code specifically designed simplify internal information processing operations online computer system respect non-numeric applications maximize transfer rate information channel linking system system user
+cacm-1711.html: computer needs lawyer liability negligence, torts (such slander credit) liability theories express implied warranty (guarantees) discussed, legal complications explained, users, operators, owners, leasors computers alerted potential legal problems.
+cacm-2030.html: algorithm appears complementary algorithm s kuno respects <b>including</b> space-time trade-off degree context dependence involved
+cacm-2739.html: restriction language computer grammars natural language past years number <b>systems</b> computer analysis natural language sentences based augmented context-free grammars context-free grammar defines set clean trees sentence group restrictions tree conform order valid sentence analysis
+cacm-1698.html: statistical model console behavior multiuser computers ability computer system communicate world efficiently important ability perform computations efficiently.
+cacm-2989.html: empirical evaluation features instruction set processor architectures paper presents methods empirical evaluation features instruction set processors (isps).
+cacm-2629.html: offers number features seldom found larger operating <b>systems</b> <b>including</b> 1 hierarchical system incorporating demountable volumes 2 compatible file device inter-process i/o 3 ability initiate asynchronous processes 4 system command language selectable per-user basis 5 100 subsystems <b>including</b> dozen languageshis paper discusses nature implementation system user command interface
+cacm-0533.html: need technique arises testing performance data processing engineering <b>systems</b> inputs corrupted correlated noise of known form required
+cacm-2738.html: concept transparency design hierarchically structured <b>systems</b> paper deals design hierarchically structured programming <b>systems</b>
+cacm-3134.html: normal multiplication tables information storage retrieval paper describes method organization retrieval attribute based information <b>systems</b> normal multiplication table directory information system
+cacm-1739.html: object program accepts <b>text</b> searched input produces signal time embedded string <b>text</b> matches regular expression
+cacm-1415.html: authors conclude microsentences quality achieved open prospects improving performance automatic message retrieval <b>systems</b> practical man-machine <b>systems</b> human monitors select preferred syntactic interpretation sentence
+cacm-2990.html: effective information retrieval term accuracy performance information retrieval <b>systems</b> evaluated number ways.
+cacm-1856.html: <b>text</b> program seen input it comprehends <b>text</b> correctly relating explicit implicit assertion <b>text</b> large memory
+cacm-2311.html: cacm july 1972 benjamin r i computing milieu management data processing hardware <b>systems</b> software <b>systems</b> <b>systems</b> development process functional <b>systems</b> management <b>systems</b> 2.0 3.50 4.0 6.20 ca720717 jb january 30 1978 1122
+cacm-2570.html: comparison list schedules parallel processing <b>systems</b> problem scheduling processors minimize execution time program consists set partially ordered tasks studied
+cacm-1012.html: formal parsing <b>systems</b> automatic syntactic analysis recently important natural language data processing syntax-directed compilers
+cacm-1625.html: automatic simplification source-language programs methods simplification applied programs written algol-like language discussed.
+cacm-2390.html: proposal computer-based interactive scientific community problems created explosion papers mathematical sciences drawbacks places research, suggested tree mathematical results terminology maintained multiterminal computer system.
+cacm-2580.html: method composing simple traditional music computer method composing musical rounds computer.
+cacm-2802.html: math computer programming structured programming proved important methodology systematic program design development.
+cacm-1517.html: methods analyzing data computer simulation experiments paper addresses problem analyzing data generated computer simulations economic systems.
+cacm-0320.html: logic-structure tables logic tables excellent developing expressing logic required procedures, operations, <b>systems</b> circuits.
+cacm-1485.html: <b>examples</b> frequently list processing languages illustrate forms described
+cacm-2749.html: significant event simulation paper compares method simulation organization, called significant event method, one, called clock pulse method, <b>examples</b> automobile traffic models.
+cacm-2907.html: optimal approach recursive programs classical fixed poin approach recursive programs suggests choosing "least defined fixed poin t" solution recursive program.
+cacm-1256.html: dynamic variable <b>formatting</b> cacm may 1965 king d r ca650515 jb march 7 1978 1253 pm
+cacm-3128.html: cacm february 1979 reed d kanodia r process synchronization interprocess communication distributed <b>systems</b> security models mutual exclusion semaphores 4.30 4.32 ca790207 dh april 12 1979 1003
+cacm-3087.html: english language question answering system large relational database typing requests english, casual users able obtain explicit answers large relational database aircraft flight maintenance data system called planes.
+cacm-2399.html: cacm january 1972 irons e t djorup f m editing <b>text</b> cathode-ray tube entry display time-sharing 3.7 4.3 ca720104 jb february 1 1978 931
+cacm-2002.html: amesplot-a higher level data plotting software system amesplot extensible software system designed make display data simple, painless, neat possible.
+cacm-2582.html: method suited <b>systems</b> primary memory managed according working set strategy
+cacm-2622.html: user authentication scheme requiring secrecy computer computer operating <b>systems</b> user authenticates entering secret password known solely system
+cacm-1977.html: interactive display approximation linear programming interactive program graphical display developed approximation data means linear combination functions (including splines) selected user.
+cacm-3175.html: breaking substitution ciphers relaxation algorithm substitution ciphers codes letter alphabet fixed substitute, word divisions change.
+cacm-1170.html: system tested 400 elementary basic english sentences <b>including</b> 300 earlier knowlton learning parser 400 sentences
+cacm-2396.html: <b>examples</b> presented demonstrate model interprets <b>text</b> resolves ambiguities adds information memory generalizes <b>examples</b> performs actions

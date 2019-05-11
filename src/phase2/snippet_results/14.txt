@@ -1,0 +1,200 @@
+cacm-3131.html: cacm march 1979 edgar a lee s number representation logarithmic arithmetic computational speed computational accuracy microcomputer <b>applications</b> applications 3.24 3.80 4.0 4.22 5.11 ca790302 dh april 12 1979 1112
+cacm-2289.html: straightforward cellular <b>implementations</b> implementations well-known serial <b>algorithms</b> algorithms problems require steps noncellular <b>implementations</b> implementations require n^2 n^3 steps
+cacm-3132.html: experiments <b>algorithms</b> algorithms <b>find</b> find central solutions pattern classification two-class pattern recognition standard technique algorithm finding hyperplanes separates classes linearly separable training set
+cacm-2890.html: quadratic adaptive routing <b>algorithms</b> algorithms analytic models store-and-forward communications network constructed <b>find</b> find <b>optimal</b> optimal message routing illustrate equilibrium stationary state maintained adaptive routing algorithm
+cacm-2819.html: <b>algorithms</b> algorithms encoding string differ slightly earlier proposals
+cacm-2674.html: results obtained <b>implementations</b> implementations show noninteractive <b>algorithms</b> algorithms significantly reduce display storage requirements cost execution time conventional raster display
+cacm-3057.html: <b>optimal</b> optimal togram matching monotone gray level transformation paper investigates problem <b>optimal</b> optimal togram matching monotone gray level transformation assigns picture points gray level gray level ti j ti tj
+cacm-2679.html: <b>algorithms</b> algorithms quickersort requires fewest comparisons <b>sort</b> sort random arrays
+cacm-2750.html: desirable obtain <b>optimal</b> optimal solution allocation problem clear number parameters involved makes intractable straight-forward solution
+cacm-3037.html: easily extended <b>find</b> find prime factorization integers 2 time proportional n cacm december 1978 gries d misra j primes <b>algorithms</b> algorithms data structures 5.25 5.24 5.29 ca781202 dh january 22 1979 1112
+cacm-2142.html: <b>algorithms</b> algorithms <b>all</b> all monte carlo methods designed solve problem
+cacm-2931.html: these however <b>applications</b> applications logic big question methods logic significance direction applied parts computability theory
+cacm-1412.html: banking information system concept large commercial banks progressed point major accounting <b>applications</b> applications automated sophisticated usage data processing equipment sought
+cacm-1886.html: generation <b>optimal</b> optimal code expressions factorization set expressions compiled methods presented increasing efficiency object code produced factoring expressions ie
+cacm-3032.html: <b>algorithms</b> algorithms accomplishing delivery store-and-forward packet switching computer network include 1 transmission separately addressed packets
+cacm-2181.html: state computer oriented curricula business schools 1970 acm committee computer education <b>management</b> management supported national science foundation grant established appraise state art develop series recommendations improving computer education <b>management</b> management
+cacm-1752.html: resource <b>management</b> management medium scale time-sharing operating system task scheduling resource balancing medium size virtual memory paging machine discussed relation combined batch processing time-sharing environment
+cacm-3112.html: cacm april 1978 baker h real-time compactinggarbage collection list processing virtual memory <b>database</b> database <b>management</b> management storage <b>management</b> management storage allocation lisp cdr-coding reference counting
+cacm-2924.html: method synthesis spline theory <b>algorithms</b> algorithms teractive means man-machine communication software static dynamic graphics display
+cacm-2900.html: problem finding <b>optimal</b> optimal set network sites locate copies file-is known be general polynomial complete
+cacm-3085.html: on algorithm <b>find</b> find order computation takes 25 percent longer <b>optimal</b> optimal time topt presented
+cacm-3075.html: cacm august 1978 hirschberg d parallel processing sorting <b>algorithms</b> algorithms bucket <b>sort</b> sort 3.74 4.34 5.25 5.31 ca780803 dh february 7 1979 1025
+cacm-1961.html: efficient search algorithm <b>find</b> find elementary circuits graph theoretically efficient search algorithm presented exhaustive search <b>find</b> find elementary circuits graph
+cacm-1423.html: <b>applications</b> applications numerical analysis widely existing <b>algorithms</b> algorithms fairly complicated require considerable storage space
+cacm-3011.html: <b>management</b> management computing prevalent governments professional <b>management</b> management practices top <b>management</b> management supportive computing tends control computing decisions department users control design implementation activities
+cacm-2174.html: stable marriage problem original work gale shapley assignment method stable marriage criterion extended <b>find</b> find stable marriage assignments.
+cacm-3033.html: optimizing decision trees heuristically guided search <b>optimal</b> optimal decision table conversion tackled literature approaches dynamic programming branch-and-bound
+cacm-1873.html: accelerating lp <b>algorithms</b> algorithms shown method computing related products accelerate pricing phase lp <b>algorithms</b> algorithms
+cacm-1724.html: generalized partial pass block <b>sort</b> sort design partial pass block <b>sort</b> sort arbitrary range key number work described
+cacm-2324.html: cacm july 1972 shanno d f weil r l integer programming linear programming mathematical programming nonlinear programming quadratic programming <b>management</b> management science operations research <b>algorithms</b> algorithms 5.41 8.3 ca720704 jb january 30 1978 314 pm
+cacm-2337.html: sorting problem complexity technique proving min-max norms sorting <b>algorithms</b> algorithms given.
+cacm-2308.html: cacm july 1972 sturman g m urban systems urban <b>applications</b> applications data acquisition data <b>management</b> management engineering analysis information systems 3.23 3.39 3.53 3.72 3.82 3.89 ca720720 jb january 30 1978 1105
+cacm-3156.html: computing connected components parallel computers present parallel algorithm n2 processors <b>find</b> find connected components undirected graph vertices time olog2n
+cacm-2263.html: conversion limited-entry decision tables <b>optimal</b> optimal near-optimal flowcharts <b>algorithms</b> algorithms <b>algorithms</b> algorithms deriving <b>optimal</b> optimal near-optimal flowcharts limited entry decision tables presented
+cacm-2314.html: system view taken focusing language features <b>algorithms</b> algorithms coded language form debugged modified made efficient run data
+cacm-0717.html: partitioning <b>algorithms</b> algorithms finite sets partitions set elements represented n-tuples positive integers
+cacm-2997.html: cacm february 1977 preparata f p hong s j computational complexity convex hull <b>optimal</b> optimal <b>algorithms</b> algorithms planar set poin ts spatial set poin ts 4.49 5.25 5.32 ca770203 jb december 30 1977 247
+cacm-2522.html: design implementation evaluation working set dispatcher behavior computer system largely dependent <b>algorithms</b> algorithms employed allocate system resources processes competing them
+cacm-3177.html: share secret paper show divide data pieces easily reconstructable pieces complete knowledge 1 pieces reveals olutely information d technique enables construction robust key <b>management</b> management schemes cryptographic systems function securely reliably misfortunes destroy half pieces security breaches expose remaining pieces
+cacm-2051.html: pl/i program assist comparative linguist practical pl/i program assist comparative linguists determine regular sound correspondences genetically related languages.
+cacm-2833.html: <b>algorithms</b> algorithms designed work systems multiple levels storage large virtual address space
+cacm-1197.html: finding zeros polynomial q-d algorithm method finds simultaneously zeros polynomial, developed h. rutishauser, tested number polynomials real coefficients.
+cacm-2481.html: <b>optimal</b> optimal distribution program buffer primary memory studied programs lifetime function
+cacm-2944.html: information <b>find</b> find actions cancel code executed grouped achieve improved efficiency
+cacm-2973.html: <b>algorithms</b> algorithms paper shown <b>optimal</b> optimal time small constant factors
+cacm-3151.html: <b>optimal</b> optimal real-time algorithm planar convex hulls algorithm construction real-time convex hull set points plane
+cacm-2627.html: addition presenting analyzing <b>algorithms</b> algorithms shown general mean-finishing-time problem independent tasks polynomial complete unlikely admit non-enumerative solution cacm july 1974 bruno j coffman e g jr sethi r minimizing mean finishing time minimizing mean flow time sequencing <b>algorithms</b> algorithms <b>optimal</b> optimal scheduling <b>algorithms</b> algorithms deterministic scheduling models 4.32 5.39 ca740704 jb january 17 1978 1256 pm
+cacm-2146.html: optimizing polyphase <b>sort</b> sort dispersion <b>algorithms</b> algorithms polyphase sorting procedure examinedhe optimum algorithm based minimizing total number unit strings read displayed
+cacm-0630.html: paper argues readability added translation process programmer enjoy utmost economy expression <b>management</b> management full valid cobol version printed give advantages readability compatibility
+cacm-2902.html: cacm november 1977 nielsen n r algorithm performancedynamic memory allocation dynamic memory <b>management</b> management dynamic storage allocation garbage collection list processing memory allocation memory <b>management</b> management programming techniques simulation simulation memory <b>management</b> management simulation techniques space allocation storage allocation 3.74 4.49 5.25 8.1 ca771114 jb december 27 1977 609
+cacm-3058.html: cacm october 1978 shneiderman b jump searching sequential files <b>management</b> management search strategies <b>database</b> database structures index searching 3.74 4.34 ca781003 dh january 29 1979 615 pm
+cacm-0724.html: profile programmer synopsis: 549 members acm participated study concerned primarily attitudes programmers careers jobs.
+cacm-0655.html: comit ir language features make comit good symbol manipulation language render suited types information retrieval programs.
+cacm-3157.html: basic approach <b>find</b> find termination function maps values program variables well-founded set termination function repeatedly reduced computation
+cacm-2834.html: efficient generation binary reflected gray code <b>applications</b> applications <b>algorithms</b> algorithms presented generate n-bit binary reflected gray code codewords fixed weight code
+cacm-2272.html: sorting natural selection family sorting <b>algorithms</b> algorithms proposed members make fuller memory space yield longer sorted strings
+cacm-2106.html: computer education graduate school <b>management</b> management years experience led belief creative design evaluation <b>management</b> management information systems requires understanding related computer technology
+cacm-2856.html: approach efficiency creating <b>optimal</b> optimal program increased substantially permitting generation <b>optimal</b> optimal programs decision tables ten twelve conditions
+cacm-3164.html: cacm september 1979 hansen w list processing data structures topological <b>sort</b> sort acyclic digraph <b>database</b> database integrity network deadlock 4.34 5.32 4.33 ca790905 db january 14 1980 1156
+cacm-1594.html: algorithm generating permutations algorithm repeated application generates permutations elements.
+cacm-3163.html: <b>optimal</b> optimal insertion algorithm one-sided height-balanced binary search trees algorithm inserting element one-sided height-balanced oshb binary search tree presented
+cacm-1433.html: note linear programming algorithm design: combinatorial problem linear programming models grow bigger bigger size, actual data memorized put magnetic tape disk, improportionality fast rise consumption computer timeo cut expense, increasing effort made design efficient algorithms.
+cacm-2081.html: <b>algorithms</b> algorithms symbol manipulation matrix expressions <b>find</b> find forms suited computation
+cacm-2450.html: words working set commonly encountered literature dealing resource allocation dearth published data program measurements hope workers field <b>find</b> find experimental evidence substantiate base theoretical work
+cacm-2500.html: resource <b>management</b> management program linked lists techniques overcome large portion overhead
+cacm-2570.html: shown <b>algorithms</b> algorithms suggested literature vary significantly execution time b-schedule coffman graham near-optimal
+cacm-2691.html: comments <b>algorithms</b> algorithms verhelst conversion limited-entry decision tables flowcharts cacm january 1974 king p j h johnson r g decision table flowcharting preprocessor <b>optimal</b> optimal programs search 3.50 3.59 4.19 4.29 4.49 5.31 ca740108 jb january 18 1978 145 pm
+cacm-2266.html: cacm november 1972 patrick m l parallel numerical <b>algorithms</b> algorithms real polynomials real zeros newtons method starting values guaranteed convergence 5.15 ca721103 jb january 27 1978 235 pm
+cacm-2877.html: cacm march 1976 allen j e cocke j program optimization data flow analysis flow graphs <b>algorithms</b> algorithms compilers 4.12 5.24 ca760303 jb january 5 1978 833
+cacm-2863.html: cacm may 1976 prieve b g fabry r s demand paging performance measurement multilevel memory systems virtual memory working set page replacement <b>algorithms</b> algorithms <b>optimal</b> optimal page replacement 4.30 4.32 ca760508 jb january 4 1978 306 pm
+cacm-3038.html: protocols presented establishment authenticated connections <b>management</b> management authenticated mail signature verification document integrity guarantee
+cacm-2368.html: cacm april 1972 chase s m graph <b>algorithms</b> algorithms graph processing shannon switching games game playing graph theory positional games demonstration programs game theory spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-0867.html: squares fitting planes surfaces dynamic programming dynamic programming recently stone, bellman gluss determine closet fit broken line segments curve interval constraint number segments fixed.
+cacm-1506.html: laconiq monitor time sharing online dialogues laconiq laboratory computer online inquiry monitor developed primarily support non-numerical <b>applications</b> applications retrieval large means dialogue system user retrieval application
+cacm-2484.html: relations <b>algorithms</b> algorithms results information structures list tree ring etc
+cacm-2692.html: <b>algorithms</b> algorithms able clip polygons irregular convex plane-faced volumes dimensions removing parts polygon lie volume
+cacm-2065.html: programming system on-line analysis biomedical images preliminary description software computer-display system special emphasis man-machine interaction.
+cacm-2188.html: approach optimum design computer graphics systems display system designers faced difficult task selecting major subsystems intelligent way.
+cacm-2650.html: order-n correction regular languages method presented calculating string b belonging regular language l nearest in number edit operations input string a viewed reasonable correction possibly erroneous string a originally intended string l calculation method presented requires time proportional a number characters a method <b>find</b> find <b>applications</b> applications information retrieval artificial intelligence spelling correction systems
+cacm-2017.html: descriptions experimental <b>sort</b> sort programs analysis performance measurement results obtained presented
+cacm-3166.html: <b>algorithms</b> algorithms well-known statistical computational literature <b>algorithms</b> algorithms specifically intended automatic computation
+cacm-2406.html: cacm december 1973 sibley e h taylor r w data definition language data storage structure data translation data base <b>management</b> management systems translation 3.51 3.70 3.73 4.29 4.82 ca731202 jb january 19 1978 258 pm
+cacm-2963.html: fast algorithm computing longest common subsequences previously published <b>algorithms</b> algorithms finding longest common subsequence sequences length best-case running time on^2
+cacm-1135.html: structure based identifying incorporating compiler aspects common processes class permits writing extremely compact programs comparatively complex <b>applications</b> applications terms tables control expressions express information characteristic application
+cacm-2483.html: specific chess <b>algorithms</b> algorithms command structure desiring chess program experimentation
+cacm-1098.html: finally authors give heuristics aid selection languages problem <b>applications</b> applications concluding languages considered distinctly superior list-processing <b>applications</b> applications
+cacm-3067.html: cacm september 1978 denning p slutz d <b>database</b> database referencing memory <b>management</b> management <b>optimal</b> optimal memory policies paging program behavior program measurement segmentation working sets 4.30 8.10 ca780905 dh february 5 1979 1120
+cacm-2716.html: cacm october 1975 smith j m yen-tang chang p relational <b>database</b> database <b>database</b> database optimization inverted file automatic programming query language data manipulation language high level language 3.70 4.13 4.33 ca751003 jb january 6 1978 1119
+cacm-3006.html: cacm march 1978 franklin m graham g gupta r anomaly memory <b>management</b> management program behavior stack <b>algorithms</b> algorithms virtual memory working set page fault frequency paging <b>algorithms</b> algorithms 4.32 4.35 4.6 8.1 ca780307 jb march 28,1978 101 pm
+cacm-2598.html: <b>algorithms</b> algorithms considered paper perform limited search and accordingly necessarily result globally <b>optimal</b> optimal solutions
+cacm-2348.html: merge <b>sort</b> sort algorithm m1 algorithm a426 cacm may 1972 bron c <b>sort</b> sort merge 5.31 ca720512 jb january 31 1978 933
+cacm-3091.html: cacm june 1978 chrysler e programmer performance standards predicting program development time program estimation techniques program development equation programming experience programmer evaluation programmer scheduling programmer productivity programming <b>management</b> management cobol programming 2.40 4.20 ca780606 dh february 26 1979 1142
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> algorithms intended reduce number comparisons required achieve desired result
+cacm-1905.html: simplex method linear programming lu decomposition standard computer <b>implementations</b> implementations dantzigs simplex method linear programming based forming inverse basic matrix updating inverse step method
+cacm-2215.html: cacm february 1971 slagle j r lee r c t sequential pattern recognition game tree searching game nature gamma procedure mini average backing-up procedure dynamic programming branch-and-bound approach <b>optimal</b> optimal solution 3.60 3.63 5.42 ca710206 jb february 8 1978 856
+cacm-3069.html: practical interprocedural data flow analysis algorithm interprocedural data flow analysis algorithm presented analyzed.
+cacm-0950.html: meant serial <b>algorithms</b> algorithms replaced algorithm consist subtasks computed knowledge results subtasks
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> algorithms constraint networks constraint satisfaction graph coloring network consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-3124.html: jenkins m nested arrays apl arrays recursive data structures trees data-driven <b>algorithms</b> algorithms theory arrays 4.22 5.29 ca790203 dh april 10 1979 341 pm
+cacm-2451.html: cacm september 1973 casey r g tree file information storage retrieval clustering search data structure data <b>management</b> management query answering 3.62 3.74 ca730904 jb january 23 1978 938
+cacm-3131.html: cacm march 1979 edgar a lee s number representation logarithmic arithmetic computational speed computational accuracy microcomputer <b>applications</b> 3.24 3.80 4.0 4.22 5.11 ca790302 dh april 12 1979 1112
+cacm-2289.html: straightforward cellular <b>implementations</b> well-known serial <b>algorithms</b> problems require steps noncellular <b>implementations</b> require n^2 n^3 steps
+cacm-3132.html: experiments <b>algorithms</b> <b>find</b> central solutions pattern classification two-class pattern recognition standard technique algorithm finding hyperplanes separates classes linearly separable training set
+cacm-2890.html: quadratic adaptive routing <b>algorithms</b> analytic models store-and-forward communications network constructed <b>find</b> <b>optimal</b> message routing illustrate equilibrium stationary state maintained adaptive routing algorithm
+cacm-2819.html: <b>algorithms</b> encoding string differ slightly earlier proposals
+cacm-2674.html: results obtained <b>implementations</b> show noninteractive <b>algorithms</b> significantly reduce display storage requirements cost execution time conventional raster display
+cacm-3057.html: <b>optimal</b> togram matching monotone gray level transformation paper investigates problem <b>optimal</b> togram matching monotone gray level transformation assigns picture points gray level gray level ti j ti tj
+cacm-2679.html: <b>algorithms</b> quickersort requires fewest comparisons <b>sort</b> random arrays
+cacm-2750.html: desirable obtain <b>optimal</b> solution allocation problem clear number parameters involved makes intractable straight-forward solution
+cacm-3037.html: easily extended <b>find</b> prime factorization integers 2 time proportional n cacm december 1978 gries d misra j primes <b>algorithms</b> data structures 5.25 5.24 5.29 ca781202 dh january 22 1979 1112
+cacm-2142.html: <b>algorithms</b> <b>all</b> monte carlo methods designed solve problem
+cacm-2931.html: these however <b>applications</b> logic big question methods logic significance direction applied parts computability theory
+cacm-1412.html: banking information system concept large commercial banks progressed point major accounting <b>applications</b> automated sophisticated usage data processing equipment sought
+cacm-1886.html: generation <b>optimal</b> code expressions factorization set expressions compiled methods presented increasing efficiency object code produced factoring expressions ie
+cacm-3032.html: <b>algorithms</b> accomplishing delivery store-and-forward packet switching computer network include 1 transmission separately addressed packets
+cacm-2181.html: state computer oriented curricula business schools 1970 acm committee computer education <b>management</b> supported national science foundation grant established appraise state art develop series recommendations improving computer education <b>management</b>
+cacm-1752.html: resource <b>management</b> medium scale time-sharing operating system task scheduling resource balancing medium size virtual memory paging machine discussed relation combined batch processing time-sharing environment
+cacm-3112.html: cacm april 1978 baker h real-time compactinggarbage collection list processing virtual memory <b>database</b> <b>management</b> storage <b>management</b> storage allocation lisp cdr-coding reference counting
+cacm-2924.html: method synthesis spline theory <b>algorithms</b> teractive means man-machine communication software static dynamic graphics display
+cacm-2900.html: problem finding <b>optimal</b> set network sites locate copies file-is known be general polynomial complete
+cacm-3085.html: on algorithm <b>find</b> order computation takes 25 percent longer <b>optimal</b> time topt presented
+cacm-3075.html: cacm august 1978 hirschberg d parallel processing sorting <b>algorithms</b> bucket <b>sort</b> 3.74 4.34 5.25 5.31 ca780803 dh february 7 1979 1025
+cacm-1961.html: efficient search algorithm <b>find</b> elementary circuits graph theoretically efficient search algorithm presented exhaustive search <b>find</b> elementary circuits graph
+cacm-1423.html: <b>applications</b> numerical analysis widely existing <b>algorithms</b> fairly complicated require considerable storage space
+cacm-3011.html: <b>management</b> computing prevalent governments professional <b>management</b> practices top <b>management</b> supportive computing tends control computing decisions department users control design implementation activities
+cacm-2174.html: stable marriage problem original work gale shapley assignment method stable marriage criterion extended <b>find</b> stable marriage assignments.
+cacm-3033.html: optimizing decision trees heuristically guided search <b>optimal</b> decision table conversion tackled literature approaches dynamic programming branch-and-bound
+cacm-1873.html: accelerating lp <b>algorithms</b> shown method computing related products accelerate pricing phase lp <b>algorithms</b>
+cacm-1724.html: generalized partial pass block <b>sort</b> design partial pass block <b>sort</b> arbitrary range key number work described
+cacm-2324.html: cacm july 1972 shanno d f weil r l integer programming linear programming mathematical programming nonlinear programming quadratic programming <b>management</b> science operations research <b>algorithms</b> 5.41 8.3 ca720704 jb january 30 1978 314 pm
+cacm-2337.html: sorting problem complexity technique proving min-max norms sorting <b>algorithms</b> given.
+cacm-2308.html: cacm july 1972 sturman g m urban systems urban <b>applications</b> data acquisition data <b>management</b> engineering analysis information systems 3.23 3.39 3.53 3.72 3.82 3.89 ca720720 jb january 30 1978 1105
+cacm-3156.html: computing connected components parallel computers present parallel algorithm n2 processors <b>find</b> connected components undirected graph vertices time olog2n
+cacm-2263.html: conversion limited-entry decision tables <b>optimal</b> near-optimal flowcharts <b>algorithms</b> <b>algorithms</b> deriving <b>optimal</b> near-optimal flowcharts limited entry decision tables presented
+cacm-2314.html: system view taken focusing language features <b>algorithms</b> coded language form debugged modified made efficient run data
+cacm-0717.html: partitioning <b>algorithms</b> finite sets partitions set elements represented n-tuples positive integers
+cacm-2997.html: cacm february 1977 preparata f p hong s j computational complexity convex hull <b>optimal</b> <b>algorithms</b> planar set poin ts spatial set poin ts 4.49 5.25 5.32 ca770203 jb december 30 1977 247
+cacm-2522.html: design implementation evaluation working set dispatcher behavior computer system largely dependent <b>algorithms</b> employed allocate system resources processes competing them
+cacm-3177.html: share secret paper show divide data pieces easily reconstructable pieces complete knowledge 1 pieces reveals olutely information d technique enables construction robust key <b>management</b> schemes cryptographic systems function securely reliably misfortunes destroy half pieces security breaches expose remaining pieces
+cacm-2051.html: pl/i program assist comparative linguist practical pl/i program assist comparative linguists determine regular sound correspondences genetically related languages.
+cacm-2833.html: <b>algorithms</b> designed work systems multiple levels storage large virtual address space
+cacm-1197.html: finding zeros polynomial q-d algorithm method finds simultaneously zeros polynomial, developed h. rutishauser, tested number polynomials real coefficients.
+cacm-2481.html: <b>optimal</b> distribution program buffer primary memory studied programs lifetime function
+cacm-2944.html: information <b>find</b> actions cancel code executed grouped achieve improved efficiency
+cacm-2973.html: <b>algorithms</b> paper shown <b>optimal</b> time small constant factors
+cacm-3151.html: <b>optimal</b> real-time algorithm planar convex hulls algorithm construction real-time convex hull set points plane
+cacm-2627.html: addition presenting analyzing <b>algorithms</b> shown general mean-finishing-time problem independent tasks polynomial complete unlikely admit non-enumerative solution cacm july 1974 bruno j coffman e g jr sethi r minimizing mean finishing time minimizing mean flow time sequencing <b>algorithms</b> <b>optimal</b> scheduling <b>algorithms</b> deterministic scheduling models 4.32 5.39 ca740704 jb january 17 1978 1256 pm
+cacm-2146.html: optimizing polyphase <b>sort</b> dispersion <b>algorithms</b> polyphase sorting procedure examinedhe optimum algorithm based minimizing total number unit strings read displayed
+cacm-0630.html: paper argues readability added translation process programmer enjoy utmost economy expression <b>management</b> full valid cobol version printed give advantages readability compatibility
+cacm-2902.html: cacm november 1977 nielsen n r algorithm performancedynamic memory allocation dynamic memory <b>management</b> dynamic storage allocation garbage collection list processing memory allocation memory <b>management</b> programming techniques simulation simulation memory <b>management</b> simulation techniques space allocation storage allocation 3.74 4.49 5.25 8.1 ca771114 jb december 27 1977 609
+cacm-3058.html: cacm october 1978 shneiderman b jump searching sequential files <b>management</b> search strategies <b>database</b> structures index searching 3.74 4.34 ca781003 dh january 29 1979 615 pm
+cacm-0724.html: profile programmer synopsis: 549 members acm participated study concerned primarily attitudes programmers careers jobs.
+cacm-0655.html: comit ir language features make comit good symbol manipulation language render suited types information retrieval programs.
+cacm-3157.html: basic approach <b>find</b> termination function maps values program variables well-founded set termination function repeatedly reduced computation
+cacm-2834.html: efficient generation binary reflected gray code <b>applications</b> <b>algorithms</b> presented generate n-bit binary reflected gray code codewords fixed weight code
+cacm-2272.html: sorting natural selection family sorting <b>algorithms</b> proposed members make fuller memory space yield longer sorted strings
+cacm-2106.html: computer education graduate school <b>management</b> years experience led belief creative design evaluation <b>management</b> information systems requires understanding related computer technology
+cacm-2856.html: approach efficiency creating <b>optimal</b> program increased substantially permitting generation <b>optimal</b> programs decision tables ten twelve conditions
+cacm-3164.html: cacm september 1979 hansen w list processing data structures topological <b>sort</b> acyclic digraph <b>database</b> integrity network deadlock 4.34 5.32 4.33 ca790905 db january 14 1980 1156
+cacm-1594.html: algorithm generating permutations algorithm repeated application generates permutations elements.
+cacm-3163.html: <b>optimal</b> insertion algorithm one-sided height-balanced binary search trees algorithm inserting element one-sided height-balanced oshb binary search tree presented
+cacm-1433.html: note linear programming algorithm design: combinatorial problem linear programming models grow bigger bigger size, actual data memorized put magnetic tape disk, improportionality fast rise consumption computer timeo cut expense, increasing effort made design efficient algorithms.
+cacm-2081.html: <b>algorithms</b> symbol manipulation matrix expressions <b>find</b> forms suited computation
+cacm-2450.html: words working set commonly encountered literature dealing resource allocation dearth published data program measurements hope workers field <b>find</b> experimental evidence substantiate base theoretical work
+cacm-2500.html: resource <b>management</b> program linked lists techniques overcome large portion overhead
+cacm-2570.html: shown <b>algorithms</b> suggested literature vary significantly execution time b-schedule coffman graham near-optimal
+cacm-2691.html: comments <b>algorithms</b> verhelst conversion limited-entry decision tables flowcharts cacm january 1974 king p j h johnson r g decision table flowcharting preprocessor <b>optimal</b> programs search 3.50 3.59 4.19 4.29 4.49 5.31 ca740108 jb january 18 1978 145 pm
+cacm-2266.html: cacm november 1972 patrick m l parallel numerical <b>algorithms</b> real polynomials real zeros newtons method starting values guaranteed convergence 5.15 ca721103 jb january 27 1978 235 pm
+cacm-2877.html: cacm march 1976 allen j e cocke j program optimization data flow analysis flow graphs <b>algorithms</b> compilers 4.12 5.24 ca760303 jb january 5 1978 833
+cacm-2863.html: cacm may 1976 prieve b g fabry r s demand paging performance measurement multilevel memory systems virtual memory working set page replacement <b>algorithms</b> <b>optimal</b> page replacement 4.30 4.32 ca760508 jb january 4 1978 306 pm
+cacm-3038.html: protocols presented establishment authenticated connections <b>management</b> authenticated mail signature verification document integrity guarantee
+cacm-2368.html: cacm april 1972 chase s m graph <b>algorithms</b> graph processing shannon switching games game playing graph theory positional games demonstration programs game theory spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-0867.html: squares fitting planes surfaces dynamic programming dynamic programming recently stone, bellman gluss determine closet fit broken line segments curve interval constraint number segments fixed.
+cacm-1506.html: laconiq monitor time sharing online dialogues laconiq laboratory computer online inquiry monitor developed primarily support non-numerical <b>applications</b> retrieval large means dialogue system user retrieval application
+cacm-2484.html: relations <b>algorithms</b> results information structures list tree ring etc
+cacm-2692.html: <b>algorithms</b> able clip polygons irregular convex plane-faced volumes dimensions removing parts polygon lie volume
+cacm-2065.html: programming system on-line analysis biomedical images preliminary description software computer-display system special emphasis man-machine interaction.
+cacm-2188.html: approach optimum design computer graphics systems display system designers faced difficult task selecting major subsystems intelligent way.
+cacm-2650.html: order-n correction regular languages method presented calculating string b belonging regular language l nearest in number edit operations input string a viewed reasonable correction possibly erroneous string a originally intended string l calculation method presented requires time proportional a number characters a method <b>find</b> <b>applications</b> information retrieval artificial intelligence spelling correction systems
+cacm-2017.html: descriptions experimental <b>sort</b> programs analysis performance measurement results obtained presented
+cacm-3166.html: <b>algorithms</b> well-known statistical computational literature <b>algorithms</b> specifically intended automatic computation
+cacm-2406.html: cacm december 1973 sibley e h taylor r w data definition language data storage structure data translation data base <b>management</b> systems translation 3.51 3.70 3.73 4.29 4.82 ca731202 jb january 19 1978 258 pm
+cacm-2963.html: fast algorithm computing longest common subsequences previously published <b>algorithms</b> finding longest common subsequence sequences length best-case running time on^2
+cacm-1135.html: structure based identifying incorporating compiler aspects common processes class permits writing extremely compact programs comparatively complex <b>applications</b> terms tables control expressions express information characteristic application
+cacm-2483.html: specific chess <b>algorithms</b> command structure desiring chess program experimentation
+cacm-1098.html: finally authors give heuristics aid selection languages problem <b>applications</b> concluding languages considered distinctly superior list-processing <b>applications</b>
+cacm-3067.html: cacm september 1978 denning p slutz d <b>database</b> referencing memory <b>management</b> <b>optimal</b> memory policies paging program behavior program measurement segmentation working sets 4.30 8.10 ca780905 dh february 5 1979 1120
+cacm-2716.html: cacm october 1975 smith j m yen-tang chang p relational <b>database</b> <b>database</b> optimization inverted file automatic programming query language data manipulation language high level language 3.70 4.13 4.33 ca751003 jb january 6 1978 1119
+cacm-3006.html: cacm march 1978 franklin m graham g gupta r anomaly memory <b>management</b> program behavior stack <b>algorithms</b> virtual memory working set page fault frequency paging <b>algorithms</b> 4.32 4.35 4.6 8.1 ca780307 jb march 28,1978 101 pm
+cacm-2598.html: <b>algorithms</b> considered paper perform limited search and accordingly necessarily result globally <b>optimal</b> solutions
+cacm-2348.html: merge <b>sort</b> algorithm m1 algorithm a426 cacm may 1972 bron c <b>sort</b> merge 5.31 ca720512 jb january 31 1978 933
+cacm-3091.html: cacm june 1978 chrysler e programmer performance standards predicting program development time program estimation techniques program development equation programming experience programmer evaluation programmer scheduling programmer productivity programming <b>management</b> cobol programming 2.40 4.20 ca780606 dh february 26 1979 1142
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> intended reduce number comparisons required achieve desired result
+cacm-1905.html: simplex method linear programming lu decomposition standard computer <b>implementations</b> dantzigs simplex method linear programming based forming inverse basic matrix updating inverse step method
+cacm-2215.html: cacm february 1971 slagle j r lee r c t sequential pattern recognition game tree searching game nature gamma procedure mini average backing-up procedure dynamic programming branch-and-bound approach <b>optimal</b> solution 3.60 3.63 5.42 ca710206 jb february 8 1978 856
+cacm-3069.html: practical interprocedural data flow analysis algorithm interprocedural data flow analysis algorithm presented analyzed.
+cacm-0950.html: meant serial <b>algorithms</b> replaced algorithm consist subtasks computed knowledge results subtasks
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> constraint networks constraint satisfaction graph coloring network consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-3124.html: jenkins m nested arrays apl arrays recursive data structures trees data-driven <b>algorithms</b> theory arrays 4.22 5.29 ca790203 dh april 10 1979 341 pm
+cacm-2451.html: cacm september 1973 casey r g tree file information storage retrieval clustering search data structure data <b>management</b> query answering 3.62 3.74 ca730904 jb january 23 1978 938

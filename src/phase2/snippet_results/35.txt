@@ -1,0 +1,100 @@
+cacm-2932.html: cacm september 1977 rabin m o complexity computations <b>algebraic</b> complexity tractable problems <b>probabilistic</b> <b>algorithms</b> 5.25 ca770901 jb december 28 1977 654
+cacm-2836.html: <b>algorithm</b> presented constructing optimal derivation tree structure weighted derivation tree
+cacm-1474.html: tests <b>probabilistic</b> models propagation roundoff errors prolonged computation generally assumed accumulated effect roundoff errors sense statistical
+cacm-3175.html: breaking substitution ciphers relaxation <b>algorithm</b> substitution ciphers codes letter alphabet fixed substitute word divisions change
+cacm-2580.html: cacm november 1974 rader g m artificial intelligence heuristic programming models cognitive processes computer music computer composition music theory formal languages <b>probabilistic</b> grammars 3.44 3.65 5.23 ca741104 jb january 16 1978 1035
+cacm-2166.html: automated <b>algebraic</b> <b>manipulation</b> celestial mechanics paper consider applications automated <b>algebraic</b> <b>manipulation</b> made celestial mechanics
+cacm-2560.html: queuing model multiprogrammed computer two-level storage system results presented analysis <b>probabilistic</b> model multiprogrammed computer system two-level storage system sequential dependency accesses devices
+cacm-2681.html: dynamic memory repacking <b>probabilistic</b> model multiprogramming system exercised order determine conditions dynamic repacking main memory beneficial
+cacm-3071.html: <b>algorithm</b> <b>symbolic</b> techniques bel-petrov classification gravitational fields note <b>algorithm</b> presented <b>symbolic</b> calculation <b>algebraic</b> invariants weyl tensor permits determination bel-petrov types gravitational <b>field</b>
+cacm-2165.html: cacm august 1971 barton d fitch j p <b>symbolic</b> mathematicsnonnumerical mathematics general relativity <b>algebraic</b> <b>manipulation</b> equation <b>manipulation</b> 1.3 3.11 5.10 ca710807 jb february 2 1978 253 pm
+cacm-2090.html: <b>symbolic</b> expansion <b>algebraic</b> expressions <b>algorithm</b> 377 $r2 cacm march 1970 levine m j algebra <b>symbolic</b> algebra <b>symbolic</b> multiplication <b>algebraic</b> distribution <b>algebraic</b> multiplication distribution <b>algorithm</b> multiplication <b>algorithm</b> product <b>algorithm</b> <b>polynomial</b> distribution <b>polynomial</b> expansion 3.10 3.17 3.20 4.13 4.90 ca700308 jb february 13 1978 349 pm
+cacm-2516.html: hierarchical storage information retrieval <b>probabilistic</b> analysis employed determine effect hierarchical storage organizations information retrieval operations
+cacm-1696.html: <b>algorithm</b> identifying ergodic subchains transient states stochastic matrix <b>algorithm</b> identifying ergodic subchains transient states stochastic matrix presented
+cacm-2437.html: number keys selected key space suitably weighted accordance <b>algorithm</b> average performance transformation methods potential methods
+cacm-2167.html: cacm august 1971 moses j <b>algebraic</b> <b>manipulation</b> <b>algebraic</b> simplification canonical simplification 3.1 3.2 3.6 4.9 5.2 5.9 ca710805 jb february 2 1978 342 pm
+cacm-2567.html: exponential method solution systems ordinary differential equations explicit, coupled, single-step method numerical solution initial problems systems ordinary differential equations presented.
+cacm-1935.html: cacm february 1969 arora s r dent w t binary pattern examination graph theory information retrieval mathematical model partitioning <b>probabilistic</b> method random sequencing search techniques tree structures 3.74 5.32 ca690203 jb february 20 1978 1115
+cacm-2645.html: cacm june 1974 ccohen j zuckerman c programming languages syntax-directed translation <b>symbolic</b> <b>manipulation</b> program efficiency analysis <b>algorithms</b> 4.12 4.20 5.24 5.25 ca740601 jb january 17 1978 348 pm
+cacm-2323.html: cacm july 1972 moses j <b>algebraic</b> <b>manipulation</b> special functions <b>algebraic</b> simplification <b>symbolic</b> integration <b>algebraic</b> geometry differential algebra 1.50 3.15 5.19 5.9 ca720705 jb january 30 1978 307 pm
+cacm-2414.html: arithmetic overa <b>finite</b> <b>field</b> a1 <b>algorithm</b> a469 cacm november 1973 lam c mckay j algebra 5.19 ca731112 jb january 20 1978 925
+cacm-0717.html: partitioning <b>algorithms</b> <b>finite</b> sets partitions set elements represented n-tuples positive integers
+cacm-2266.html: highly parallel <b>algorithm</b> approximating zeros <b>polynomial</b> real zeros <b>algorithm</b> based newtons method simultaneously approximates zeros <b>polynomial</b> real zeros
+cacm-1893.html: roots polynomials root-squaring resultant routine <b>algorithm</b> 340 c2 cacm may 1969 noltemeier a root finders roots <b>polynomial</b> equations <b>polynomial</b> zeros root-squaring operations graeffe method resultant procedure subresultant procedure <b>testing</b> roots acceptance criteria 5.15 ca690517 jb february 17 1978 229 pm
+cacm-0719.html: variable width stacks character addressable variable <b>field</b> computers permit ready establishment <b>manipulation</b> variable width stacks
+cacm-1386.html: <b>symbolic</b> factoring polynomials variables <b>algorithm</b> finding <b>symbolic</b> factors multi-variate <b>polynomial</b> integer coefficients presented
+cacm-2402.html: application standard pattern recognition <b>algorithms</b> hindered fact cross-correlation model correct structure computed fundamental incompleteness measured data
+cacm-2931.html: <b>examples</b> give wide-ranging mathematical answers queries machine
+cacm-1154.html: multi-tape infinite-state automata survey survey machines powerful <b>finite</b> automata powerful general turing machines presented
+cacm-1667.html: roots polynomials root-squaring resultant routine <b>algorithm</b> 340 c2 cacm november 1968 noltemeier a root finders roots <b>polynomial</b> equations <b>polynomial</b> zeros root-squaring operations graeffe method resultant procedure subresultant procedure <b>testing</b> roots acceptance criteria 5.15 ca681112 jb february 21 1978 224 pm
+cacm-1806.html: cacm december 1969 bach h downhill method complex relaxation method complex iteration complex equation transcendental complex equation <b>algebraic</b> complex equation 5.15 ca691206 jb february 15 1978 254 pm
+cacm-1397.html: proceedings acm symposium <b>symbolic</b> <b>algebraic</b> <b>manipulation</b> acm symposium <b>symbolic</b> <b>algebraic</b> <b>manipulation</b> brought hundred people interested programming languages designed <b>manipulation</b> <b>algebraic</b> formulas symbol strings applications <b>algorithms</b> implementation
+cacm-2450.html: words working set commonly encountered literature <b>dealing</b> resource allocation dearth published data program measurements hope workers <b>field</b> find experimental evidence substantiate base theoretical work
+cacm-1214.html: experiments <b>algebraic</b> <b>manipulation</b> computer set subroutines allow <b>algebraic</b> manipulations ibm 7094 computer written list processor slip
+cacm-2385.html: zeros complex <b>polynomial</b> c2 <b>algorithm</b> a419 cacm february 1972 jenkins m a traub j f roots roots <b>polynomial</b> zeros <b>polynomial</b> 5.15 ca720206 jb january 31 1978 414 pm
+cacm-2490.html: efficient <b>algorithms</b> graph <b>manipulation</b> h <b>algorithm</b> a447 efficient <b>algorithms</b> presented partitioning graph connected components biconnected components simple paths
+cacm-1392.html: concrete <b>examples</b> provided formac expand differentiation <b>algorithms</b> basic formac utility routine experiment extraction skeletal structure expression
+cacm-1393.html: pm, system <b>polynomial</b> <b>manipulation</b> pm
+cacm-2283.html: thinning <b>algorithms</b> rectangular hexagonal triangular arrays report thinning <b>algorithms</b> developed rectangular hexagonal triangular arrays
+cacm-1948.html: survey important <b>algorithms</b> contrasted results obtained existing programs indicated
+cacm-1743.html: reliable full-duplex transmission half-duplex telephone lines field-proven scheme achieving reliable duplex transmission half-duplex communication line presented, demonstrate difficulty problem, similar scheme, slightly unreliable, presented.
+cacm-1595.html: fundamental results established leading <b>algorithm</b> enumerating <b>finite</b> topologies computed results 7 interesting side result computational work unearthing theoretical error induced literature computer combinatorics represents chronologically early application side result underscores continuing usefulness area
+cacm-0284.html: <b>manipulation</b> <b>algebraic</b> expressions <b>algorithm</b> algebraically manipulating expressions form sumcipi i1n developed conjunction development programs systems analysis problems
+cacm-0179.html: evaluation legendre <b>polynomial</b> pnx recursion <b>algorithm</b> cacm june 1960 galler g m ca600611 jb march 20 1978 935 pm
+cacm-0180.html: evaluation laguerre <b>polynomial</b> lnx recursion <b>algorithm</b> cacm june 1960 galler g m ca600610 jb march 20 1978 936 pm
+cacm-0181.html: evaluation hermite <b>polynomial</b> hnx recursion <b>algorithm</b> cacm june 1960 galler g m ca600609 jb march 20 1978 937 pm
+cacm-0182.html: evaluation chebyshev <b>polynomial</b> tnx recursion <b>algorithm</b> cacm june 1960 galler g m ca600608 jb march 20 1978 938 pm
+cacm-1524.html: stopping criterion <b>polynomial</b> root finding searching root <b>polynomial</b> generally difficult know accept number adequate approximation root
+cacm-1619.html: error-free methods statistical computations neely discussed computational error generated <b>algorithms</b> compute statistics.
+cacm-1862.html: universities <b>especially</b> strong european traditions adapt slowly academic resources disciplines superimposed severe technological economic constraints developing nation
+cacm-3203.html: grad assistant program <b>symbolic</b> <b>algebraic</b> <b>manipulation</b> differentiation general recursive algebra differentiation assistant grad assistant development set lisp functions symbolically manipulate abd differentiate <b>algebraic</b> expressions
+cacm-0892.html: <b>examples</b> typical application significant features machine implementation given
+cacm-1020.html: free <b>field</b> read <b>algorithm</b> 239 i5 cacm august 1964 mckeeman w m ca640810 jb march 9 1978 656 pm
+cacm-2767.html: comparison simulation event list <b>algorithms</b> <b>algorithms</b> considered schedule events general purpose discrete simulation system
+cacm-0265.html: multi-precision arithmetic symbol <b>manipulation</b> bit <b>manipulation</b> expanded character set input-output visual display
+cacm-1644.html: computation squares polynomials rounding error accumulated digital computation squares <b>polynomial</b> makes computed <b>polynomial</b> approximation true square polynomial.
+cacm-2956.html: need notation iterating elements <b>finite</b> set instead narrow i 1 notation domain array data type need simple notation allowing types parameters parameters but restrictive fashion resulting problems conversion values type another
+cacm-1999.html: optimal starting approximations generating square root slow divide machine slow division, preferable iterative scheme square root classical heron scheme.
+cacm-2399.html: crt editing system test-editing <b>manipulation</b> program described.
+cacm-1411.html: comparison <b>algorithms</b> computation means standard deviations correlation coefficients <b>algorithms</b> computation basic statistics compared performance systematically generated test data
+cacm-3006.html: anomalies variable partition paging <b>algorithms</b> types anomalous behavior occur paged virtual memory operating systems redefined
+cacm-1121.html: comments "a continued operation notation"* note intended clarify correct points recent paper describing notations symbol <b>manipulation</b> m. barnett [comm.
+cacm-1433.html: note linear programming <b>algorithm</b> design combinatorial problem linear programming models grow bigger bigger size actual data memorized put magnetic tape disk improportionality fast rise consumption computer timeo cut expense increasing effort made design efficient <b>algorithms</b>
+cacm-2081.html: <b>algorithms</b> symbol <b>manipulation</b> matrix expressions find forms suited computation
+cacm-1589.html: dialog conversational programming system graphical orientation dialog <b>algebraic</b> language online graphical input-output console device
+cacm-2702.html: complexity lrk <b>testing</b> problem determining arbitrary context-free grammar member easily parsed subclass grammars lrk grammars considered
+cacm-2202.html: finally <b>examples</b> problem-oriented programming considered resulting coding compared system/360 assembly language version technology normalized
+cacm-3018.html: covering edges cliques regard keyword conflicts intersection graphs kellerman presented method determining keyword conflicts heuristic <b>algorithm</b> solves combinatorial optimization problem connection method
+cacm-2809.html: positivity norms lines joint work a. s. householder, character <b>algebraic</b> methods theory norms demonstrated.
+cacm-2094.html: <b>examples</b> illustrate <b>algorithm</b> give satisfactory results <b>and</b> particular successfully solve problems lead difficulties conventional specialist method
+cacm-2231.html: reconstruction binary patterns projections horizontal vertical projections <b>finite</b> binary pattern f construct original pattern f
+cacm-2997.html: convex hull <b>algorithm</b> requires <b>on</b> log n operations time complexity proposed <b>algorithms</b> optimal multiplicative constant
+cacm-0327.html: zeros real <b>polynomial</b> resultant procedure <b>algorithm</b> 59 cacm may 1961 bareiss e h fisherkeller m a ca610507 jb march 16 1978 1101 pm
+cacm-2199.html: sparse matrix package part i f4 <b>algorithm</b> 408 cacm april 1971 mcnamee j m matrix sparse matrix matrix <b>manipulation</b> 5.14 ca710406 jb february 3 1978 320 pm
+cacm-2164.html: <b>symbolic</b> integration stormy decade approaches <b>symbolic</b> integration 1960s described
+cacm-1049.html: paper <b>examples</b> discusses <b>finite</b> difference method non-linear two-point boundary-value problems
+cacm-1946.html: <b>algorithm</b> euclidean <b>algorithm</b> multivariate <b>polynomial</b> equations 4.40 5.10 5.15 5.41 ca690103 jb february 20 1978 1210 pm
+cacm-2471.html: learning program plays partnership dominoes learning program written basic play four-player partnership dominoes.
+cacm-2217.html: experiments automatic learning multipurpose heuristic program automatic learning capability developed implemented multiple (multipurpose program learns) heuristic tree-searching program, presently applied resolution theorem-proving predicate calculus.
+cacm-0393.html: subroutines symbol <b>manipulation</b> <b>algebraic</b> compiler cacm february 1961 carr iii j w hanson j w ca610205 jb march 17 1978 1259
+cacm-3078.html: cacm july 1978 chattergy r pooch u computer-aided algebra symbol <b>manipulation</b> markov process reliability redundant structures on-line computer system
+cacm-1197.html: finding zeros <b>polynomial</b> q-d <b>algorithm</b> method finds simultaneously zeros <b>polynomial</b> developed h rutishauser tested number polynomials real coefficients
+cacm-1624.html: automatic dimensioning <b>examples</b> <b>algorithm</b> accomplish automatic storage reservation need explicit array declarations described
+cacm-2341.html: cacm june 1972 gimpel j f character <b>manipulation</b> output formatting string processing graphics nonnumerical programming snobol4 data types two-dimensional mathematics test processing flowcharting 4.22 4.41 ca720604 jb january 30 1978 438 pm
+cacm-3031.html: first shown <b>algebraic</b> axiomatizations simplify process proving correctness implementation abstract data type
+cacm-2746.html: efficient string matching aid bibliographic search paper describes simple efficient <b>algorithm</b> locate occurrences <b>finite</b> number keywords string text
+cacm-2963.html: fast <b>algorithm</b> computing longest common subsequences previously published <b>algorithms</b> finding longest common subsequence sequences length best-case running time on^2
+cacm-1334.html: mechanization tedious algebra: newcomb operators planetary theory computer program written generate tables formulas newcomb operators planetary theory.
+cacm-2169.html: cacm august 1971 hall jr a d <b>symbolic</b> algebra rational function <b>manipulation</b> <b>polynomial</b> <b>manipulation</b> interpreters translators 4.13 4.29 ca710803 jb february 2 1978 417 pm
+cacm-2096.html: experiments & tree-searching program & procedure improvement mini-max backing-up procedure widely computer program game-playing purposes.
+cacm-2554.html: reduction band-symmetric generalized eigenvalue problem <b>algorithm</b> reducing generalized eigenvalue problem ax lambda bx ordinary problem case symmetric band matrices positive definite
+cacm-0111.html: programming numerical solution <b>polynomial</b> equations numerical techniques presented computing roots <b>polynomial</b> equations
+cacm-1145.html: git-a heuristic program <b>testing</b> pairs directed line graphs isomorphism pair directed line graphs problem ascertaining isomorphic efficient algorithmic solution known
+cacm-2950.html: criterion implementation efficiency <b>algorithm</b> developed results definition time-invariant <b>algorithms</b> include commonly implemented ones
+cacm-1612.html: essential weakness method <b>dealing</b> complicated syntactic structures practice sparsely occupied eg arithmetic expressions
+cacm-2170.html: applications symbol <b>manipulation</b> theoretical physics paper surveys applications <b>symbolic</b> computation techniques problems theoretical physics
+cacm-1144.html: digital computer determination alpha source activity technique determining activity homogeneity alpha source.
+cacm-1924.html: number page-pulls required matrix <b>manipulation</b> <b>algorithms</b> studied function number pages main memory <b>algorithm</b>
+cacm-1870.html: techniques pseudorandom numbers computer simulation <b>algorithm</b> uniform pseudorandom integers construct binary numbers probability bit word 1-bit assume desired parameter value
+cacm-2410.html: recurrence scheme converting orthogonal expansion generalization scheme hamming converting <b>polynomial</b> pnx chebyshev series combined recurrence scheme clenshaw summing <b>finite</b> series terms satisfy three-term recurrence formula
+cacm-1847.html: <b>algorithm</b> finding fundamental set cycles graph fast method presented finding fundamental set cycles undirected <b>finite</b> graph

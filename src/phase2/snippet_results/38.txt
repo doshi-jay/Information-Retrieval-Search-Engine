@@ -1,0 +1,100 @@
+cacm-3142.html: consumer difficulties computerized transactions: empirical investigation prevalence errors encountered end targets computerized process assessed.
+cacm-2082.html: syntax-directed documentation pl 360 language pl 360 <b>phrase</b> structure grammar concrete basis illustrating idea called syntax-directed documentation
+cacm-2233.html: example turned <b>entire</b> process simulated encoding schemes machine analyzed signatures synthetic codes encoded messages hand texts variety methods obtain signatures
+cacm-3031.html: cacm december 1978 guttag j horowitz e musser d <b>abstract</b> <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification 4.34 5.24 ca781208 dh january 18 1979 251 pm
+cacm-1931.html: application <b>i</b> determinants program test set functions form chebyshev system presented
+cacm-2931.html: experience independent workers method <b>data</b> <b>types</b> lattices or partial orderings information content ordering continuous mappings demonstrated flexibility approach providing definitions proofs clean undue dependence implementations
+cacm-0595.html: unfortunately historical <b>data</b> concerning students programming proficiency non-existent and best difficult measure
+cacm-2470.html: cacm august 1973 maclennan b j semantics formal systems lambda-calculus extensible languages <b>data</b> <b>types</b> modes axioms correctness formal language definition formal description <b>data</b> structures description languages models computation 4.22 5.21 5.24 5.26 ca730804 jb january 23 1978 1101
+cacm-2354.html: implementing clenshaw-curtis quadrature ii computing cosine transformation companion paper <b>this</b> <b>i</b> methodology experiences automatic clenshaw-curtis quadrature scheme quadrature formula scheme requires cosine transformation integrand values shown
+cacm-1861.html: cacm august 1969 arden b w galler b <b>a</b> graham r m mad definitions operators macros higher level language 4.12 4.22 ca690802 jb february 15 1978 607 pm
+cacm-1698.html: claim made virtual console behaves actual console <b>entire</b> collection virtual consoles models collection actual consoles
+cacm-2941.html: specific topics addressed are <b>module</b> structure defining abstractions data-structuring facilities mesa equivalence algorithm <b>types</b> <b>type</b> coercions benefits <b>type</b> system breached occasionally difficulty making treatment variant records safe
+cacm-2956.html: need notation iterating elements finite set instead narrow <b>i</b> 1 notation domain array <b>data</b> <b>type</b> need simple notation allowing <b>types</b> parameters parameters <b>but</b> restrictive fashion resulting problems conversion values <b>type</b> another
+cacm-2897.html: <b>contexts</b> concatenate statement code produced compiler expansion-optimization strategy compares favorably code produced conventional pl/i optimizing compiler
+cacm-2369.html: paper describes polygon comparison scheme relationships polygons classified tree <b>types</b> discusses relationship changed pair polygons rotation axis
+cacm-1519.html: cacm november 1967 oestreicher m d bailey m j strauss j <b>i</b> ca671101 jb february 27 1978 147 pm
+cacm-2568.html: formulation <b>is</b> nondirected network partition nodes minimal number subsets members subset connected anarc
+cacm-2002.html: cacm september 1970 hirschsoln <b>i</b> computer graphics <b>data</b> potting <b>data</b> display syntax hardware independent software display device independent software plot elements self-scaled plots user interaction tablet organization map display projection 4.13 4.29 4.49 4.9 ca700903 jb february 10 1978 208 pm
+cacm-2867.html: n flon l cooprider l incremental machine design <b>module</b> <b>data</b> <b>type</b> address space virtual memory 4.0 4.30 4.35 ca760504 jb january 4 1978 333 pm
+cacm-2631.html: cacm june 1974 barton <b>i</b> j creasey s e lynch m f snell m j text searching information theory organization direct access information retrieval character string bit vector 3.42 3.70 3.73 3.74 5.6 ca740615 jb january 17 1978 207 pm
+cacm-3105.html: programming languages access control <b>data</b> <b>types</b> <b>abstract</b> <b>data</b> <b>types</b> <b>type</b> checking capabilities 4.20 4.35 ca780502 dh february 26 1979 319 pm
+cacm-0497.html: remarks line segment curve-fitting dynamic programming recent paper, bellman showed dynamic programming determine solution problem previously considered stone.
+cacm-2906.html: cacm november 1977 hammer m owe w g kruskal v j wladawsky <b>i</b> high level language nonprocedural language <b>data</b> flow language business application business <b>data</b> processing structured programming modular programming format specification design methodology 3.50 4.22 4.32 ca771110 jb december 27 1977 706
+cacm-2145.html: cacm november 1971 aramaki <b>i</b> kawabata t kazuhiko <b>a</b> heuristic etching-pattern layout wiring design printed circuit board maze-running lees algorithm 3.24 3.66 4.9 6.9 ca711104 jb february 2 1978 1058
+cacm-1012.html: directed production analyzer itxp nondeterministic pushdown-store machine internal vocabulary <b>i</b> input vocabulary t productions form za ay1 ym z yi elements set element set t context-free language analyzed directed production analyzer
+cacm-1974.html: cacm november 1970 conrow k smith r g logical analysis pl/i source reformatting pl/i source documentation aid execution time usage <b>data</b> 1.52 4.12 4.19 4.42 ca701104 jb february 10 1978 840
+cacm-1470.html: principal ways getting inputs routines 1 referring <b>data</b> itself 2 referring <b>data</b> name 3 referring implicitly means variables functions
+cacm-2051.html: output list correspondence <b>types</b> frequency occurrence <b>data</b> separate listing correspondence word-pairs showing correspondence unless relative arbitrarily chosen cutoff point
+cacm-2970.html: achieving specific accuracy simulation output analysis paper extends regenerative property queueing systems analysis simulation output.
+cacm-3177.html: share secret paper show divide <b>data</b> pieces easily reconstructable pieces complete knowledge 1 pieces reveals olutely information d technique enables construction robust key management schemes cryptographic systems function securely reliably misfortunes destroy half pieces security breaches expose remaining pieces
+cacm-1569.html: implementing phrase-structure productions pl/i method implementing productions context-free <b>phrase</b> structure grammar pl/i procedure structure statements parallel structure notation grammar
+cacm-2850.html: symbolic execution program testing paper describes symbolic execution programs.
+cacm-2572.html: accepting inevitability desirability technology should 1 <b>sure</b> feasibility internally externally proposed 2 project wait complementary techniques 3 evaluate projected supplementary techniques 4 establish existence demand proposed 5 take steps involve representative group ultimate users systems design 6 carefully think side effects man world view
+cacm-2815.html: high-level binding low-level linkers easy implement scheme compiler enforce agreement complex <b>data</b> <b>types</b> separately compiled modules.
+cacm-1166.html: macros translation symbolic assembly language computer set macro-operations prepared assist translating ibm 7090 symbolic assembly language programs ibm 7040 machine language programs.
+cacm-0616.html: hoped report read <b>a</b> avid interest programming language designers implementors <b>interested</b> developing theoretical approach <b>data</b> processing b interest understanding professional programmers systems analysts c appreciation businessman-analyst-manager
+cacm-2406.html: cacm december 1973 sibley e h taylor r w <b>data</b> definition language <b>data</b> storage structure <b>data</b> translation <b>data</b> base management systems translation 3.51 3.70 3.73 4.29 4.82 ca731202 jb january 19 1978 258 pm
+cacm-2536.html: telecommunications front-end minicomputer front-end minicomputer provide varied remote terminal access large scale computer considered.
+cacm-2993.html: cacm february 1977 kotiah t c t steinberg d <b>i</b> linear programming cycling queueing models 5.41 5.9 ca770208 jb december 30 1977 211
+cacm-1162.html: assembly language reprogramming complete reprogramming compiler language programs seldom necessary.
+cacm-0718.html: experiment automatic verification programs effective compiler replacing explicit verification, cost technique?
+cacm-0452.html: nesting statement (algorithm 137) cacm november, 1962 dahm, d. m. wells, m. ca621109 jb march 17, 1978 6:15 pm
+cacm-1062.html: symbol manipulation fortran-sasp subroutines set subroutines fortran purpose synthesize output strings <b>i</b> input strings analyzed shadow general syntactic analysis subroutine reported earlier and/or ii packed bcd strings formed way
+cacm-3057.html: optimal togram matching monotone gray level transformation paper investigates problem optimal togram matching monotone gray level transformation, assigns picture points gray level gray level t(i) > j, t(i) > t(j).
+cacm-2666.html: cacm april 1974 smith g sefton <b>i</b> m combinatorial multi-index problem conditions schedule school timetable timetable 3.51 5.39 ca740404 jb january 18 1978 1002
+cacm-2682.html: cacm march 1974 sreenivasan k kleinman <b>a</b> j benchmarks calibration drive workload input simulation probability distribution representative workload synthetic workload workload characteristics 5.5 5.9 8.1 ca740301 jb january 18 1978 1246 pm
+cacm-0243.html: n-dimensional codes detecting correcting multiple errors paper introduces family codes detecting correcting multiple errors binary-coded message.
+cacm-2177.html: graph represented <b>i</b> ordered list edges ii packed adjacency matrix
+cacm-2208.html: entries filed <b>entire</b> hierarchy expression derived expected number entries filed first-level storehis expression measure effectively first-level store <b>used</b>
+cacm-2905.html: perfect hashing functions: single probe retrieving method static sets refinement hashing retrieval item static table single probe considered.
+cacm-2729.html: comments paper t c chen <b>i</b> t ho cacm august 1975 smith <b>a</b> j binary coded decimal digits decimal <b>data</b> storage <b>data</b> compression huffman codes variable length codes 6.32 6.34 ca750806 jb january 6 1978 437 pm
+cacm-2989.html: cacm march 1977 lunde <b>a</b> computer architecture program behavior instruction sets op code utilization register structures register utilization simultaneous register lives instruction tracing execution time 6.20 6.21 6.33 ca770303 jb december 30 1977 100
+cacm-0477.html: remarks sampling tape file-i cacm october, 1962 muller, m. e. ca621003 jb march 17, 1978 7:23 pm
+cacm-1371.html: logarithm gamma function algorithm 291 s14 cacm september 1966 pike m c hill <b>i</b> d ca660909bjb march 23 1978 424 pm
+cacm-1378.html: pseudo-random numbers algorithm 266 g5 cacm september 1966 hill <b>i</b> d pike m c ca660909i jb march 23 1978 646 pm
+cacm-1407.html: confidence interval ratio algorithm 289 g1 cacm july 1966 hill <b>i</b> d pike m c ca660707c jb march 23 1978 707 pm
+cacm-1575.html: incomplete beta ratio algorithm 179 s14 cacm june 1967 pike m c hill <b>i</b> d ca670607c jb march 23 1978 329 pm
+cacm-2448.html: reversible execution cacm september, 1973 zelkowitz, m. v. debugging, pl/i, reversible execution, backtracking 4.22 4.42 ca730907 jb january 23, 1978 8:54
+cacm-1768.html: global parser context-free <b>phrase</b> structure grammars algorithm analyzing context-free <b>phrase</b> structure grammar generating program clean sentence language or sentence invalid described
+cacm-2667.html: execution characteristics programs page-on-demand system <b>data</b> presented show execution characteristics <b>types</b> commonly programs large-scale time-shared computer system
+cacm-1727.html: easier estimate sij quantities pijsijci/sumsij j1n ci arbitrary positive constant <b>i</b> pij are <b>i</b> proportional sij estimation pij easier estimate probabilities events instruction executed instruction ii
+cacm-2390.html: cacm february 1972 pager d interactive system organization scientific community readers writers commentators computer utility information retrieval trees <b>data</b> structures 1.0 1.1 1.59 2.10 3.15 3.32 3.50 3.51 3.70 3.71 3.74 3.9 ca720201 jb february 1 1978 851
+cacm-1625.html: methods implemented processor called <b>sure</b> accepts program written jovial outputs equivalent jovial program shorter executed faster original
+cacm-2971.html: sp/k: system teaching computer programming sp/k compatible subset pl/i language designed teaching programming.
+cacm-2582.html: <b>data</b> method operates extracted trace program restructured
+cacm-2139.html: implementation substring test hashing technique implementing test determines string substring another.
+cacm-0536.html: nonlinear regression solution simultaneous equations set observables (z1,...,zm) bound relation parameters (a1,...,an) equation s(z1,...;a1,...)=0, frequently problem determining set values ai minimizes sum squares differences observed calculated values distinguished observable, say zm.
+cacm-1413.html: <b>here</b> branches aspects technology generation known ideas discoveries inventions
+cacm-1482.html: bugsys: programming system picture processing-not debugging bugsys picture processing measuring system depends pictorial input computer's memory.
+cacm-2396.html: cacm january 1972 mccalla g <b>i</b> sampson j r natural language processing semantic memory text comprehension question answering artificial intelligence human memory simulation 3.36 3.42 3.62 3.65 3.74 ca720107 jb february 1 1978 920
+cacm-2380.html: tenex, paged time sharing system pdp-10 tenex time sharing system implemented dec pdp-10 augmented special paging hardware developed bbn.
+cacm-1398.html: robot <b>data</b> screening solution multivariate <b>type</b> problems biological social sciences approach outlined solution <b>type</b> multivariate problem found biological social sciences medicine
+cacm-1622.html: efficient procedure generation closed subsets efficient algorithm generating subsets set satisfy constraints form: "if s(i) member subset, s(j) member subset."
+cacm-2801.html: cacm january 1975 chi chen t ho <b>i</b> t binary-coded decimal digits decimal <b>data</b> storage 6.32 6.34 ca750110 jb january 12 1978 942
+cacm-1588.html: list-processing languages suffered inability deal directly complex <b>data</b> structures and/or inability perform complete range programming language operations <b>data</b> list structures
+cacm-1181.html: simple <b>data</b> transmission system office telephone method evolved transmitting <b>data</b> <b>type</b> originating laboratory situation direct central computer
+cacm-2959.html: cacm june 1977 zloof m m de jong s p programming language graphics user terface <b>data</b> flow forms flow <b>data</b> abstraction database query <b>data</b> processing business system specification application programming 3.73 3.74 4.22 4.33 4.34 ca770604 jb december 29 1977 125
+cacm-1323.html: correspondence algol 60 churchs lambda-notation part <b>i</b> paper describes semantics algol 60 formalized establishing correspondence expressions algol 60 expressions modified form churchs l-notation
+cacm-1676.html: lrltran compiler extensive software problems confront organization possesses number computers frequently acquires ones.
+cacm-2937.html: experimental evaluation <b>data</b> <b>type</b> conventions language programs written substantial effect reliability resulting programs
+cacm-1456.html: important conclusion <b>that</b> lisp list processing languages ideally suited producing complex associative structures inadequate vehicles language processing large scale-at east auxiliary memory continuous extension core memory
+cacm-3002.html: record partitioning model main objectives design system reduction storage <b>data</b> transfer costs.
+cacm-3033.html: paper suggest heuristically guided top-down search algorithm <b>which</b> dynamic programming recognizes identical subproblems find optimal quasi optimal solutions
+cacm-3087.html: language processing portion system number augmented transition networks <b>matches</b> phrases specific meaning context registers his tory keepers concept case frames judging meaningfulness <b>questions</b> generating dialogue clarifying partially understood <b>questions</b> resolving ellipsis pronoun reference problems
+cacm-2247.html: criteria decomposing systems modules paper discusses modularization mechanism improving flexibility ad comprehensibility system allowing shortening development time.
+cacm-0676.html: computation <b>type</b> incompletebeta functions cacm november 1963 tang <b>i</b> c ca631116 jb march 13 1978 327 pm
+cacm-2606.html: cacm september 1974 willers <b>i</b> m ordinary differential equations initial problem integration taylor series singularities continued fractions program comparison 5.17 ca740902 jb january 17 1978 906
+cacm-2252.html: essential points method are 1 syntax language restricted insof ar constructs occur lines 2 internal <b>data</b> structure called skeleton maintained represent statement structure 3 recompilation partially batched sense recompilation modified lines occur set editing commands received 4 parsing compilation factored parts individual lines globally handle relationships lines
+cacm-2957.html: <b>data</b> <b>type</b> called aggregation developed <b>which</b> criteria well-definedness specifies aggregation abstractions
+cacm-2144.html: cacm november 1971 malcolm m <b>a</b> floating-point summation error analysis 5.11 5.19 ca711105 jb february 2 1978 1048
+cacm-2939.html: cacm august 1977 liskov b snyder <b>a</b> atkinson r schaffert c programming languages <b>data</b> <b>types</b> <b>data</b> abstractions control abstractions programming methodology separate compilation 4.0 4.12 4.20 4.22 ca770804 jb december 28 1977 749
+cacm-2480.html: teaching <b>about</b> programming paper presents goals organization course programming designed provide entering students graduate program cultural enrichment professional lives
+cacm-1159.html: cacm december 1965 halpern m <b>i</b> ca651210 jb march 6 1978 344 pm
+cacm-2820.html: cacm november 1976 wilcox t r davis <b>a</b> m tindall m h interactive programming table driven compilers error correction interpreters debugging computer assisted instruction computer science education 1.5 4.12 4.13 4.42 8.2 ca761103 jb january 3 1978 337 pm
+cacm-1824.html: aparel-a parse-request language aparel described: language extension algorithmic language (pl/i) pattern-matching capabilities found special purpose languages snobol4 tmg.
+cacm-3020.html: systematic recursion removal recursion removal algorithm presented strong walker amplified applied complex pl/i program.
+cacm-2895.html: cacm december 1977 greif <b>i</b> formal specificationsprogram correctness parallel processing synchronization readers/writers problem 4.22 4.32 5.24 ca771205 dmm december 22 1977 1244 pm
+cacm-1281.html: <b>data</b> input question answer <b>data</b> input scheme time-sharing computer paper
+cacm-1769.html: computer developments hardware programming time-sharing education <b>data</b> communication displays judged effectively remove barriers barrier-smashing potentialities continued rapid expansion
+cacm-2424.html: cacm november 1973 fabry r s operating systems <b>data</b> security fault tolerance software reliability <b>data</b> privacy program verification modular computer systems 4.32 ca731102 jb january 20 1978 1056

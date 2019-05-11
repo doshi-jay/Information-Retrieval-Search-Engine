@@ -1,0 +1,200 @@
+cacm-2695.html: <b>graph</b> graph <b>theoretic</b> theoretic algorithm examines arbitrary matrix determines permuted tridiagonal form given
+cacm-2986.html: operations <b>sparse</b> sparse relations computations relations boolean <b>matrices</b> matrices directed graphs computation precedence relations context-free grammar practical algorithm asymptotically faster common use
+cacm-2769.html: cacm april 1975 warren h s jr warshalls algorithm transitive closure reachability matrix directed <b>graph</b> graph digraph boolean matrix binary relation 5.30 5.32 ca750408 jb january 9 1978 349 pm
+cacm-1563.html: method finding hamilton paths knight's tours warnsdorff's rule finding knight's tour generalized applied problem finding hamilton path graph.
+cacm-2780.html: cacm march 1975 erisman e m tinney w f <b>sparse</b> sparse <b>matrices</b> matrices triangular factorization elements inverse tridiagonal matrix sensitivities 3.24 5.14 ca750308 jb january 9 1978 434 pm
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> algorithms intended reduce number comparisons required achieve desired result
+cacm-2368.html: cacm april 1972 chase s m <b>graph</b> graph <b>algorithms</b> algorithms <b>graph</b> graph processing shannon switching games game playing <b>graph</b> graph theory positional games demonstration programs game theory spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-2490.html: efficient <b>algorithms</b> algorithms <b>graph</b> graph manipulation h algorithm a447 efficient <b>algorithms</b> algorithms presented partitioning <b>graph</b> graph connected components biconnected components simple paths
+cacm-2630.html: computing sets shortest paths <b>graph</b> graph <b>algorithms</b> algorithms presented construct shortest paths pair vertices directed <b>graph</b> graph
+cacm-2232.html: object work clarify word description made precise computer <b>algorithms</b> algorithms feature extraction obtained focus theoretical subject matter
+cacm-1457.html: data manipulation programming problems automatic information retrieval automatic information retrieval programs require manipulation variety data structures, including linear text, <b>sparse</b> sparse matrices, tree list structures.
+cacm-2289.html: major challenge effective cellular arrays solution <b>graph</b> graph problems determination <b>algorithms</b> algorithms exploit possibilities parallelism especially problems solutions inherently serial
+cacm-2484.html: note information organization storage logical structure data base represented tree <b>graph</b> graph natural view process designing data base constructing tree <b>graph</b> graph
+cacm-3152.html: storage reorganization techniques matrix computation paging environment order multiply <b>matrices</b> matrices minimizing number page fetches required efficient reorganize data submatrix form block multiplication known <b>algorithms</b> algorithms leave <b>matrices</b> matrices stored rowor columnoriented form
+cacm-2081.html: sequences <b>matrices</b> matrices and sequences sequences <b>matrices</b> matrices considered matrix operators areext ended sequence operators cumulative operators
+cacm-2877.html: cacm march 1976 allen j e cocke j program optimization data flow analysis flow graphs <b>algorithms</b> algorithms compilers 4.12 5.24 ca760303 jb january 5 1978 833
+cacm-2883.html: relations representation minimization problem dynamic programming approach discussed showing <b>graph</b> graph search method lead substantial improvements computing time
+cacm-2905.html: perfect hashing functions: single probe retrieving method static sets refinement hashing retrieval item static table single probe considered.
+cacm-3018.html: relationship edge-clique-cover problem <b>graph</b> graph coloring problem established <b>algorithms</b> algorithms problems constructed algorithm other
+cacm-2167.html: algebraic simplification: guide perplexed algebraic simplification examined point view user needs comprehend large expression, point view designer wants construct efficient system.
+cacm-1504.html: <b>algorithms</b> algorithms finding fundamental set cycles undirected linear <b>graph</b> graph adjacency matrix <b>graph</b> graph algorithm presented paper finds spanning tree constructs set fundamental cycles
+cacm-3156.html: cacm august 1979 hirschberg d chandra a sarwate d <b>graph</b> graph theory parallel processing <b>algorithms</b> algorithms transitive closure connected component 5.25 5.32 6.22 ca790802 db january 4 1980 1218 pm
+cacm-2199.html: <b>sparse</b> sparse matrix package part i f4 algorithm 408 cacm april 1971 mcnamee j m matrix <b>sparse</b> sparse matrix matrix manipulation 5.14 ca710406 jb february 3 1978 320 pm
+cacm-1423.html: applications numerical analysis widely existing <b>algorithms</b> algorithms fairly complicated require considerable storage space
+cacm-2142.html: <b>algorithms</b> algorithms all monte carlo methods designed solve problem
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> algorithms constraint networks constraint satisfaction <b>graph</b> graph coloring network consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-2557.html: <b>algorithms</b> algorithms presented properly clean matrix sequences subject constraints machine organization
+cacm-3124.html: jenkins m nested arrays apl arrays recursive data structures trees data-driven <b>algorithms</b> algorithms theory arrays 4.22 5.29 ca790203 dh april 10 1979 341 pm
+cacm-1924.html: cacm march 1969 mckellar a c coffman jr e g matrix <b>algorithms</b> algorithms array processing paging <b>algorithms</b> algorithms paged memory systems virtual memory systems array storage allocation storage allocation 4.12 4.39 5.14 ca690303 jb february 20 1978 935
+cacm-2442.html: <b>sparse</b> sparse matrix package algorithm r408 cacm september 1973 lawrence e e ca730913 jb january 23 1978 837
+cacm-2506.html: <b>sparse</b> sparse matrix package algorithm r408 cacm may 1973 sale r h j matrix <b>sparse</b> sparse matrix matrix manipulation fortran standards 5.14 ca730514 jb january 23 1978 430 pm
+cacm-2273.html: execution time considerably reduced instantly marking rules <b>applicable</b> applicable <b>algorithms</b> algorithms 1 2 conditions tested algorithm 2
+cacm-2189.html: nonoriented complete <b>graph</b> graph vertices hamitonian circuits equivalent .5n 1
+cacm-1145.html: situation similar prevailing areas game-playing theorem-proving practical <b>algorithms</b> algorithms unknown for interesting cases practical partially successful techniques available
+cacm-3164.html: pad <b>algorithms</b> algorithms presented simple path matrix representation list artificial gradient
+cacm-1727.html: cacm july 1968 kral j object program reduction supervisor calls decreasing jump frequencies estimation control transfers estimation optimal program segmentation markov chain program correspondence program <b>graph</b> graph one-entry subgraph locally estimated jump frequencies supervisor overhead decreasing program segmentation algorithm jump frequencies program segmentation problem 4.11 4.19 4.39 4.49 ca680702 jb february 22 1978 305 pm
+cacm-1886.html: factorization <b>algorithms</b> algorithms <b>applicable</b> applicable problem factoring boolean switching expressions factoring polynomials encountered symbol manipulating systems
+cacm-2216.html: analysis assume uniformly distributed branching ratios <b>applicable</b> applicable family sorting <b>algorithms</b> algorithms discussed hoare singleton van emden
+cacm-3094.html: analyses deterministic parsing <b>algorithms</b> algorithms paper describes approach determining minimum maximum average times clean sentences acceptable deterministic parser
+cacm-3176.html: storing <b>sparse</b> sparse table problem storing searching large <b>sparse</b> sparse tables ubiquitous computer science
+cacm-2172.html: <b>graph</b> graph plotter j6 algorithm 412 cacm july 1971 cermak j plot <b>graph</b> graph line printer plot 4.41 ca710710 jb february 2 1978 432 pm
+cacm-0661.html: indexing lambda-notation methods indexing sequentially stored elements <b>sparse</b> sparse multi-dimensional arrays scheme notation.
+cacm-2405.html: linear systems tridiagonal matrix f4 algorithm a470 cacm december 1973 kubicek m system linear equations tridiagonal matrix <b>sparse</b> sparse matrix 5.14 ca731203 jb january 19 1978 250 pm
+cacm-3139.html: cacm april 1979 brelaz d np-complete <b>graph</b> graph structure balancing <b>graph</b> graph coloring scheduling comparison methods 5.25 5.32 ca790405 dh june 5 1979 205 pm
+cacm-2766.html: previous bounded workspace copying <b>algorithms</b> algorithms achieved n^2 time tag bits log time tag
+cacm-1047.html: generation test <b>matrices</b> matrices similarity transformations method obtaining test <b>matrices</b> matrices prescribed distribution characteristic roots given
+cacm-2805.html: perturbations eigenvalues non-normal <b>matrices</b> matrices problem considered give bounds finite perturbations simple multiple eigenvalues nonnormal <b>matrices</b> matrices bounds terms eigenvalues departure normality frobenius norm perturbation matrix terms eigen system
+cacm-1963.html: condition numbers pei <b>matrices</b> matrices cacm november 1970 rokne j <b>matrices</b> matrices condition numbers pei <b>matrices</b> matrices eigenvectors eigenvalues 5.14 ca701116 jb february 9 1978 421 pm
+cacm-2290.html: predominators directed <b>graph</b> graph h algorithm a430 cacm august 1972 purdom jr p w moore e f predominator predominator <b>graph</b> graph theory directed <b>graph</b> graph shortest path articulation connectivity program optimization optimizing compiler 4.12 5.32 ca720812 jb january 30 1978 919
+cacm-2314.html: system view taken focusing language features <b>algorithms</b> algorithms coded language form debugged modified made efficient run data
+cacm-2453.html: method <b>applicable</b> applicable limited entry decision table require actions single rules cost testing conditions equal
+cacm-1876.html: cacm july 1969 schneider a j test <b>matrices</b> matrices positive <b>matrices</b> matrices sign patterns orthogonal transformations positive eigenvalues 5.1 5.14 ca690704 jb february 17 1978 926
+cacm-2134.html: extension munkres algorithm assignment problem rectangular <b>matrices</b> matrices assignment problem munkres proposed algorithm solution square <b>matrices</b> matrices presented first
+cacm-2177.html: representations time required analyze <b>graph</b> graph nodes increases n^g depends type <b>graph</b> graph 1 2 bounds attained
+cacm-2430.html: elementary circuits <b>graph</b> graph h algorithm a459 cacm october 1973 syslom
+cacm-2752.html: generation cycles <b>graph</b> graph set basic cycles h algorithm 492 cacm june 1975 gibbs n e basic cycle cycle <b>graph</b> graph 5.32 3.24 ca750601 jb january 9 1978 155 pm
+cacm-0070.html: construction set test <b>matrices</b> matrices paper develops equations properties set test <b>matrices</b> matrices determination accuracy routines finding inverse determinant and/or eigenvalues matrix
+cacm-1501.html: eigenvectors 2n 2n matrix known eigenvalues 2n 2n matrix obtained smaller <b>matrices</b> matrices order easily constructed.
+cacm-2133.html: algorithm assignment problem rectangular <b>matrices</b> matrices h algorithm 415 cacm december 1971 bourgeois f lassalle j c operations research optimization theory assignment problem rectangular <b>matrices</b> matrices 5.39 5.40 ca711210 jb february 2 1978 938
+cacm-2335.html: eigenvalues eigenvectors real general matrix algorithm r343 cacm june 1972 niessner h eigenvalues eigenvectors qr-algorithm nonsymmetric <b>matrices</b> matrices general <b>matrices</b> matrices 5.14 ca720610 jb january 30 1978 411 pm
+cacm-2758.html: note lu factorization symmetric matrix cacm may 1975 evans d j hatzopoulos m symmetric <b>matrices</b> matrices factorization test <b>matrices</b> matrices matrix inversion separable systems 5.14 ca750509 jb january 9 1978 226 pm
+cacm-2980.html: scheme based definitions <b>graph</b> graph properties satisfied spurious region present editing equivalent fast <b>graph</b> graph operations
+cacm-0144.html: english words form <b>sparse</b> sparse set alphabetic combinations present methods inefficient computer systems substituted terminals
+cacm-1481.html: <b>graph</b> graph plotter algorithm 278 j6 cacm february 1966 lloyd p ca660206d jb march 23 1978 730 pm
+cacm-1961.html: efficient search algorithm find elementary circuits <b>graph</b> graph theoretically efficient search algorithm presented exhaustive search find elementary circuits <b>graph</b> graph
+cacm-1983.html: spanning tree $h algorithm 399 cacm october 1970 seppanen j j <b>graph</b> graph tree spanning tree 5.32 ca701007 jb february 10 1978 924
+cacm-2161.html: algorithm blocks cutnodes <b>graph</b> graph corrigendum cacm september 1971 paton k ca710903 jb february 2 1978 224 pm
+cacm-2461.html: <b>graph</b> graph plotter algorithm r412 cacm august 1973 watkins r p ca730813 jb january 23 1978 1030
+cacm-2790.html: elementary circuits <b>graph</b> graph algorithm r459 cacm february 1975 syslo m m ca750209 jb january 12 1978 254 pm
+cacm-1707.html: cacm august 1968 hall c a porsching t a test <b>matrices</b> matrices positive <b>matrices</b> matrices similarity transformation positive eigenvalues 5.1 5.14 ca680807 jb february 22 1978 1042
+cacm-1847.html: algorithm finding fundamental set cycles <b>graph</b> graph fast method presented finding fundamental set cycles undirected finite <b>graph</b> graph
+cacm-0256.html: set test <b>matrices</b> matrices algorithm 52 cacm november 1961 dubay g h ca611112 jb march 15 1978 1046 pm
+cacm-0285.html: solution tridiagonal <b>matrices</b> matrices cacm september 1961 wenrick r c houghton a v ca610909 jb march 16 1978 939 pm
+cacm-0301.html: set test <b>matrices</b> matrices algorithm 52 cacm august 1961 gilbert h e ca610803 jb march 16 1978 1013 pm
+cacm-0315.html: solution tridiagonal <b>matrices</b> matrices cacm july 1961 wenrick r c ca610702 jb march 16 1978 1028 pm
+cacm-0349.html: set test <b>matrices</b> matrices cacm april 1961 herndon j r ca610419 jb march 16 1978 1147 pm
+cacm-0494.html: finite sequentially compact process adjoints <b>matrices</b> matrices arbitrary integral domains cacm august 1962 luther h a guseman jr l f ca620834 jb march 17 1978 904 pm
+cacm-0496.html: set <b>matrices</b> matrices testing computer programs cacm august 1962 brenner j l ca620832 jb march 17 1978 910 pm
+cacm-0660.html: test <b>matrices</b> matrices determinants inverses pracnique cacm december 1963 englar t s ca631214 jb march 13 1978 246 pm
+cacm-0749.html: note onstochastic <b>matrices</b> matrices cacm september 1963 dumey a i ca630909 jb march 13 1978 735 pm
+cacm-0751.html: note set test <b>matrices</b> matrices inversion cacm september 1963 rodman r d ca630907 jb march 13 1978 738 pm
+cacm-0777.html: set test <b>matrices</b> matrices algorithm 52 cacm august 1963 naur p ca630821 jb march 13 1978 824 pm
+cacm-0896.html: characteristic values vectors defective <b>matrices</b> matrices cacm march 1963 thompson g t ca630324 jb march 14 1978 1258 pm
+cacm-0936.html: set test <b>matrices</b> matrices algorithm 52 cacm january 1963 naur p ca630112 jb march 14 1978 235 pm
+cacm-0955.html: class <b>matrices</b> matrices test inversion procedures cacm december 1964 cline r e ca641216 jb march 9 1978 316 pm
+cacm-0956.html: family test <b>matrices</b> matrices cacm december 1964 newbery a c r ca641215 jb march 9 1978 317 pm
+cacm-2554.html: order matrix bandwidth <b>matrices</b> matrices partitioned m-by-m blocks algorithm terms blocks
+cacm-2778.html: perturbations eigenvalues non-normal <b>matrices</b> matrices corrigendum cacm march 1975 sluis a ca750310 jb january 9 1978 426 pm
+cacm-1630.html: computer representation planar regions skeletons region regarded union maximal neighborhoods points, centers radii neighborhoods; set sort of"skeleton" region.
+cacm-2699.html: automatic data structure choice language high level setl set-theoretically oriented language high level repertoire semantic objects includes finite sets, ordered n-tuples, sets ordered n-tuples usable mappings.
+cacm-2806.html: hadamard numbers <b>matrices</b> matrices discussion functions entries square matrix related hadamards determinant theorem merits alternatives norm-bound condition numbers
+cacm-3115.html: orderly enumeration nonsingular binary <b>matrices</b> matrices applied text encryption nonsingular binary <b>matrices</b> matrices order n ie nonsingular field 0 1 initial segment natural numbers one-to-one correspondence
+cacm-0828.html: incompressible flow network calculations general method calculation flows pressures fluid flow networks presented.
+cacm-2052.html: scheduling reduce conflict meetings conflicts scheduling treated defining undirected linear <b>graph</b> graph independently relation activities conflict additional constraints time space
+cacm-2619.html: <b>graph</b> graph coloring conditions existence solutions timetable problem sufficient condition presented existence solution gotlieb class-teacher timetable problem
+cacm-3085.html: o(n) algorithm determining near-optimal computation order matrix chain products paper discusses computation matrix chain products form m1 m2 ... mn mi's matrices.
+cacm-1116.html: tests computer method constructing school timetables* previously proposed computer method constructing timetables, based iteration involving boolean matrices, described.
+cacm-1822.html: shortest-path forest topological ordering algorithm h cacm november 1969 dial r b shortest path tree network directed <b>graph</b> graph 5.32 5.42 ca691108 jb february 15 1978 1221 pm
+cacm-2444.html: finding cliques undirected <b>graph</b> graph algorithm a457 cacm september 1973 bron c kerbosch j cliques maximal complete subgraphs clusters backtracking algorithm branch bound technique recursion 3.71 5.32 ca730911 jb january 23 1978 844
+cacm-2763.html: basic cycle generation h algorithm 491 cacm may 1975 gibbs n e <b>graph</b> graph basic cyclesfundamental cycle spanning tree vertex adjacency matrix 5.32 3.24 ca750504 jb january 9 1978 239 pm
+cacm-2695.html: <b>graph</b> <b>theoretic</b> algorithm examines arbitrary matrix determines permuted tridiagonal form given
+cacm-2986.html: operations <b>sparse</b> relations computations relations boolean <b>matrices</b> directed graphs computation precedence relations context-free grammar practical algorithm asymptotically faster common use
+cacm-2769.html: cacm april 1975 warren h s jr warshalls algorithm transitive closure reachability matrix directed <b>graph</b> digraph boolean matrix binary relation 5.30 5.32 ca750408 jb january 9 1978 349 pm
+cacm-1563.html: method finding hamilton paths knight's tours warnsdorff's rule finding knight's tour generalized applied problem finding hamilton path graph.
+cacm-2780.html: cacm march 1975 erisman e m tinney w f <b>sparse</b> <b>matrices</b> triangular factorization elements inverse tridiagonal matrix sensitivities 3.24 5.14 ca750308 jb january 9 1978 434 pm
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> intended reduce number comparisons required achieve desired result
+cacm-2368.html: cacm april 1972 chase s m <b>graph</b> <b>algorithms</b> <b>graph</b> processing shannon switching games game playing <b>graph</b> theory positional games demonstration programs game theory spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-2490.html: efficient <b>algorithms</b> <b>graph</b> manipulation h algorithm a447 efficient <b>algorithms</b> presented partitioning <b>graph</b> connected components biconnected components simple paths
+cacm-2630.html: computing sets shortest paths <b>graph</b> <b>algorithms</b> presented construct shortest paths pair vertices directed <b>graph</b>
+cacm-2232.html: object work clarify word description made precise computer <b>algorithms</b> feature extraction obtained focus theoretical subject matter
+cacm-1457.html: data manipulation programming problems automatic information retrieval automatic information retrieval programs require manipulation variety data structures, including linear text, <b>sparse</b> matrices, tree list structures.
+cacm-2289.html: major challenge effective cellular arrays solution <b>graph</b> problems determination <b>algorithms</b> exploit possibilities parallelism especially problems solutions inherently serial
+cacm-2484.html: note information organization storage logical structure data base represented tree <b>graph</b> natural view process designing data base constructing tree <b>graph</b>
+cacm-3152.html: storage reorganization techniques matrix computation paging environment order multiply <b>matrices</b> minimizing number page fetches required efficient reorganize data submatrix form block multiplication known <b>algorithms</b> leave <b>matrices</b> stored rowor columnoriented form
+cacm-2081.html: sequences <b>matrices</b> and sequences sequences <b>matrices</b> considered matrix operators areext ended sequence operators cumulative operators
+cacm-2877.html: cacm march 1976 allen j e cocke j program optimization data flow analysis flow graphs <b>algorithms</b> compilers 4.12 5.24 ca760303 jb january 5 1978 833
+cacm-2883.html: relations representation minimization problem dynamic programming approach discussed showing <b>graph</b> search method lead substantial improvements computing time
+cacm-2905.html: perfect hashing functions: single probe retrieving method static sets refinement hashing retrieval item static table single probe considered.
+cacm-3018.html: relationship edge-clique-cover problem <b>graph</b> coloring problem established <b>algorithms</b> problems constructed algorithm other
+cacm-2167.html: algebraic simplification: guide perplexed algebraic simplification examined point view user needs comprehend large expression, point view designer wants construct efficient system.
+cacm-1504.html: <b>algorithms</b> finding fundamental set cycles undirected linear <b>graph</b> adjacency matrix <b>graph</b> algorithm presented paper finds spanning tree constructs set fundamental cycles
+cacm-3156.html: cacm august 1979 hirschberg d chandra a sarwate d <b>graph</b> theory parallel processing <b>algorithms</b> transitive closure connected component 5.25 5.32 6.22 ca790802 db january 4 1980 1218 pm
+cacm-2199.html: <b>sparse</b> matrix package part i f4 algorithm 408 cacm april 1971 mcnamee j m matrix <b>sparse</b> matrix matrix manipulation 5.14 ca710406 jb february 3 1978 320 pm
+cacm-1423.html: applications numerical analysis widely existing <b>algorithms</b> fairly complicated require considerable storage space
+cacm-2142.html: <b>algorithms</b> all monte carlo methods designed solve problem
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> constraint networks constraint satisfaction <b>graph</b> coloring network consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-2557.html: <b>algorithms</b> presented properly clean matrix sequences subject constraints machine organization
+cacm-3124.html: jenkins m nested arrays apl arrays recursive data structures trees data-driven <b>algorithms</b> theory arrays 4.22 5.29 ca790203 dh april 10 1979 341 pm
+cacm-1924.html: cacm march 1969 mckellar a c coffman jr e g matrix <b>algorithms</b> array processing paging <b>algorithms</b> paged memory systems virtual memory systems array storage allocation storage allocation 4.12 4.39 5.14 ca690303 jb february 20 1978 935
+cacm-2442.html: <b>sparse</b> matrix package algorithm r408 cacm september 1973 lawrence e e ca730913 jb january 23 1978 837
+cacm-2506.html: <b>sparse</b> matrix package algorithm r408 cacm may 1973 sale r h j matrix <b>sparse</b> matrix matrix manipulation fortran standards 5.14 ca730514 jb january 23 1978 430 pm
+cacm-2273.html: execution time considerably reduced instantly marking rules <b>applicable</b> <b>algorithms</b> 1 2 conditions tested algorithm 2
+cacm-2189.html: nonoriented complete <b>graph</b> vertices hamitonian circuits equivalent .5n 1
+cacm-1145.html: situation similar prevailing areas game-playing theorem-proving practical <b>algorithms</b> unknown for interesting cases practical partially successful techniques available
+cacm-3164.html: pad <b>algorithms</b> presented simple path matrix representation list artificial gradient
+cacm-1727.html: cacm july 1968 kral j object program reduction supervisor calls decreasing jump frequencies estimation control transfers estimation optimal program segmentation markov chain program correspondence program <b>graph</b> one-entry subgraph locally estimated jump frequencies supervisor overhead decreasing program segmentation algorithm jump frequencies program segmentation problem 4.11 4.19 4.39 4.49 ca680702 jb february 22 1978 305 pm
+cacm-1886.html: factorization <b>algorithms</b> <b>applicable</b> problem factoring boolean switching expressions factoring polynomials encountered symbol manipulating systems
+cacm-2216.html: analysis assume uniformly distributed branching ratios <b>applicable</b> family sorting <b>algorithms</b> discussed hoare singleton van emden
+cacm-3094.html: analyses deterministic parsing <b>algorithms</b> paper describes approach determining minimum maximum average times clean sentences acceptable deterministic parser
+cacm-3176.html: storing <b>sparse</b> table problem storing searching large <b>sparse</b> tables ubiquitous computer science
+cacm-2172.html: <b>graph</b> plotter j6 algorithm 412 cacm july 1971 cermak j plot <b>graph</b> line printer plot 4.41 ca710710 jb february 2 1978 432 pm
+cacm-0661.html: indexing lambda-notation methods indexing sequentially stored elements <b>sparse</b> multi-dimensional arrays scheme notation.
+cacm-2405.html: linear systems tridiagonal matrix f4 algorithm a470 cacm december 1973 kubicek m system linear equations tridiagonal matrix <b>sparse</b> matrix 5.14 ca731203 jb january 19 1978 250 pm
+cacm-3139.html: cacm april 1979 brelaz d np-complete <b>graph</b> structure balancing <b>graph</b> coloring scheduling comparison methods 5.25 5.32 ca790405 dh june 5 1979 205 pm
+cacm-2766.html: previous bounded workspace copying <b>algorithms</b> achieved n^2 time tag bits log time tag
+cacm-1047.html: generation test <b>matrices</b> similarity transformations method obtaining test <b>matrices</b> prescribed distribution characteristic roots given
+cacm-2805.html: perturbations eigenvalues non-normal <b>matrices</b> problem considered give bounds finite perturbations simple multiple eigenvalues nonnormal <b>matrices</b> bounds terms eigenvalues departure normality frobenius norm perturbation matrix terms eigen system
+cacm-1963.html: condition numbers pei <b>matrices</b> cacm november 1970 rokne j <b>matrices</b> condition numbers pei <b>matrices</b> eigenvectors eigenvalues 5.14 ca701116 jb february 9 1978 421 pm
+cacm-2290.html: predominators directed <b>graph</b> h algorithm a430 cacm august 1972 purdom jr p w moore e f predominator predominator <b>graph</b> theory directed <b>graph</b> shortest path articulation connectivity program optimization optimizing compiler 4.12 5.32 ca720812 jb january 30 1978 919
+cacm-2314.html: system view taken focusing language features <b>algorithms</b> coded language form debugged modified made efficient run data
+cacm-2453.html: method <b>applicable</b> limited entry decision table require actions single rules cost testing conditions equal
+cacm-1876.html: cacm july 1969 schneider a j test <b>matrices</b> positive <b>matrices</b> sign patterns orthogonal transformations positive eigenvalues 5.1 5.14 ca690704 jb february 17 1978 926
+cacm-2134.html: extension munkres algorithm assignment problem rectangular <b>matrices</b> assignment problem munkres proposed algorithm solution square <b>matrices</b> presented first
+cacm-2177.html: representations time required analyze <b>graph</b> nodes increases n^g depends type <b>graph</b> 1 2 bounds attained
+cacm-2430.html: elementary circuits <b>graph</b> h algorithm a459 cacm october 1973 syslom
+cacm-2752.html: generation cycles <b>graph</b> set basic cycles h algorithm 492 cacm june 1975 gibbs n e basic cycle cycle <b>graph</b> 5.32 3.24 ca750601 jb january 9 1978 155 pm
+cacm-0070.html: construction set test <b>matrices</b> paper develops equations properties set test <b>matrices</b> determination accuracy routines finding inverse determinant and/or eigenvalues matrix
+cacm-1501.html: eigenvectors 2n 2n matrix known eigenvalues 2n 2n matrix obtained smaller <b>matrices</b> order easily constructed.
+cacm-2133.html: algorithm assignment problem rectangular <b>matrices</b> h algorithm 415 cacm december 1971 bourgeois f lassalle j c operations research optimization theory assignment problem rectangular <b>matrices</b> 5.39 5.40 ca711210 jb february 2 1978 938
+cacm-2335.html: eigenvalues eigenvectors real general matrix algorithm r343 cacm june 1972 niessner h eigenvalues eigenvectors qr-algorithm nonsymmetric <b>matrices</b> general <b>matrices</b> 5.14 ca720610 jb january 30 1978 411 pm
+cacm-2758.html: note lu factorization symmetric matrix cacm may 1975 evans d j hatzopoulos m symmetric <b>matrices</b> factorization test <b>matrices</b> matrix inversion separable systems 5.14 ca750509 jb january 9 1978 226 pm
+cacm-2980.html: scheme based definitions <b>graph</b> properties satisfied spurious region present editing equivalent fast <b>graph</b> operations
+cacm-0144.html: english words form <b>sparse</b> set alphabetic combinations present methods inefficient computer systems substituted terminals
+cacm-1481.html: <b>graph</b> plotter algorithm 278 j6 cacm february 1966 lloyd p ca660206d jb march 23 1978 730 pm
+cacm-1961.html: efficient search algorithm find elementary circuits <b>graph</b> theoretically efficient search algorithm presented exhaustive search find elementary circuits <b>graph</b>
+cacm-1983.html: spanning tree $h algorithm 399 cacm october 1970 seppanen j j <b>graph</b> tree spanning tree 5.32 ca701007 jb february 10 1978 924
+cacm-2161.html: algorithm blocks cutnodes <b>graph</b> corrigendum cacm september 1971 paton k ca710903 jb february 2 1978 224 pm
+cacm-2461.html: <b>graph</b> plotter algorithm r412 cacm august 1973 watkins r p ca730813 jb january 23 1978 1030
+cacm-2790.html: elementary circuits <b>graph</b> algorithm r459 cacm february 1975 syslo m m ca750209 jb january 12 1978 254 pm
+cacm-1707.html: cacm august 1968 hall c a porsching t a test <b>matrices</b> positive <b>matrices</b> similarity transformation positive eigenvalues 5.1 5.14 ca680807 jb february 22 1978 1042
+cacm-1847.html: algorithm finding fundamental set cycles <b>graph</b> fast method presented finding fundamental set cycles undirected finite <b>graph</b>
+cacm-0256.html: set test <b>matrices</b> algorithm 52 cacm november 1961 dubay g h ca611112 jb march 15 1978 1046 pm
+cacm-0285.html: solution tridiagonal <b>matrices</b> cacm september 1961 wenrick r c houghton a v ca610909 jb march 16 1978 939 pm
+cacm-0301.html: set test <b>matrices</b> algorithm 52 cacm august 1961 gilbert h e ca610803 jb march 16 1978 1013 pm
+cacm-0315.html: solution tridiagonal <b>matrices</b> cacm july 1961 wenrick r c ca610702 jb march 16 1978 1028 pm
+cacm-0349.html: set test <b>matrices</b> cacm april 1961 herndon j r ca610419 jb march 16 1978 1147 pm
+cacm-0494.html: finite sequentially compact process adjoints <b>matrices</b> arbitrary integral domains cacm august 1962 luther h a guseman jr l f ca620834 jb march 17 1978 904 pm
+cacm-0496.html: set <b>matrices</b> testing computer programs cacm august 1962 brenner j l ca620832 jb march 17 1978 910 pm
+cacm-0660.html: test <b>matrices</b> determinants inverses pracnique cacm december 1963 englar t s ca631214 jb march 13 1978 246 pm
+cacm-0749.html: note onstochastic <b>matrices</b> cacm september 1963 dumey a i ca630909 jb march 13 1978 735 pm
+cacm-0751.html: note set test <b>matrices</b> inversion cacm september 1963 rodman r d ca630907 jb march 13 1978 738 pm
+cacm-0777.html: set test <b>matrices</b> algorithm 52 cacm august 1963 naur p ca630821 jb march 13 1978 824 pm
+cacm-0896.html: characteristic values vectors defective <b>matrices</b> cacm march 1963 thompson g t ca630324 jb march 14 1978 1258 pm
+cacm-0936.html: set test <b>matrices</b> algorithm 52 cacm january 1963 naur p ca630112 jb march 14 1978 235 pm
+cacm-0955.html: class <b>matrices</b> test inversion procedures cacm december 1964 cline r e ca641216 jb march 9 1978 316 pm
+cacm-0956.html: family test <b>matrices</b> cacm december 1964 newbery a c r ca641215 jb march 9 1978 317 pm
+cacm-2554.html: order matrix bandwidth <b>matrices</b> partitioned m-by-m blocks algorithm terms blocks
+cacm-2778.html: perturbations eigenvalues non-normal <b>matrices</b> corrigendum cacm march 1975 sluis a ca750310 jb january 9 1978 426 pm
+cacm-1630.html: computer representation planar regions skeletons region regarded union maximal neighborhoods points, centers radii neighborhoods; set sort of"skeleton" region.
+cacm-2699.html: automatic data structure choice language high level setl set-theoretically oriented language high level repertoire semantic objects includes finite sets, ordered n-tuples, sets ordered n-tuples usable mappings.
+cacm-2806.html: hadamard numbers <b>matrices</b> discussion functions entries square matrix related hadamards determinant theorem merits alternatives norm-bound condition numbers
+cacm-3115.html: orderly enumeration nonsingular binary <b>matrices</b> applied text encryption nonsingular binary <b>matrices</b> order n ie nonsingular field 0 1 initial segment natural numbers one-to-one correspondence
+cacm-0828.html: incompressible flow network calculations general method calculation flows pressures fluid flow networks presented.
+cacm-2052.html: scheduling reduce conflict meetings conflicts scheduling treated defining undirected linear <b>graph</b> independently relation activities conflict additional constraints time space
+cacm-2619.html: <b>graph</b> coloring conditions existence solutions timetable problem sufficient condition presented existence solution gotlieb class-teacher timetable problem
+cacm-3085.html: o(n) algorithm determining near-optimal computation order matrix chain products paper discusses computation matrix chain products form m1 m2 ... mn mi's matrices.
+cacm-1116.html: tests computer method constructing school timetables* previously proposed computer method constructing timetables, based iteration involving boolean matrices, described.
+cacm-1822.html: shortest-path forest topological ordering algorithm h cacm november 1969 dial r b shortest path tree network directed <b>graph</b> 5.32 5.42 ca691108 jb february 15 1978 1221 pm
+cacm-2444.html: finding cliques undirected <b>graph</b> algorithm a457 cacm september 1973 bron c kerbosch j cliques maximal complete subgraphs clusters backtracking algorithm branch bound technique recursion 3.71 5.32 ca730911 jb january 23 1978 844
+cacm-2763.html: basic cycle generation h algorithm 491 cacm may 1975 gibbs n e <b>graph</b> basic cyclesfundamental cycle spanning tree vertex adjacency matrix 5.32 3.24 ca750504 jb january 9 1978 239 pm

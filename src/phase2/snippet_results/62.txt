@@ -1,0 +1,100 @@
+cacm-1961.html: efficient search algorithm find elementary <b>circuits</b> graph theoretically efficient search algorithm presented exhaustive search find elementary <b>circuits</b> graph
+cacm-1368.html: systematic generation hamiltonian <b>circuits</b> combinatorial matrix directed nondirected arcs paper describes computer program generates systematically exhaustively hamiltonian <b>circuits</b>
+cacm-2702.html: <b>complexity</b> lrk testing problem determining arbitrary context-free grammar member easily parsed subclass grammars lrk grammars considered
+cacm-0320.html: logic-structure tables logic tables excellent developing expressing logic required procedures, operations, systems circuits.
+cacm-2932.html: <b>complexity</b> computations framework research <b>theory</b> <b>complexity</b> computations described emphasizing terrelation seemingly diverse problems methods
+cacm-2401.html: shrinking binary picture patterns <b>parallel</b> processing algorithm shrinking binary patterns obtain single isolated elements pattern presented
+cacm-2327.html: cacm july 1972 arbib m a automata <b>theory</b> brain <b>theory</b> network <b>complexity</b> resolution redundancy potential command frog visual system reticular formation mode selection 3.36 3.65 5.22 ca720701 jb january 30 1978 346 pm
+cacm-2430.html: elementary <b>circuits</b> graph h algorithm a459 cacm october 1973 syslom
+cacm-1856.html: teachable language comprehender simulation program <b>theory</b> language teachable language comprehender tlc program designed capable taught comprehend english text
+cacm-2342.html: interference communicating <b>parallel</b> processes kinds interference communicating <b>parallel</b> processes examined dijkstra knuth others
+cacm-1925.html: concepts contour map processing generalized techniques simplify solution problems <b>relating</b> contour maps.
+cacm-1911.html: cacm april 1969 petrick s r postal p m rosenbaum p s natural languages generative grammar transformational <b>theory</b> syntax coordination sentence coordination sentence coordination coordination reduction syntactic analysis grammar testing program rule testing 3.42 ca690406 jb february 17 1978 425 pm
+cacm-3175.html: iterating updating scheme <b>results</b> improved estimates finally lead breaking cipher
+cacm-1595.html: fundamental <b>results</b> established leading algorithm enumerating finite topologies computed <b>results</b> 7 interesting side result computational work unearthing theoretical error induced literature computer combinatorics represents chronologically early application side result underscores continuing usefulness area
+cacm-2560.html: queuing model multiprogrammed computer two-level storage system <b>results</b> presented analysis probabilistic model multiprogrammed computer system two-level storage system sequential dependency accesses devices
+cacm-1309.html: computer user-oriented system computer language system developed makes fast preparation management reports, regardless computational <b>complexity</b> format variety.
+cacm-2931.html: logic programming languages logic long terested answers questions computable principle, outcome puts bounds possibilities formalization.
+cacm-2809.html: <b>results</b> concerning norms values archimedian vector lattice not necessarily totally ordered given generalization order unit norms l-norms m-norms
+cacm-2685.html: <b>parallel</b> execution loops methods developed <b>parallel</b> execution iterations loop
+cacm-2515.html: minimal event-node network project precedence relations procedure constructing minimal event-node network represent set precedence relations <b>parallel</b> activities presented.
+cacm-1725.html: simple proof lewins ordered-retrieval theorem associative memories efficient method ordered retrieval binary words associative memory lewin based special readout <b>circuits</b> digit values present individual digit columns memory
+cacm-3163.html: earlier <b>results</b> shown deletion structure performed olog n time
+cacm-3086.html: <b>complexity</b> computing measure uai bi decision tree <b>complexity</b> computing measure union possibly overlapping intervals shown n log n comparisons linear functions interval endpoints allowed
+cacm-2189.html: generation rosary permutations expressed hamiltonian <b>circuits</b> systematic generation specific class permutations fundamental scheduling problems described
+cacm-2195.html: method suitable <b>parallel</b> processing operations relative state computed <b>parallel</b> number stages equal length curves or log2 approximate method used
+cacm-0950.html: <b>parallel</b> methods integrating ordinary differential equations paper dedicated proposition that order take full advantage real-time computations highly <b>parallel</b> computers expected future numerical analysis recast <b>parallel</b> form
+cacm-2121.html: partitions natural order algorithm 371 $a1 cacm january 1970 mckay j k s partitionsnumber <b>theory</b> 5.39 ca700110 jb february 14 1978 148 pm
+cacm-3156.html: computing connected components <b>parallel</b> computers present <b>parallel</b> algorithm n2 processors find connected components undirected graph vertices time olog2n
+cacm-3096.html: result coupled earlier <b>results</b> hirschberg that basic problems insertion deletion retrieval insertion adversely affected modification avl tree
+cacm-2927.html: cacm september 1977 mairson h g computational <b>complexity</b> sieve prime number generation number <b>theory</b> linked list preprocessing balancing 5.25 5.39 ca770907 jb december 27 1977 1255 pm
+cacm-1957.html: efficiency derives evaluating expression <b>parallel</b> evaluating subexpressions sets arrive final result
+cacm-1806.html: <b>theory</b> method converges shown fundamental dilemma exists breakdown practical applications
+cacm-1948.html: computers group <b>theory</b> survey computers applied increasingly diverse range problems group <b>theory</b>
+cacm-2631.html: rectangular distribution key frequencies <b>results</b> simplified organization promises considerable cost advantages
+cacm-2580.html: appears full-blown music <b>theory</b> needed rounds-all hardware required structural levels pieces
+cacm-2255.html: comments moorers music computer composition cacm november 1972 smoliar s w artificial intelligence heuristic programming models cognitive processes computer music computer composition music <b>theory</b> 3.44 3.65 ca721114 jb january 27 1978 122 pm
+cacm-2672.html: emotional content considered dangerous cacm march 1974 smoliar s w artificial intelligence heuristic programming models cognitive processes computer music computer composition music <b>theory</b> 3.44 3.65 ca740311 jb january 18 1978 1056
+cacm-2795.html: model encompasses diverse classes linguistic knowledge include 1 executable tests conceptual properties stored discrimination nets 2 information <b>relating</b> conceptual syntactic roles stored word-sense dictionary 3 surface grammatical knowledge stored formal grammar
+cacm-3055.html: analysis algorithms dutch national flag problem solutions dutch national flag problem dijkstra [1] meyer [3].
+cacm-2232.html: <b>results</b> consist set-theoretic definition width-at-angle theorem <b>relating</b> pattern boundary radius vector descriptions alternate widths
+cacm-2368.html: cacm april 1972 chase s m graph algorithms graph processing shannon switching games game playing graph <b>theory</b> positional games demonstration programs game <b>theory</b> spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-2628.html: <b>results</b> simulation studies presented show scheduling discipline unconditionally superior other
+cacm-2889.html: performance height-balanced trees paper presents <b>results</b> simulations investigate performance height-balanced hbk trees
+cacm-2709.html: include review control structures <b>results</b> time/space limitations theorems <b>relating</b> relative power control structures notions equivalence
+cacm-2200.html: algorithms division yielding complement <b>results</b> derived numbers represented base greater one
+cacm-2997.html: cacm february 1977 preparata f p hong s j computational <b>complexity</b> convex hull optimal algorithms planar set poin ts spatial set poin ts 4.49 5.25 5.32 ca770203 jb december 30 1977 247
+cacm-1143.html: methods applied artificially-generated sets data <b>results</b> experiments radioactive tracers human animal subjects
+cacm-2220.html: cacm february 1971 shwayder k coding decision table entropy information <b>theory</b> noiseless channel sorting 3.50 5.31 ca710201 jb february 8 1978 1006
+cacm-2977.html: stage hypothesis s-curve contradictory evidence paper presents <b>results</b> study testing s-shaped budget curve nolans stage model computer development organization
+cacm-2227.html: cacm january 1971 hoare c a r proofs programs programming methodology program documentation program correctness <b>theory</b> programming 4.0 4.22 5.21 5.23 5.24 ca710107 jb february 8 1978 1040
+cacm-1567.html: representation symmetric polynomials relations symmetric polynomials light <b>theory</b> symmetric group.
+cacm-2790.html: elementary <b>circuits</b> graph algorithm r459 cacm february 1975 syslo m m ca750209 jb january 12 1978 254 pm
+cacm-2720.html: standard queueing <b>theory</b> disk drive characterized queueing model service time disk drive represented probability density function sum <b>uniform</b> distributions
+cacm-1398.html: robot data screening: solution multivariate type problems biological social sciences approach outlined solution type multivariate problem found biological social sciences medicine.
+cacm-1424.html: automatic analysis electronic digital <b>circuits</b> list processing mapping black diagrams digital <b>circuits</b> list structures described list processing program written control data 3600 mapping carry circuit analysis
+cacm-2289.html: cacm september 1972 levitt k n kautz w h graph <b>theory</b> cellular logic-in-memory arrays <b>parallel</b> processing special purpose computers algorithms distance spanning tree problems 5.32 6.22 6.5 ca720901 jb january 30 1978 916
+cacm-1727.html: part paper <b>theory</b> markov chains algorithm computation sij pij found ways obtaining estimates pij given
+cacm-0335.html: numerical experiments newtons method nonlinear parabolic ellipticboundary-value problems generalization newtons method nonlinear parabolic equation form ut-uxxgu nonlinear elliptic equation uxx+uyyexpu solved numerically comparison <b>results</b> <b>results</b> obtained picard iteration procedure show cases quisi linearization method offers substantial advantages time accuracy
+cacm-2134.html: timing <b>results</b> obtained adapted version silvers algol procedure discussed relation solution time problem size given
+cacm-0252.html: programming duplex computer system paper describes method duplex-computer programming computers military defense system.
+cacm-2784.html: cacm march 1975 floyd r w rivest r l selection computational <b>complexity</b> medians tournaments quantiles 5.30 5.39 ca750304 jb january 9 1978 452 pm
+cacm-2484.html: relations algorithms <b>results</b> information structures list tree ring etc
+cacm-2865.html: verifying properties <b>parallel</b> programs axiomatic approach axiomatic method proving number properties <b>parallel</b> programs presented
+cacm-2952.html: functions realizable word-parallel logical two's-complement addition instructions cacm june, 1977 warren, h. s. jr. boolean functions, two's-complement, sign propagation 4.0 6.32 ca770611 jb december 28, 1977 12:45 pm
+cacm-1601.html: <b>parallel</b> numerical methods solution equations classical iterative procedures numerical solution equations provide stage single approximation root question
+cacm-1664.html: derive equations method user need know coordinate transformation equations <b>relating</b> curvilinear coordinates interest orthogonal cartesian triad
+cacm-2622.html: user authentication scheme requiring secrecy computer computer operating systems user authenticates entering secret password known solely system.
+cacm-2898.html: cacm december 1977 kessels j l w <b>parallel</b> programming descriptive programming nonprocedural programming definitional language data flow programming applicative programming 4.20 ca771202 jb february 1 1980 405
+cacm-2305.html: cacm july 1972 bauer f l wossner h higher programming languages programming <b>theory</b> programming history programming 1.2 4.22 5.29 ca720723 jb january 30 1978 1046
+cacm-3157.html: proving termination multiset orderings common tool proving termination programs well-founded set, set ordered admit infinite descending sequences.
+cacm-1164.html: emulation large systems conversion problem technique called emulation discussed.
+cacm-1409.html: unusual arrangement information 22 mc memory simple interface 340 kc arithmetic unit <b>results</b> effective latency time possibilities associative memory
+cacm-1013.html: final examination scheduling method scheduling final examinations yield minimal number student conflicts described.
+cacm-1637.html: <b>results</b> expand possibilities statistical spectral analysis applied simulation experiments
+cacm-1719.html: methodology calculating optimizing real-time system performance continually increasing size <b>complexity</b> number types cost data processing systems causing re-examination government industry criteria methods calculating optimizing data processing system cost performance
+cacm-3146.html: academic program providing realistic training software engineering academic program harvey mudd college, called clinic program, brings projects industry campus studied solved student teams.
+cacm-2598.html: extending information <b>theory</b> approach converting limited-entry decision tables computer programs paper modifies earlier algorithm converting decision tables flowcharts minimize subsequent execution time compiled computer program
+cacm-1266.html: considerations <b>relating</b> purpose fortran standardization appendixes asa fortran standard cacm may 1965 ca650505 jb march 7 1978 240 pm
+cacm-2918.html: <b>results</b> terleaved memory drawn previous work comparison
+cacm-1631.html: testing random number generator 1,000,000 numbers produced random number generator general purpose systems simulator (gpss) subjected statistical tests.
+cacm-3195.html: reiteration acm policy standardization periodic change officers, chairman editors follows election occasionally <b>results</b> change policy.
+cacm-2967.html: cacm may 1977 stillman n j berra p b associative memory associative processor content-addressable memory graphics information retrieval data structures software evaluation hardware evaluation <b>parallel</b> processing database management 3.71 3.72 3.73 3.74 4.34 4.6 6.22 8.2 ca770505 jb december 29 1977 207
+cacm-3045.html: simple recovery-only procedure simple precedence parsers simple method enabling simple precedence parsers recover syntax errors.
+cacm-1334.html: mechanization tedious algebra newcomb operators planetary <b>theory</b> computer program written generate tables formulas newcomb operators planetary <b>theory</b>
+cacm-2470.html: argued system suitable set <b>theory</b> or derivatives concise accurate description program semantics
+cacm-1935.html: cacm february 1969 arora s r dent w t binary pattern examination graph <b>theory</b> information retrieval mathematical model partitioning probabilistic method random sequencing search techniques tree structures 3.74 5.32 ca690203 jb february 20 1978 1115
+cacm-2030.html: cacm july 1970 woods w a context-sensitive grammars context-sensitive parsing formal grammars formal language <b>theory</b> parsing parsing algorithms recognition algorithms 3.42 5.22 5.23 ca700707 jb february 10 1978 443 pm
+cacm-1541.html: language modeling simulating dynamic systems general objective language facilitate modeling experimental aspects simulation studies.
+cacm-2664.html: parallelism tape-sorting methods employing parallelism tape-sorting presented.
+cacm-2469.html: petri nets speed independent design petri nets investigated method modeling speed independent asynchronous circuits.
+cacm-1825.html: lrk processor constructed part using knuths algorithm conditions <b>relating</b> individual processors satisfied lrk processor entire grammar constructed them
+cacm-2740.html: number <b>parallel</b> processes carefully justified semaphore constructions explained
+cacm-1928.html: main <b>results</b> obtained clear separation structural behavioral model description reduction tasks converting boolean logic structural model elimination processes achieving exclusive simulation activity event-scheduling technique deteriorate economy event queue grows length simulation procedure deals effectively mixture serial simultaneous activities
+cacm-1638.html: mathematical proofs <b>results</b> based assumption n number items sorted infinite shown error due finiteness approaches rapidly increases
+cacm-1671.html: phonological rule tester design implementation system alleviate problem rule evaluation linguist area phonology presented.
+cacm-1932.html: logarithmic error newton's method square root problem obtaining optimal starting values calculation square root newton's method considered.
+cacm-2985.html: <b>results</b> chargeout systems characteristic advanced edp stage environments high levels positive user attitudes marked increases edp training users
+cacm-3065.html: importance <b>results</b> stems close relationship brother trees insertion algorithm operating log2 n
+cacm-2258.html: additional <b>results</b> key-to-address transform techniques fundamental performance study large existing formatted cacm november 1972 lum v y yuen p s t hashing hashing techniques hashing methods hash coding keys key transformation key-to-address transformation direct addressing direct access method randomizing random access organization search scatter storage information retrieval 3.7 3.72 3.73 3.74 3.79 4.9 ca721111 jb january 27 1978 131 pm
+cacm-2283.html: pictorial <b>results</b> produced algorithms presented relative performances algorithms compared

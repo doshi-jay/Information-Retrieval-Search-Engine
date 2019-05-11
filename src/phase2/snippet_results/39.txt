@@ -1,0 +1,100 @@
+cacm-2940.html: cacm august 1977 shaw m wulf w a abstraction representation <b>abstract</b> <b>data</b> <b>types</b> assertions control specialization correctness generatorsinvariants iteration statements modular decomposition program specifications programming <b>languages</b> programming methodology proofs correctness <b>types</b> verification 4.20 5.24 ca770803 jb december 28 1977 759
+cacm-2651.html: resulting treatment <b>data</b> <b>types</b> includes provision programmer-defined <b>data</b> <b>types</b> <b>data</b> <b>types</b> generic routines <b>programmer</b> control <b>type</b> conversion flexible <b>data</b> <b>type</b> behavior context efficient compiled code compact <b>data</b> representation
+cacm-3103.html: programs designed <b>abstract</b> <b>data</b> <b>types</b> sets lists <b>programmer</b> time saved automating process filling low-level implementation details
+cacm-2931.html: experience independent workers method <b>data</b> <b>types</b> lattices <b>or</b> partial orderings information content ordering continuous mappings demonstrated flexibility approach providing <b>definitions</b> proofs clean undue dependence implementations
+cacm-3105.html: programming <b>languages</b> access control <b>data</b> <b>types</b> <b>abstract</b> <b>data</b> <b>types</b> <b>type</b> checking capabilities 4.20 4.35 ca780502 dh february 26 1979 319 pm
+cacm-2470.html: cacm august 1973 maclennan b j semantics formal systems lambda-calculus <b>extensible</b> <b>languages</b> <b>data</b> <b>types</b> modes axioms correctness formal language <b>definition</b> formal description <b>data</b> structures description <b>languages</b> models computation 4.22 5.21 5.24 5.26 ca730804 jb january 23 1978 1101
+cacm-3031.html: cacm december 1978 guttag j horowitz e musser d <b>abstract</b> <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification 4.34 5.24 ca781208 dh january 18 1979 251 pm
+cacm-2958.html: <b>abstract</b> <b>data</b> <b>types</b> development <b>data</b> structures <b>abstract</b> <b>data</b> <b>types</b> play significant role development software reliable efficient flexible
+cacm-2265.html: cacm november 1972 ledgard h f <b>type</b> checking <b>types</b> lambda calculus models programming <b>languages</b> syntax semantics compiler writing language implementation formal <b>definition</b> 4.12 4.22 5.2 5.21 5.23 ca721104 jb january 27 1978 230 pm
+cacm-2956.html: ideas <b>data</b> <b>types</b> high-level <b>languages</b> number issues explored concerning notion <b>data</b> <b>type</b> set values set primitive operations values
+cacm-2957.html: cacm june 1977 smith j m smith d c p <b>data</b> abstraction relational database <b>data</b> <b>type</b> aggregation database design <b>data</b> structure knowledge representation <b>data</b> <b>definition</b> language 3.65 3.69 3.79 4.29 4.33 4.34 ca770606 jb december 29 1977 1233
+cacm-1861.html: cacm august 1969 arden b w galler b a graham r m mad <b>definitions</b> <b>operators</b> macros higher level language 4.12 4.22 ca690802 jb february 15 1978 607 pm
+cacm-2341.html: cacm june 1972 gimpel j f character manipulation output formatting string processing graphics nonnumerical programming snobol4 <b>data</b> <b>types</b> two-dimensional mathematics test processing flowcharting 4.22 4.41 ca720604 jb january 30 1978 438 pm
+cacm-2082.html: idea 1 phrase structure program define structure formal documentation program 2 syntactic <b>types</b> identifiers resulting structure trigger automatic formation questions <b>programmer</b> answers part documentation 3 provide automatic storage retrieval facilities programmers <b>want</b> understand modify program access resulting documentation cross-indexed ways syntactic <b>types</b> objects
+cacm-2002.html: amesplot-a higher level <b>data</b> plotting software system amesplot <b>extensible</b> software system designed make display <b>data</b> simple painless neat possible
+cacm-2941.html: specific topics addressed are module structure defining abstractions data-structuring facilities mesa equivalence algorithm <b>types</b> <b>type</b> coercions benefits <b>type</b> system breached occasionally difficulty making treatment variant records safe
+cacm-3142.html: results show present state art approximately 40 percent individuals <b>or</b> households average contacts <b>types</b> accounts experience errors year
+cacm-2785.html: syntax language based algol 60 extended <b>allow</b> <b>programmer</b> explicitly parallelism algorithm terms 64-word vectors
+cacm-2705.html: programming <b>languages</b> natural <b>languages</b> mathematics social aspects programming illuminated analogies similar aspects mathematics natural <b>languages</b>
+cacm-2138.html: major feature contributes realization goals mechanism permitting <b>definition</b> representation <b>data</b> structures terms access algorithm elements structure
+cacm-1002.html: rapid method digital filtering computer time spent time-series analysis multiplications, minimum multiplication method devised digital filtering, expectation line, real-time analysis biological data.
+cacm-2299.html: <b>extensible</b> editor small machine disk storage design philosophy developing sophisticated utility program illustrated actual design implementation text editor
+cacm-1902.html: automatic grading scheme simple programming exercises discussion alterations made typical university operating system record results programming exercises languages, including assembly language.
+cacm-2939.html: cacm august 1977 liskov b snyder a atkinson r schaffert c programming <b>languages</b> <b>data</b> <b>types</b> <b>data</b> abstractions control abstractions programming methodology separate compilation 4.0 4.12 4.20 4.22 ca770804 jb december 28 1977 749
+cacm-1625.html: automatic simplification source-language programs methods simplification applied programs written algol-like language discussed.
+cacm-2078.html: cacm april 1970 eastman c m automated design <b>data</b> structures computer graphics computer-aided design engineering design architectural design robots 3.20 3.2 2 3.26 3.41 3.63 ca700406 jb february 13 1978 303 pm
+cacm-2684.html: numerous interesting difficult issues syntax stem context-sensitive requirements notably <b>compatibility</b> declaration identifier uses correspondence actual formal parameters issues arising block structure
+cacm-2699.html: cacm december 1975 schwartz j t program optimization automatic programming high-level <b>languages</b> set-theoretic <b>languages</b> <b>data</b> structure choice 4.12 4.20 4.22 ca751208 jb january 5 1978 353 pm
+cacm-2799.html: stably updating <b>mean</b> standard deviation <b>data</b> considering sample <b>mean</b> set <b>data</b> fit <b>data</b> constant function computational method based matrix formulation givens transformations
+cacm-0527.html: description list concepts concept <b>defined</b> class objects members distinguished processing properties
+cacm-2527.html: implementation high level language machine computing machines directly execute statements high level language proposed past.
+cacm-2898.html: conceptual framework nonprocedural programming language sequential programming language forces <b>programmer</b> prescribe explicitly order operations program executed order relevant solution problem
+cacm-3097.html: minimum shift rate requirement <b>allow</b> simply park bit 0 wait transfer request
+cacm-1835.html: cacm october 1969 dewar r b k hochsprung r r <b>languages</b> programming <b>languages</b> student programming systems language design high school programs college courses 1.51 1.52 4.12 4.22 ca691011 jb february 15 1978 154 pm
+cacm-1033.html: experimental personalized array translator system system designed intimate man-machine interaction general-purpose problem-solving environment experimentally operational.
+cacm-1678.html: computer science program automata formal <b>languages</b> switching theory theory computability 1.5 5.2 6.1 ca681101 jb february 21 1978 316 pm
+cacm-1213.html: format <b>types</b> give fortran <b>programmer</b> control input/output specifications execution time
+cacm-2254.html: modes partitioning <b>defined</b> <b>types</b> arrays subarrays vary original array nearly arbitrary manner
+cacm-1470.html: principal ways getting inputs routines 1 referring <b>data</b> itself 2 referring <b>data</b> name 3 referring implicitly means variables functions
+cacm-2937.html: experimental evaluation <b>data</b> <b>type</b> conventions language programs written substantial effect reliability resulting programs
+cacm-1783.html: in-and-out conversions byan in-and-out conversion <b>mean</b> floating-point number base converted floating-point number base converted back floating-point number original base
+cacm-1602.html: pose language posing problems computer language pose drastic departure fortran/algol <b>type</b> utilize fortran formula logic representations and actually fortran vi subset
+cacm-2406.html: cacm december 1973 sibley e h taylor r w <b>data</b> <b>definition</b> language <b>data</b> storage structure <b>data</b> translation <b>data</b> base management systems translation 3.51 3.70 3.73 4.29 4.82 ca731202 jb january 19 1978 258 pm
+cacm-1626.html: techniques include careful segmentation system programs allocation virtual memory <b>allow</b> address arithmetic <b>type</b> determination special algorithm building reasonably linearized lists
+cacm-0618.html: computers key total systems control industrial viewpoint man-man-machine processes characterized main <b>types</b> markets <b>type</b> shown 1950 1960 estimated 1970 cacm march 1962 carlson w m ca620314 jb march 20 1978 253 pm
+cacm-1614.html: proposal <b>definitions</b> algol extension algol proposed adding <b>data</b> <b>types</b> <b>operators</b> language
+cacm-2051.html: output list correspondence <b>types</b> frequency occurrence <b>data</b> separate listing correspondence word-pairs showing correspondence unless relative arbitrarily chosen cutoff point
+cacm-1589.html: dialog: conversational programming system graphical orientation dialog algebraic language online graphical input-output console device.
+cacm-1262.html: procedure-oriented language statements facilitate parallel processing statements suggested <b>allow</b> <b>programmer</b> writing procedure-oriented language sections program executed parallel
+cacm-2314.html: cacm july 1972 bobrow d g list processing programming <b>languages</b> design programming <b>languages</b> interactive systems control structures <b>data</b> structures programming primitives semantics advanced programming systems 1.3 4.2 4.22 4.3 4.32 5.23 5.24 ca720714 jb january 30 1978 130 pm
+cacm-1703.html: accommodating standards identification programming <b>languages</b> user public wants standardization reliable identification programming <b>languages</b> related services
+cacm-1693.html: gpl, truly general purpose language truly general purpose programming language, gpl, facilities constructing (within language) <b>data</b> <b>types</b> facilities operations performed them.
+cacm-3006.html: <b>type</b> anomaly example concerns fact <b>that</b> reference strings paging algorithms increase <b>mean</b> memory allocation result increase fault rate
+cacm-0595.html: unfortunately historical <b>data</b> concerning students programming proficiency non-existent and best difficult measure
+cacm-2558.html: protection programming <b>languages</b> linguistic mechanisms protect subprogram anothers malfunctioning described
+cacm-1206.html: self-judgment method curve fitting computer-oriented method processing communicating numerical <b>data</b> described.
+cacm-2081.html: complete calculi matrices matrix calculus introduced intention developing <b>data</b> structures suitable high level algorithmic language mathematical programming
+cacm-1112.html: technique computer detection correction spelling errors* method assumes word found dictionary error, wrong, missing extra letter single transposition.
+cacm-1989.html: structure-building actions arcs grammar network <b>allow</b> reordering restructuring copying constituents produce deep-structure representations <b>type</b> obtained transformational analysis conditions arcs <b>allow</b> powerful selectivity rule meaningless analyses take advantage semantic information guide parsing
+cacm-3101.html: addition argument binding control <b>programmer</b> permitting <b>definition</b> methods argument transmission source language itself
+cacm-0972.html: <b>data</b> link permits remote stations send messages status reports inventories directly computer
+cacm-1426.html: <b>types</b> policies examined admission based percentages discharge rates discharge rates minus constant fixed authorizations independent discharge rates
+cacm-1534.html: system designed control <b>data</b> 3600 large drum backing store intended <b>allow</b> integration remote console display subsystem conventional job stack environment
+cacm-2794.html: state-space, problem-reduction, theorem proving-some relationships paper suggests bidirectional relationship state-space problem-reduction representations.
+cacm-2815.html: high-level binding low-level linkers easy implement scheme compiler enforce agreement complex <b>data</b> <b>types</b> separately compiled modules.
+cacm-2201.html: cacm april 1971 talbot p a carr iii j w coulter jr r r hwang r c computer graphics computer animation on-line systems two-dimensional <b>languages</b> crt microfilm recorder 3.41 3.80 4.22 ca710404 jb february 3 1978 337 pm
+cacm-1552.html: aed free storage package fundamental underlying problem sophisticated software systems involving elaborate changing <b>data</b> structure dynamic storage allocation flexible problem modeling
+cacm-3116.html: <b>types</b> interference checking discussed detection intersections objects fixed positions detection collisions objects moving trajectories
+cacm-1379.html: final solution dangling algol 60 related <b>languages</b> dangling problem consists class potential ambiguities algol-like conditional statements basic form if b1 b2 s1 s2 b1 b2 boolean expressions s1 s2 basic statements
+cacm-2717.html: cacm october 1975 shu n c housel b c lum v y <b>data</b> conversion <b>data</b> restructuring <b>data</b> translation database reorganization translation <b>definition</b> utility program programming <b>languages</b> nonprocedural <b>languages</b> 3.50 3.75 4.29 4.4 4.9 ca751002 jb january 6 1978 145 pm
+cacm-2810.html: broad <b>definition</b> specified computing practitioner is yet regarded professional
+cacm-2178.html: graspe consists <b>type</b> directed graph <b>data</b> structure set primitive operations manipulating structures
+cacm-2887.html: study errors error-proneness error diagnosis cobol paper <b>data</b> cobol error frequency correction errors student-oriented compilers improvement teaching programming language
+cacm-2083.html: creation control internal <b>data</b> bases fortran programming environment method <b>definition</b> users common structure automatic generation common dimension equivalence <b>type</b> declarations users routines
+cacm-0867.html: squares fitting planes surfaces dynamic programming dynamic programming recently stone, bellman gluss determine closet fit broken line segments curve interval constraint number segments fixed.
+cacm-2864.html: <b>definition</b> existence hierarchy localities time reasonableness <b>definition</b> supported examples actual programs
+cacm-1463.html: <b>extensible</b> machines salient characteristics <b>extensible</b> machines em facility providing system control program-to-program program-to-data linkage eg address connection
+cacm-2893.html: computers innovation american local governments computers electronic <b>data</b> processing major technological innovation operations american local government
+cacm-2634.html: evaluation statistical software social sciences hundred college university computer installations offer <b>types</b> statistical packages general use.
+cacm-3013.html: outputs obtained <b>operators</b> applied set test pictures compared standard digital laplacian gradient
+cacm-0248.html: proprietary mathematical programming?-impressions panel discussion panel discussion "what proprietary mathematical programming?"
+cacm-2723.html: primary aim <b>allow</b> list processor run unimpeded processor reclaims list storage
+cacm-0630.html: paper argues readability added translation process <b>programmer</b> enjoy utmost economy expression management full valid cobol version printed give advantages readability <b>compatibility</b>
+cacm-0961.html: techniques <b>allow</b> individual bits tested fields shifted numbers coded bcd converted binary
+cacm-1210.html: <b>allow</b> symbolic naming information files violating casual scientific idea simplicity
+cacm-1719.html: methodology calculating optimizing real-time system performance continually increasing size complexity number <b>types</b> cost <b>data</b> processing systems causing re-examination government industry criteria methods calculating optimizing <b>data</b> processing system cost performance
+cacm-2851.html: formal verification parallel programs formal models parallel computation presented: <b>abstract</b> conceptual model parallel-program model.
+cacm-2906.html: business <b>definition</b> language bdl language aimed business <b>data</b> processing problems
+cacm-1098.html: principal differences <b>languages</b> consideration detailed representations <b>data</b> <b>programmer</b> machine methods storage allocation programming formalisms special processes available including arithmetic facilities usability terms availability documentation learning aids debugging facilities
+cacm-1853.html: cacm september 1969 hansen w j <b>data</b> structure <b>data</b> representation list structure list representation list compact list garbage collection relocation storage reclamation macro primitive list operations plex processing plex pointer list processing system lisp free storage 3.49 4.20 4.22 4.49 4.9 ca690902 jb february 15 1978 501 pm
+cacm-2713.html: remark stably updating <b>mean</b> standard deviation <b>data</b> corrigendum cacm october 1975 cotton i ca751006 jb january 6 1978 1038
+cacm-2546.html: cacm february 1973 crespi-reghizzi s melkanoff m a lichten l grammar design language <b>definition</b> inference identification limit <b>extensible</b> <b>languages</b> 3.61 4.2 5.23 ca730202 jb january 24 1978 320 pm
+cacm-3166.html: cacm september 1979 chan t lewis j <b>mean</b> standard deviation squares updating estimates rounding error analysis condition number
+cacm-1247.html: services include dynamic allocation storage contiguous blocks arbitrary size input output hierarchy <b>data</b> <b>types</b> public pushdown list automatic recursive programming rudimentary compiler subroutine communication bookkeeping debugging aids
+cacm-3066.html: controlled experiment program testing code walkthroughs/inspections paper describes experiment program testing employing 59 highly experienced <b>data</b> processing professionals methods test small pl/i program
+cacm-1161.html: 1401 <b>compatibility</b> feature ibm system/360 model 30 second generation stored-program computers ibm 1400 series part brought edp mass market time large scale
+cacm-1416.html: fortran technique simplifying input report generators typical report generators <b>allow</b> production standard forms tabulating magnetic tape file extraction nonstandard sets information suitable annotation involves troublesome forms design
+cacm-2843.html: <b>allow</b> instructor augment basic concepts relevant exciting economical student project activities
+cacm-3192.html: lincoln keyboard - typewriter keyboard designed computers input flexibility typewriter keyboard, direct punched paper tape computer input replace usual commercial keyboard 88 characters chosen convenience programmers.
+cacm-2167.html: algebraic simplification: guide perplexed algebraic simplification examined point view user needs comprehend large expression, point view designer wants construct efficient system.

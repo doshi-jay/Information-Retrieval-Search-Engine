@@ -1,0 +1,100 @@
+cacm-2721.html: cacm september 1975 claudson r m digital <b>simulation</b> mathematical modeling plankton population dynamics phytoplankton zooplankton river <b>ecosystems</b> ecological mechanisms environmental <b>simulation</b> modeling <b>ecosystems</b> pollution environmental impact environmental planning 3.12 3.19 ca750903 jb january 6 1978 255 pm
+cacm-2749.html: cacm june 1975 babich a f grason j parnas d l <b>simulation</b> organization event <b>simulation</b> clock pulse <b>simulation</b> significant event <b>simulation</b>
+cacm-3070.html: hybrid <b>simulation</b> models computer systems paper describes structure operation hybrid <b>simulation</b> model discrete-event <b>simulation</b> analytic techniques combined produce efficient accurate system models
+cacm-1030.html: techniques <b>simulation</b> computer logic <b>simulation</b> digital computer integral part computer design automation systems
+cacm-1928.html: cacm february 1969 ulrich e g <b>simulation</b> logical <b>simulation</b> digital <b>simulation</b> large systems <b>simulation</b> network structures scheduling queuing simultaneous activities parallel events 4.22 4.29 6.9 ca690210 jb february 20 1978 958
+cacm-1890.html: <b>simulation</b> traffic flows network computer <b>simulation</b> program deals traffic flows network large area described
+cacm-3048.html: performance evaluation highly concurrent computers deterministic <b>simulation</b> <b>simulation</b> presented practical technique performance evaluation alternative configurations highly concurrent computers
+cacm-2767.html: comparison <b>simulation</b> event list algorithms algorithms considered schedule events general purpose discrete <b>simulation</b> system
+cacm-0678.html: optimizing bit-time computer <b>simulation</b> major component bit-time computer <b>simulation</b> program boolean compiler
+cacm-1637.html: problems statistical analysis <b>simulation</b> experiments comparison means length sample records research continued statistical analysis <b>simulation</b> experiments autocorrelated time series
+cacm-1870.html: techniques pseudorandom numbers computer <b>simulation</b> algorithm uniform pseudorandom integers construct binary numbers probability bit word 1-bit assume desired parameter value
+cacm-2062.html: application sequential sampling <b>simulation</b> inventory model sequential sampling procedures applied analysis data generated computer <b>simulation</b> experiment multi-item inventory model
+cacm-2914.html: lru stack depth distribution <b>simulation</b> paging behavior families probability distributions needed virtual memory <b>simulation</b> model headway page fault distributions working set size distributions
+cacm-0757.html: <b>simulation</b> traffic network cacm august 1963 katz j h ca630841 jb march 13 1978 755 pm
+cacm-1812.html: fortran random number generators cacm november 1969 grosenbaugh l r random number generation monte carlo <b>simulation</b> 5.5 ca691118 jb february 15 1978 1157
+cacm-2725.html: comparison <b>simulation</b> event list algorithms corrigendum cacm august 1975 vaucher j c duval p ca750810 jb january 6 1978 343 pm
+cacm-2742.html: improved event-scanning mechanisms discrete event <b>simulation</b> <b>simulation</b> models large complex real-world applications occasionally earned reputation eating hours computer time
+cacm-2970.html: achieving specific accuracy <b>simulation</b> output analysis paper extends regenerative property queueing systems analysis <b>simulation</b> output
+cacm-3051.html: comparison heaps tl structure <b>simulation</b> event set cacm october 1978 franta w maly k simulationevent set heaps tl structure 3.34 4.22 5.5 8.1 ca781010 dh january 29 1979 1151
+cacm-1366.html: computer simulation-discussion technique comparison languages purpose paper present comparison computer <b>simulation</b> languages involved comparing software packages digital computers discussed part i issue obvious users digital computers choose languages write own
+cacm-1695.html: cacm september 1968 dill j c randall d l richer i biological modeling data analysis discrete system <b>simulation</b> library systems modeling network <b>simulation</b> neural networks neurophysiological models on-line <b>simulation</b> <b>simulation</b> 3.12 3.19 3.29 3.65 ca680906 jb february 22 1978 856
+cacm-2798.html: cacm february 1975 burnett g j coffman e g jr interleaved memory systems modular memory systems memory performance analysis blockage buffer conflict buffer <b>simulation</b> monte carolo <b>simulation</b> 5.5 6.34 ca750201 jb january 12,1978 854
+cacm-0104.html: digital <b>simulation</b> discrete flow systems discrete flow systems discussed characterized movement randomly arriving items interacting channels
+cacm-1261.html: modeling <b>simulation</b> digital networks <b>simulation</b> digital networks digital computer engineer effective means analyzing time-quantized logical behavior
+cacm-1427.html: <b>simulation</b> radioisotope scans computer radioisotope scanning field assuming increasing importance medical diagnosis scan two-dimensional pattern made dots
+cacm-1435.html: design computer <b>simulation</b> experiments industrial systems aim paper provide background information existing literature experimental design techniques applicable design computer <b>simulation</b> experiments industrial systems
+cacm-1912.html: <b>simulation</b> outpatient appointment systems experimental computer program simulates appointment systems employed outpatient departments hospitals
+cacm-2261.html: cacm november 1972 ramberg j s schmeiser b w <b>simulation</b> monte carlo probability statistics approximations random variables random numbers moments distribution 5.5 8.1 ca721108 jb january 27 1978 147 pm
+cacm-1207.html: remarks <b>simulation</b> boolean functions cacm august 1965 dodd g g ca650817 jb march 6 1978 752 pm
+cacm-1208.html: <b>simulation</b> computer logic fortran arithmetic cacm august 1965 weingarten f w ca650816 jb march 6 1978 753 pm
+cacm-1805.html: cacm december 1969 lasser d j productivity prediction multiprogramming <b>simulation</b> equipment evaluation hardware evaluation monitor operating system system software supervisors performance time sharing time slicing 2.43 2.44 4.32 ca691207 jb february 15 1978 247 pm
+cacm-2344.html: optimization performance time-sharing systems <b>simulation</b> <b>simulation</b> model time-sharing system finite noncontiguous store infinite auxiliary store study variation system parameters store size number jobs allowed execute simultaneously job-scheduling algorithm etc
+cacm-2549.html: random deviates dipole distribution g5 algorithm a441 cacm january 1973 knop r e random number probability density probability distribution dipole distribution cauchy distribution <b>simulation</b> monte carlo 3.17 5.5 ca730112 jb january 24 1978 342 pm
+cacm-3061.html: simulations dynamic sequential search algorithms cacm september 1978 tenenbaum a searching list processing sequential searching dynamic reordering <b>simulation</b> 3.74 8.1 ca780911 dh january 29 1979 630 pm
+cacm-2902.html: cacm november 1977 nielsen n r algorithm performancedynamic memory allocation dynamic memory management dynamic storage allocation garbage collection list processing memory allocation memory management programming techniques <b>simulation</b> <b>simulation</b> memory management <b>simulation</b> techniques space allocation storage allocation 3.74 4.49 5.25 8.1 ca771114 jb december 27 1977 609
+cacm-2542.html: cacm february 1973 graham r m clancy g j jr devaney d b operating system development language processing software evaluation compilers system programming supervisory systems debugging program maintenance modeling system integration <b>simulation</b> 4.0 4.12 4.22 4.30 4.42 4.43 8.1 ca730206 jb january 24 1978 207 pm
+cacm-2829.html: texture reflection computer generated images 1974 catmull developed algorithm rendering images bivariate surface patches.
+cacm-2951.html: analytical <b>simulation</b> statistical performance evaluation tools employed investigate feasibility dynamic response time monitor capable providing comparative response time information users wishing process computing applications network computing node
+cacm-0238.html: <b>simulation</b> analysis biochemical systems cacm december 1961 garfinkel d rutledge j d higgins j j ca611212 jb march 15 1978 1009 pm
+cacm-0557.html: <b>simulation</b> computer timing device cacm july 1962 ca620704 jb march 17 1978 857 pm
+cacm-0605.html: computer <b>simulation</b> city traffic simulating traffic flow city streets national bureau standards data processing techniques tabulate make motion pictures vehicle movements model
+cacm-0633.html: <b>simulation</b> analysis biochemical systems (iii.
+cacm-0643.html: <b>simulation</b> analysis biochemcial systems (ii.
+cacm-1199.html: computer center <b>simulation</b> project todays computation centers based rapidly changing technologies hardware software systems
+cacm-1253.html: quikscript-a simscript language g-20 quikscript <b>simulation</b> language based simscript programmed entirely algebraic language 20-gate
+cacm-1329.html: <b>simulation</b> boolean functions decimal computer cacm january 1965 mano m m ca650108 jb march 8 1978 238 pm
+cacm-2057.html: random vectors uniform solid angle algorithm 381 $g5 cacm may 1970 knop r e random number random vector random number generator probability distribution frequency distribution <b>simulation</b> monte carlo 5.5 ca700509 jb february 13 1978 119 pm
+cacm-2077.html: cacm april 1970 pomeranz j e weil jr r l arrows paradox cyclical majority <b>simulation</b> voters paradox voting paradox 3.31 3.35 ca700407 jb february 13 1978 258 pm
+cacm-2262.html: garbage collection virtual memory computer systems list processing typically growing demand space program execution.
+cacm-2318.html: role computer system models performance evaluation models constitute means investigating computer system performance.
+cacm-1572.html: <b>simulation</b> time sharing systems development large scale time-sharing systems raised number problems computation center management
+cacm-1680.html: language processors compilers <b>simulation</b> models mathematical solution techniques stored data library user programs incorporated instructional material reprogramming
+cacm-1752.html: <b>simulation</b> results relative alternate hardware characteristics effects program mix loading variations presented
+cacm-2936.html: efficient data structure <b>simulation</b> event set recently algorithms presented realization event scheduling routines suitable general purpose discrete event <b>simulation</b> systems
+cacm-3064.html: cacm september 1978 ulrich e <b>simulation</b> discrete systems <b>simulation</b> discrete event <b>simulation</b> time-flow mechanisms 3.65 3.74 4.22 8.1 ca780908 dh january 29 1979 646 pm
+cacm-2911.html: anomalous behavior fifty-percent rule dynamic memory allocation paper reports <b>simulation</b> data showing that dynamic memory allocation average free-to-allocated-block ratio differ considerably directions predictions 50 percent rule
+cacm-1165.html: spectra 70/45 emulator rca 301 rca 301 emulator system supplied spectra 70/45 reprogramming aid.
+cacm-1288.html: clp-the cornell list processor presented paper highlights clp, teaching language employed cornell university constructed serve means introducing <b>simulation</b> list-processing concepts.
+cacm-1426.html: <b>simulation</b> hospital admission policy study simulates admission policies large specialized hospital
+cacm-1541.html: language modeling simulating dynamic systems general objective language facilitate modeling experimental aspects <b>simulation</b> studies.
+cacm-1716.html: normal random deviates algorithm 334 g5 cacm july 1968 bell j r normal deviates normal distribution random number random number generator <b>simulation</b> probability distribution frequency distribution random 5.5 5.13 ca680713 jb february 22 1978 1126
+cacm-1894.html: normal random deviates algorithm 334 g5 cacm may 1969 knop r normal deviates normal distribution random number random number generator <b>simulation</b> probability distribution frequency distribution random 5.13 5.5 ca690516 jb february 17 1978 231 pm
+cacm-2105.html: cacm february 1970 robins m f beyer j d <b>simulation</b> program graphical input-output sampled data systems 3.20 3.24 ca700210 jb february 14 1978 957
+cacm-2218.html: cacm february 1971 nielsen n r b6500 bulk core usage operating system model relocation rotational delay minimization <b>simulation</b> swap volume minimization system <b>simulation</b> time-sharing 3.9 4.32 ca710203 jb february 8 1978 940
+cacm-2272.html: sorting natural selection family sorting algorithms proposed, members make fuller memory space yield longer sorted strings.
+cacm-2349.html: generation random correlated normal variables g5 algorithm a425 cacm may 1972 hurst r l knop r e random number normal density normal distribution gaussian density gaussian distribution <b>simulation</b> monte carlo 5.5 ca720511 jb january 31 1978 935
+cacm-2686.html: w <b>simulation</b> monte carlo probability statistics approximations random variables random numbers moments distribution 5.5 8.1 ca740203 jb january 18 1978 119 pm
+cacm-3107.html: cacm april 1978 cheng r beta variates random numbers <b>simulation</b> 5.5 8.1 ca780409 dh february 26 1979 332 pm
+cacm-1811.html: data gathered <b>simulation</b> runs demonstrate efficient solution problem typical large class important problems
+cacm-1846.html: cacm september 1969 parnas d l <b>simulation</b> parallel processes simultaneous events picture processing computer system <b>simulation</b> 3.19 3.24 4.24 5.9 6.9 ca690910 jb february 15 1978 421 pm
+cacm-2375.html: cacm march 1972 teorey t j pinkerton t b access time analytical models auxiliary storage direct access storage disk analysis disk scheduling performance criteria peripheral memory devices real-time systems response time rotational delay scheduling policies seek time <b>simulation</b> storage units time-sharing systems waiting time 3.72 4.32 6.34 ca720306jb january 31 1978 238 pm
+cacm-2882.html: paper discusses <b>simulation</b> model data retrieval system effect significantly reducing cost experimentation enabling research attempted before
+cacm-1856.html: cacm august,1969 quillian m r natural language processing natural language comprehension teachable computer program psychological <b>simulation</b> human memory <b>simulation</b> computer linguistics linguistic performance theory 3.36 3.42 3.62 3.65 3.74 ca690807 jb february 15 1978 546 pm
+cacm-0675.html: codes constructed part computerized hospital <b>simulation</b> able handle results laboratory test encountered
+cacm-1166.html: macros translation symbolic assembly language computer set macro-operations prepared assist translating ibm 7090 symbolic assembly language programs ibm 7040 machine language programs.
+cacm-1517.html: methods analyzing data computer <b>simulation</b> experiments paper addresses problem analyzing data generated computer simulations economic systems
+cacm-1518.html: experimental model system/360 problem predicting performance modern computer systems formidable.
+cacm-1653.html: analysis <b>simulation</b> synthesis presented levels approach evaluation requiring successively greater amounts information
+cacm-1674.html: cacm november 1968 marsaglia g bray t a random number generation monte carlo <b>simulation</b> 5.5 ca681105 jb february 21 1978 254 pm
+cacm-1711.html: cacm august 1968 banzhaf iii j f law legal lawyer liability torts negligence contracts warrantees guarantees accounting regulations <b>simulation</b> income tax copyrights patents trade secrets standard care slander credit crime criminals record keeping records evidence copying 1.3 2.11 2.12 2.2 3.33 ca680803 jb february 22 1978 1112
+cacm-1933.html: cacm february 1969 payne w h rabung j r bogyo t p pseudo-random number random number modular arithmetic uniform probability density uniform frequency function <b>simulation</b> prime factorization primitive roots ca690205 jb february 20 1978 1107
+cacm-2276.html: cacm october 1972 ahrens j h dieter u random numbers pseudorandom normal distribution exponential distribution exponential distribution <b>simulation</b> numerical analysis 3.29 3.57 5.11 5.5 ca721002 jb january 27 1978 355 pm
+cacm-2535.html: effects multiplexing computer-communications system study made asynchronous time division multiplexing stochastic nature arrival process user computer <b>and</b> consequently affects performance time-shared computer-communications system
+cacm-2682.html: cacm march 1974 sreenivasan k kleinman a j benchmarks calibration drive workload input <b>simulation</b> probability distribution representative workload synthetic workload workload characteristics 5.5 5.9 8.1 ca740301 jb january 18 1978 1246 pm
+cacm-2844.html: heaps applied event driven mechanisms cacm july 1976 gonnet g h discrete event <b>simulation</b> event-scanning mechanisms priority queues heaps 4.34 8.1 ca760709 jb january 4 1978 1105
+cacm-2862.html: cacm may 1976 chu w w opderbeck h pff replacement algorithm semi-markov model <b>simulation</b> replacement algorithm 4.31 4.32 ca760509 jb january 4 1978 259 pm
+cacm-2890.html: <b>simulation</b> results presented confirm theoretical analysis simple network
+cacm-2918.html: cacm october 1977 smith a j memory terference interleaving multiprocessing trace-driven <b>simulation</b> queueing theory shared memory 4.30 4.32 6.34 ca771008 jb december 27 1977 1028
+cacm-2967.html: apld functions duplicated tx-2 computer ms lincoln laboratory leap language data structure comparison hardware approach software <b>simulation</b> illustrates advantages hardware associative memory areas 1 processing speed 2 storage requirements 3 flexibility
+cacm-3042.html: power trees class pk trees presented, height balance maintained nodes iying paths.
+cacm-2233.html: signature <b>simulation</b> cryptographic codes cyphers allegedly authored thomas jefferson beale 1822 subject intensive study 100 years
+cacm-2734.html: <b>simulation</b> series experiments performed order obtain data relative performance first-fit best-fit understanding reasons underlying observed differences
+cacm-1380.html: simula-an algol-based <b>simulation</b> language paper introduction simula programming language designed provide systems analyst unified concepts facilitate concise description discrete event systems
+cacm-1728.html: cacm july 1968 coffman e g varian l c paging systems paging dynamic program behavior program behavior virtual memory systems single-level storage one-level storage operating system <b>simulation</b> operating systems supervisor <b>simulation</b> machine language program interpretation 4.13 4.32 4.39 4.9 ca680701 jb february 22 1978 313 pm
+cacm-1484.html: descriptions <b>simulation</b> automatic design system described addition communicating system specifications
+cacm-1591.html: model multifunctional teaching system teaching system model incorporated operating system large computer described.
+cacm-1845.html: critique systems based actual experience large overlaid trajectory <b>simulation</b> program short history description program presented
+cacm-2091.html: cacm march 1970 cardenas a f karplus w j problem oriented digital <b>simulation</b> language partial differential equations translator pl/1 preprocessor pl/1 finite difference algorithms 3.1 3.2 4.22 5.17 ca700307 jb february 13 1978 418 pm
+cacm-2106.html: cacm february 1970 ness d n green r s martin w a moulton g a education <b>simulation</b> machine language management information systems interpreters 1.52 3.51 4.13 4.21 ca700209 jb february 14 1978 1015
+cacm-2188.html: approach optimum design computer graphics systems display system designers faced difficult task selecting major subsystems intelligent way.

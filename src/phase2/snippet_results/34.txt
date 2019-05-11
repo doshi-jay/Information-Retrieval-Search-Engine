@@ -1,0 +1,100 @@
+cacm-2660.html: addendum m <b>l</b> patrick paper cacm april 1974 simmons g c parallelism <b>polynomial</b> <b>root</b> finding real zeros 5.15 ca740410 jb february 1 1978 1036
+cacm-1893.html: roots polynomials root-squaring resultant routine algorithm 340 c2 cacm may 1969 noltemeier a <b>root</b> finders roots <b>polynomial</b> equations <b>polynomial</b> zeros root-squaring operations graeffe method resultant procedure subresultant procedure testing roots acceptance criteria 5.15 ca690517 jb february 17 1978 229 pm
+cacm-1667.html: roots polynomials root-squaring resultant routine algorithm 340 c2 cacm november 1968 noltemeier a <b>root</b> finders roots <b>polynomial</b> equations <b>polynomial</b> zeros root-squaring operations graeffe method resultant procedure subresultant procedure testing roots acceptance criteria 5.15 ca681112 jb february 21 1978 224 pm
+cacm-1763.html: roots low-order <b>polynomial</b> equations algorithm 326 c2 cacm april 1968 nonweiler t f <b>root</b> finders <b>polynomial</b> equation roots quadratic equation roots cubic equation roots biquadratic equation roots <b>polynomial</b> zeros 5.15 ca680407 jb february 23 1978 1027
+cacm-1999.html: optimal starting approximations generating square <b>root</b> slow divide machine slow division preferable iterative scheme square <b>root</b> classical heron scheme
+cacm-1524.html: stopping criterion <b>polynomial</b> <b>root</b> finding searching <b>root</b> <b>polynomial</b> generally difficult know accept number adequate approximation <b>root</b>
+cacm-2722.html: utility algorithms developed proven average running times record are insertion log n deletion <b>root</b> n^k-1/k deletion random node log n optimization guarantees logarithmic performance searches n log n
+cacm-1867.html: expected lengths sequences generated sorting replacement selecting replacement-selecting technique sorting <b>interested</b> ratio lj expected length j-th sequence generated technique number memory cells used
+cacm-1567.html: representation symmetric polynomials relations symmetric polynomials light theory symmetric group.
+cacm-1932.html: cacm february 1969 king r f phillips d <b>l</b> square <b>root</b> newtons method relative error logarithmic error fit optimal approximation maximal error recurrence relation integer <b>root</b> error curve 5.12 5.13 ca690206 jb february 20 1978 1055
+cacm-1620.html: <b>polynomial</b> evaluation methods developed <b>recent</b> years require fewer multiplications nested multiplication preferable function evaluation routines
+cacm-0435.html: decision matrix basis simple data input routine great deal time effort spent development bigger compiler languages, multiprogram executive systems, etc.
+cacm-1623.html: paper concerned programming techniques formac actual engineering problem readers <b>interested</b> problem stated general mathematical sense interest areas circuit analysis
+cacm-2266.html: highly parallel algorithm approximating zeros <b>polynomial</b> real zeros algorithm based newtons method simultaneously approximates zeros <b>polynomial</b> real zeros
+cacm-0116.html: sumador chino <b>recent</b> motor trip mexico writer came adding device referred sumador chino chinese adder
+cacm-2324.html: cacm july 1972 shanno d f weil r <b>l</b> integer programming linear programming mathematical programming nonlinear programming quadratic programming management science operations research algorithms 5.41 8.3 ca720704 jb january 30 1978 314 pm
+cacm-2486.html: cacm june 1973 alt f <b>l</b> yuni kirk j photocomposition typesetting printing graphics text processing 3.79 3.82 ca730614 jb january 23 1978 130 pm
+cacm-2135.html: attempt made approximate f q <b>polynomial</b> approximating f algorithms developed rapid computation q wide class selections includes lagrangian hermitian rules special cases
+cacm-0884.html: orthogonal <b>polynomial</b> squares surface fit algorithm 164 cacm april 1963 clark r e kubik r n phillips <b>l</b> p ca630407 jb march 14 1978 1225 pm
+cacm-1633.html: cacm february 1967 ehrlich <b>l</b> w ca670209 jb february 28 1978 233 pm
+cacm-1875.html: <b>polynomial</b> spline approximation quadratic programming problem approximation function fitting set data approximating function required derivations sign range approximation studied
+cacm-2181.html: provide committee <b>material</b> study curricular needs regional meetings united states held 1970 broad cross section invited academicians practitioners considered state curricula business schools
+cacm-3039.html: cacm november 1978 dijkstra e lamport <b>l</b> martin a scholten c steffens e multiprocessing fine-grained interleaving cooperation sequential processes minimized mutual exclusion program correctness multiprogramming tasks garbage collection 4.32 4.34 4.35 4.39 5.24 ca781112 dh january 22 1979 324 pm
+cacm-3127.html: cacm february 1979 cheriton d malcolm m melen <b>l</b> sager g portability real time operating systems minicomputer 3.80 4.30 4.35 ca790206 dh april 12 1979 910
+cacm-3018.html: cacm february 1978 kou <b>l</b> stockmeyer <b>l</b> wong c watson t keyword conflicts intersection graphs node clique cover edge clique cover computational complexity np-complete problems polynomial-time heuristics 4.12 5.25 5.32 ca780205 jb march 28 1978 418 pm
+cacm-2706.html: cacm november 1975 kou <b>l</b> t wong c k compaction character sets set basis set covering computational complexity <b>polynomial</b> completeness clique cover 4.9 5.25 5.39 ca751106 jb january 6 1978 855
+cacm-2779.html: discrete squares <b>polynomial</b> fits recurrence relation orthogonal polynomials widely discrete squares data fitting
+cacm-0585.html: <b>material</b> follows description evolution programming hardware system developed present multiprogramming system lewis research center
+cacm-1315.html: system detailed records container radioactive <b>material</b> purchased and/or created triga reactor indicating amounts received used and/or transferred health physicist disposal
+cacm-1931.html: interval arithmetic determinant evaluation testing chebyshev system <b>recent</b> papers hansen hansen r r smith shown interval arithmetic i
+cacm-1644.html: computation squares polynomials rounding error accumulated digital computation squares <b>polynomial</b> makes computed <b>polynomial</b> approximation true square polynomial.
+cacm-1386.html: algorithm consists factoring single-variable instances <b>polynomial</b> kroneckers method introducing remaining variables interpolation
+cacm-1046.html: compiler-building system developed brooker morris number articles published past years r a brooker d morris joined j rohl <b>recent</b> paper presented interesting programming system developed ferranti atlas computer
+cacm-0397.html: 80-column ibm card divided fields-reference <b>material</b> field columns 1-67 identification field columns 68-80
+cacm-1882.html: determination square <b>root</b> positive definite matrix algorithm 298 f1 cacm june 1969 duke b j matrix symmetric matrix positive definite matrix matrix square <b>root</b> 5.14 ca690611 jb february 17 1978 953
+cacm-1591.html: course include text <b>material</b> interleaved programming problems student solve leaving terminal
+cacm-1680.html: cacm october 1968 engvold k j hughes j <b>l</b> computer-assisted instruction tutorial systems programming simulation modeling information retrieval operating systems graphics displays man-machine interface on-line computing graphic programming 1.5 3.3 3.5 3.8 4.0 4.3 ca681007 jb february 21 1978 336 pm
+cacm-2345.html: cacm may 1972 ashenhurst r <b>l</b> education management systems systems analysis management information systems information systems development information analysis system design 1.52 3.51 ca720515 jb january 31 1978 928
+cacm-1949.html: finiteness assumptions intellectual <b>isolation</b> computer scientists cacm december 1970 wagner r a algol vs fortran finiteness assumptions intellectual <b>isolation</b> integer variable range memory finiteness finite word size 2.2 4.22 5.23 ca701215 jb february 9 1978 238 pm
+cacm-2808.html: lemniscate constants lemniscate constants, methods actually computing them, played enormous part development mathematics.
+cacm-1440.html: starting approximations square <b>root</b> calculation ibm system/360 starting approximations square <b>root</b> calculation newtons method presented form facilitate ibm system/360 square <b>root</b> routines
+cacm-1014.html: experimenter <b>interested</b> interactions impossible ignore experimental designs problem getting error terms
+cacm-2897.html: case study code generation technique compilers <b>recent</b> developments optimizing techniques allowed design compilers emerge
+cacm-1346.html: however results known domain show efficient algorithm obtain approximations small error <b>polynomial</b> case approximation nearly approached directly series development
+cacm-0005.html: square-root approximations cacm november, 1958 wadey, w. g. ca581102 jb march 22, 1978 8:33 pm
+cacm-0334.html: division square <b>root</b> quater-imaginary number system cacm april 1961 nadler m ca610334 jb march 16 1978 1116 pm
+cacm-1520.html: absolute square <b>root</b> complex number algorithm 312 a2 cacm october 1967 friedland p ca671012a jb february 27 1978 149 pm
+cacm-1618.html: determination square-root positive definite matrix (algorithm 298 [f1]) cacm march, 1967 spath, h. ca670311b jb march 23, 1978 4:09 pm
+cacm-0848.html: note range transformations square <b>root</b> logarithm germ idea previous papers 1,2 picked years
+cacm-1615.html: algorithm generating <b>root</b> locus diagrams technique digital computer draw ordinary time-lag <b>root</b> locus diagrams described
+cacm-2385.html: zeros complex <b>polynomial</b> c2 algorithm a419 cacm february 1972 jenkins m a traub j f roots roots <b>polynomial</b> zeros <b>polynomial</b> 5.15 ca720206 jb january 31 1978 414 pm
+cacm-0672.html: <b>recent</b> developments affecting adp tax administration cacm december 1963 leibowitz g j ca631202 jb march 13 1978 314 pm
+cacm-1643.html: improvement iterative methods <b>polynomial</b> factorization methods <b>polynomial</b> factorization find zeros time require division <b>polynomial</b> accepted factor
+cacm-0035.html: machine method square-root computation cacm january, 1958 bemer, r. w. ca580101 jb march 22, 1978 9:27 pm
+cacm-1031.html: note starting newton-raphson method determination suitable initial estimate <b>root</b> equation fx 0 means computing roots sequence related equations described
+cacm-1803.html: complex <b>root</b> finding algorithm 365 c5 cacm december 1969 bach h downhill method complex relaxation method complex iteration complex equation transcendental complex equation algebraic complex equation 5.15 ca691209 jb february 15 1978 225 pm
+cacm-1832.html: minimax logarithmic error cacm october 1969 dunham c b logarithmic error transformed rational approximation square <b>root</b> 5.10 ca691014 jb february 15 1978 138 pm
+cacm-2449.html: simple technique structured variable lookup simple technique symbol-table lookup structured variables based simple automata theory presented.
+cacm-3114.html: cacm april 1978 heckel p difference <b>isolation</b> word processing text editing program maintenance hash coding compression bandwidth compression longest common subsequence comparison molecular evolution 3.63 3.73 3.81 4.43 ca780402 dh february 27 1979 1052
+cacm-2999.html: approach multidimensional data array processing computer <b>recent</b> work development general-purpose computer-based statistical data processing capabilities handling multidimensional arrays data presented
+cacm-1689.html: calculation <b>polynomial</b> derivative values horner scheme algorithm 337 c1 cacm september 1968 pankiewicz w function evaluation <b>polynomial</b> evaluation algol procedure horners scheme 5.12 4.22 ca680912 jb february 21 1978 433 pm
+cacm-1940.html: calculation <b>polynomial</b> derivative values horner scheme algorithm 337 c1 cacm january 1969 smith o k function evaluation <b>polynomial</b> evaluation algol procedure horners scheme 4.22 5.12 ca690109 jb february 20 1978 1146
+cacm-2090.html: symbolic expansion algebraic expressions algorithm 377 $r2 cacm march 1970 levine m j algebra symbolic algebra symbolic multiplication algebraic distribution algebraic multiplication distribution algorithm multiplication algorithm product algorithm <b>polynomial</b> distribution <b>polynomial</b> expansion 3.10 3.17 3.20 4.13 4.90 ca700308 jb february 13 1978 349 pm
+cacm-1456.html: storage retrieval aspects meaning directed graph structures experimental system lisp make conceptual dictionary described.
+cacm-0276.html: program organization record keeping dynamic storage allocation <b>material</b> presented paper part design plan core allocation portion ascii-matic programming system
+cacm-1253.html: quikscript-a simscript- language g-20 quikscript simulation language based simscript programmed entirely algebraic language, 20-gate.
+cacm-2822.html: homilies humble standards copyright 1976 association computing machinery inc general permission republish profit part <b>material</b> granted provided acms copyright notice reference made publication data issue fact reprinting privileges granted permission association computing machinery
+cacm-0281.html: putting hex e^x <b>recent</b> notes approximate natural antilogy considered indirect formulations describing e^x
+cacm-1254.html: iteration element <b>recent</b> addition mad language made iteration structure mad statement corresponding algol statement fortran statement expressions
+cacm-1726.html: simpler <b>material</b> instance claims sections patents applications utmost accuracy necessary unsupervised mode advocated
+cacm-0492.html: analysis addressing method paper presents addressing method based calculation address identification record.
+cacm-1495.html: solution transcendental equations series reversion algorithm developed expressing solution y, equation f(y) = g(x) power series (x - x0) power series,and <b>root</b> y0, known y=x0.
+cacm-0322.html: operational compatibility systems-conventions general standards committee share organization devoted considerable effort problem operating computer efficiently view growing number programming systems available.
+cacm-1153.html: fast procedure generating normal random variables* technique generating distributed random numbers described.
+cacm-1413.html: vision technology education educational technology fashionable.
+cacm-0062.html: multi-dimensional least-squares <b>polynomial</b> curve fitting cacm september 1959 lesh f h ca590907 jb march 22 1978 444 pm
+cacm-0089.html: routine find solution simultaneous linear equations <b>polynomial</b> coefficients cacm april 1959 larson e h marshall d p ca590403 jb march 22 1978 712 pm
+cacm-0112.html: numerical solution <b>polynomial</b> equation algorithm 30 cacm december 1960 ellenberger k w ca601204 jb march 20 1978 644 pm
+cacm-0125.html: <b>polynomial</b> transformer algorithm 29 cacm november 1960 mackinney j g ca601110 jb march 20 1978 706 pm
+cacm-0177.html: solution <b>polynomial</b> equation bairstow hitchcock method a a grau communications acm february 1960 algorithm cacm june 1960 thacher jr h c ca600613 jb march 20 1978 931 pm
+cacm-0179.html: evaluation legendre <b>polynomial</b> pnx recursion algorithm cacm june 1960 galler g m ca600611 jb march 20 1978 935 pm
+cacm-0180.html: evaluation laguerre <b>polynomial</b> lnx recursion algorithm cacm june 1960 galler g m ca600610 jb march 20 1978 936 pm
+cacm-0181.html: evaluation hermite <b>polynomial</b> hnx recursion algorithm cacm june 1960 galler g m ca600609 jb march 20 1978 937 pm
+cacm-0182.html: evaluation chebyshev <b>polynomial</b> tnx recursion algorithm cacm june 1960 galler g m ca600608 jb march 20 1978 938 pm
+cacm-0226.html: solution <b>polynomial</b> equation bairstow-hitchcock method algorithm 3 cacm february 1960 grau a a ca600206 jb march 22 1978 220 pm
+cacm-0325.html: numerical solution <b>polynomial</b> equation algorithm 30 cacm may 1961 alexander w j ca610509 jb march 16 1978 1058 pm
+cacm-0340.html: legendre <b>polynomial</b> algorithm 13 cacm april 1961 herndon j ca610428 jb march 16 1978 1137 pm
+cacm-0341.html: chebyschev <b>polynomial</b> algorithm 10 cacm april 1961 herndon j ca610427 jb march 16 1978 1138 pm
+cacm-0342.html: solution <b>polynomial</b> equation barstow-hitchcock algorithm 3 cacm april 1961 herndon j ca610426 jb march 16 1978 1139 pm
+cacm-0388.html: solution <b>polynomial</b> equations bairstow hitchcock method algorithm 3 cacm february 1961 vandergraft j s ca610210 jb march 17 1978 1254
+cacm-0647.html: numerical solution <b>polynomial</b> equation algorithm 30 cacm january 1962 cohen k j ca620112 jb march 20 1978 432 pm
+cacm-0764.html: reduction matrix <b>polynomial</b> elements algorithm 170 cacm august 1963 hennion p e ca630834 jb march 13 1978 809 pm
+cacm-0765.html: orthogonal <b>polynomial</b> squares surface fit algorithm 164 cacm august 1963 bitterli c v ca630833 jb march 13 1978 810 pm
+cacm-0842.html: posteriori bounds <b>polynomial</b> algorithm 174 cacm june 1963 gibb a ca630607 jb march 14 1978 1021
+cacm-1080.html: chebyshev <b>polynomial</b> coefficients algorithm 227 cacm may 1964 cyvin s j ca640509 jb march 9 1978 1157 pm
+cacm-1450.html: simultaneous displacement <b>polynomial</b> roots real simple algorithm 283 c2 cacm april 1966 kerner i o ca660403e jb march 23 1978 719 pm
+cacm-1599.html: numerical solution <b>polynomial</b> equation algorithm 300 c2 cacm may 1967 kohfeld j j ca670506d jb march 23 1978 403 pm
+cacm-2440.html: localization roots <b>polynomial</b> algorithm r429 cacm september 1973 driessen h b hunt e w lem
+cacm-2458.html: localization roots <b>polynomial</b> algorithm r429 cacm august 1973 williams e j ca730816 jb january 23 1978 1026
+cacm-2676.html: zeros complex <b>polynomial</b> algorithm r419 cacm march 1973 withers d h ca740307 jb january 18 1978 1111

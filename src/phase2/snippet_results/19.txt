@@ -1,0 +1,200 @@
+cacm-2973.html: cacm april 1977 thompson c d kung h t <b>parallel</b> parallel computer <b>parallel</b> parallel sorting <b>parallel</b> parallel merge routing comparison steps perfect shuffle
+cacm-0950.html: <b>parallel</b> parallel methods integrating ordinary differential equations paper dedicated proposition that order take full advantage real-time computations highly <b>parallel</b> parallel computers expected future numerical analysis recast <b>parallel</b> parallel form
+cacm-2266.html: cacm november 1972 patrick m l <b>parallel</b> parallel numerical <b>algorithms</b> algorithms real polynomials real zeros newtons method starting values guaranteed convergence 5.15 ca721103 jb january 27 1978 235 pm
+cacm-3075.html: fast <b>parallel</b> parallel sorting <b>algorithms</b> algorithms <b>parallel</b> parallel bucket-sort algorithm presented requires time olog n processors
+cacm-2557.html: <b>algorithms</b> algorithms presented properly clean matrix sequences subject constraints machine organization
+cacm-2570.html: comparison list schedules <b>parallel</b> parallel processing systems problem scheduling processors minimize execution time program consists set partially ordered tasks studied
+cacm-3156.html: computing connected components <b>parallel</b> parallel computers present <b>parallel</b> parallel algorithm n2 processors find connected components undirected graph vertices time olog2n
+cacm-2289.html: cacm september 1972 levitt k n kautz w h graph theory cellular logic-in-memory arrays <b>parallel</b> parallel processing special purpose computers <b>algorithms</b> algorithms distance spanning tree problems 5.32 6.22 6.5 ca720901 jb january 30 1978 916
+cacm-2433.html: cacm october 1973 millstein r e array processing parallelism detection explicit parallelism array allocation <b>parallel</b> parallel control structures illiac iv fortran 4.12 4.21 4.22 ca731007 jb january 20 1978 1130
+cacm-2692.html: <b>algorithms</b> algorithms able clip polygons irregular convex plane-faced volumes dimensions removing parts polygon lie volume
+cacm-1601.html: <b>parallel</b> parallel numerical methods solution equations classical iterative procedures numerical solution equations provide stage single approximation root question
+cacm-2114.html: cacm february 1970 hsiao d attribute-value pair index keyword record record address k-pointer k-list file directory generalized structure inverted file index-sequential-file multilist file description search directory search serial processing lists prime keyword <b>parallel</b> parallel processing lists 3.70 3.73 3.74 ca700201 jb february 14 1978 104 pm
+cacm-2838.html: analysis algorithm real time garbage collection real time garbage collection system avoids suspending operations list processor long times garbage collection requires performing garbage collection processor <b>parallel</b> parallel list processing operations single processor time-shared them
+cacm-1468.html: <b>parallel</b> parallel processing simulator originally written ibm 7094 system rewritten cdc 3600 system
+cacm-1957.html: efficiency derives evaluating expression <b>parallel</b> parallel evaluating subexpressions sets arrive final result
+cacm-2685.html: <b>parallel</b> parallel execution loops methods developed <b>parallel</b> parallel execution iterations loop
+cacm-1262.html: procedure-oriented language statements facilitate <b>parallel</b> parallel processing statements suggested allow programmer writing procedure-oriented language sections program executed <b>parallel</b> parallel
+cacm-2700.html: reduction method proving properties <b>parallel</b> parallel programs proving <b>parallel</b> parallel program property convenient assume statement indivisible ie
+cacm-1158.html: program structures <b>parallel</b> parallel processing constructs organizing explicating <b>parallel</b> parallel program segments discussed extensions algol 60 constructs serve meta-commands motivated equipment multiprocessing capability
+cacm-2714.html: cacm october 1975 gavril f <b>parallel</b> parallel processing <b>parallel</b> parallel merging <b>parallel</b> parallel binary insertion 5.31 ca751005 jb january 6 1978 1050
+cacm-2785.html: cacm march 1975 lawrie d h layman t baer d randal j m glypnir illiac iv programming language <b>parallel</b> parallel computation <b>parallel</b> parallel architecture 4.2 4.21 4.22 ca750303jb january 9 1978 457 pm
+cacm-0141.html: thoughts <b>parallel</b> parallel processing cacm october 1960 yarbrough l d ca601007 jb march 20 1978 816 pm
+cacm-0392.html: comment paper <b>parallel</b> parallel processing cacm february 1961 nekora m r ca610206 jb march 17 1978 1258
+cacm-1302.html: <b>parallel</b> parallel signaling speeds data transmission proposed american stand ard cacm march 1965 ca650305 jb march 7 1978 608 pm
+cacm-1795.html: optimal code serial <b>parallel</b> parallel computation cacm december 1969 fateman r j code optimization sequencing operations detection common subexpressions 4.12 ca691217 jb february 15 1978 159 pm
+cacm-1811.html: cacm december 1969 rosenfeld j l parallel-processor parallelism <b>parallel</b> parallel programming multiprocessor multiprogramming tasking storage interference electrical network simulation relaxation jacobi gauss-seidel convergence 3.24 4.9 5.14 5.17 6.21 ca691201 jb february 15 1978 445 pm
+cacm-2851.html: formal verification <b>parallel</b> parallel programs formal models <b>parallel</b> parallel computation presented abstract conceptual model parallel-program model
+cacm-2195.html: method suitable <b>parallel</b> parallel processing operations relative state computed <b>parallel</b> parallel number stages equal length curves or log2 approximate method used
+cacm-2401.html: shrinking binary picture patterns <b>parallel</b> parallel processing algorithm shrinking binary patterns obtain single isolated elements pattern presented
+cacm-3059.html: models <b>parallel</b> parallel processing programs application cpui/o i/oi/o overlap approximate queueing models internal <b>parallel</b> parallel processing individual programs multiprogrammed system developed paper
+cacm-2895.html: cacm december 1977 greif i formal specificationsprogram correctness <b>parallel</b> parallel processing synchronization readers/writers problem 4.22 4.32 5.24 ca771205 dmm december 22 1977 1244 pm
+cacm-0371.html: remarks <b>algorithms</b> algorithms 2 3 algorithm 15 <b>algorithms</b> algorithms 25 26 cacm march 1961 wilkinson j h ca610311 jb march 17 1978 1235
+cacm-1367.html: character structure character parity sense parallel-by-bit data communication ascii* (proposed american standard) cacm september, 1966 ca660912 jb march 2, 1978 4:26 pm
+cacm-1569.html: implementing phrase-structure productions pl/i method implementing productions context-free phrase structure grammar pl/i procedure structure statements <b>parallel</b> parallel structure notation grammar.
+cacm-1828.html: cacm november 1969 shoshani a bernstein a j <b>parallel</b> parallel accessing <b>parallel</b> parallel search search data base synchronization locking deadlock 3.73 3.74 4.32 ca691102 jb february 15 1978 113 pm
+cacm-2283.html: thinning <b>algorithms</b> algorithms rectangular hexagonal triangular arrays report thinning <b>algorithms</b> algorithms developed rectangular hexagonal triangular arrays
+cacm-2723.html: multiprocessing compactifying garbage collection <b>algorithms</b> algorithms multiprocessing compactifying garbage collector presented discussed
+cacm-2342.html: interference communicating <b>parallel</b> parallel processes kinds interference communicating <b>parallel</b> parallel processes examined dijkstra knuth others
+cacm-2950.html: unifying approach scheduling paper presents scheme classifying scheduling <b>algorithms</b> algorithms based abstract model scheduling system formalizes notion priority
+cacm-1658.html: analysis <b>algorithms</b> algorithms zero-one programming problem paper concerned review examination existing <b>algorithms</b> algorithms zero-one programming problem
+cacm-1952.html: index subject <b>algorithms</b> algorithms 1970 cacm december 1970 ca701211 jb february 9 1978 250 pm
+cacm-2226.html: evidence analysis <b>algorithms</b> algorithms zero-one programming problem purpose note report computational experience additional recently summarized gue al <b>algorithms</b> algorithms zero-one linear programming problem
+cacm-1008.html: scheduling meetings computer computer scheduling papers developed 1960 meeting federation american societies experimental biology (faseb) described.
+cacm-2182.html: interrupt driven programming cacm july 1971 zelkowitz m interrupts supervisors monitors debugging <b>parallel</b> parallel processing associative memories microprogramming 3.51 4.32 4.42 ca710608 jb february 3 1978 949
+cacm-1747.html: cacm may 1968 van horn e c computer design computer design criteria computer systems computer systems design input equipment input equipment design operating systems operating systems design multiprogramming multiprogrammed systems multiprogrammed system design virtual computers programming languages programming language design program semantics programming language semantics determinism reproducibility repeatability deterministic computers protection memory protection information security information privacy computing reliability debugging program debugging program testing <b>parallel</b> parallel processing <b>parallel</b> parallel programming multiprocessing 2.11 4.12 4.13 4.20 4.30 4.42 4.43 5.24 6.20 6.35 ca680509 jb february 23 1978 906
+cacm-1846.html: simulating networks <b>parallel</b> parallel processes simultaneous events occur problems simulating discrete event systems computer systems conventional digital computer dealt with
+cacm-2175.html: number subexpressions executed <b>parallel</b> parallel exceeds number processors execution subexpressions postponed
+cacm-2865.html: verifying properties <b>parallel</b> parallel programs axiomatic approach axiomatic method proving number properties <b>parallel</b> parallel programs presented
+cacm-2896.html: exercise proving <b>parallel</b> parallel programs correct <b>parallel</b> parallel program dijkstras on-the-fly garbage collector proved correct proof method developed owicki
+cacm-1529.html: course analysis substructure discovered relevance relative performance <b>algorithms</b> algorithms absolute performance compared standard primal-simplex solution decomposition
+cacm-1796.html: index subject <b>algorithms</b> algorithms 1969 cacm december 1969 1969 index supplement index subject <b>algorithms</b> algorithms 1960 1968 comm
+cacm-1873.html: accelerating lp <b>algorithms</b> algorithms shown method computing related products accelerate pricing phase lp <b>algorithms</b> algorithms
+cacm-2903.html: recursion troduction <b>algorithms</b> algorithms manipulate stack translated recursive <b>algorithms</b> algorithms stack operations occur
+cacm-2884.html: permutation enumeration permutation <b>algorithms</b> algorithms classical permutation enumeration <b>algorithms</b> algorithms encounter special cases requiring additional computation nth permutation generating n
+cacm-1551.html: compiling <b>algorithms</b> algorithms arithmetic expressions paper deals <b>algorithms</b> algorithms concerning arithmetic expressions fortran iv compiler hitac-5020 computer accumulators
+cacm-2490.html: efficient <b>algorithms</b> algorithms graph manipulation h algorithm a447 efficient <b>algorithms</b> algorithms presented partitioning graph connected components biconnected components simple paths
+cacm-1341.html: levels computer systems building computer systems, tend break "levels" control, command communication; system, break problems correspondingly.
+cacm-1536.html: evaluation function derivative proceed <b>parallel</b> parallel wengerts procedure imaginary parts variables declared complex bearing values derivatives real parts
+cacm-1554.html: computer technique displaying n-dimensional hyperobjects digital computer automatic plotter generate three-dimensional stereoscopic movies three-dimensional <b>parallel</b> parallel perspective projections four-dimensional hyperobjects rotating four-dimensional space
+cacm-2514.html: array grammar programming system package fortran programs developed permits user interactively design test array grammars.
+cacm-2727.html: multiple byte processing full-word instructions method <b>parallel</b> parallel processing packed data items ordinary full-word computer instructions processing requires operations execution contingent datum
+cacm-2952.html: functions realizable word-parallel logical two's-complement addition instructions cacm june, 1977 warren, h. s. jr. boolean functions, two's-complement, sign propagation 4.0 6.32 ca770611 jb december 28, 1977 12:45 pm
+cacm-3044.html: cacm november 1978 friedman d wise d <b>parallel</b> parallel evaluation suspending cons lisp conditional forms if-then-else ambiguous function infinite structures 4.2 4.13 4.32 5.24 ca781107 dh january 26 1979 1044
+cacm-3175.html: breaking substitution ciphers relaxation algorithm substitution ciphers codes letter alphabet fixed substitute, word divisions change.
+cacm-0270.html: techniques storage allocation <b>algorithms</b> algorithms cacm october 1961 kelley jr j e ca611011 jb march 16 1978 1250 pm
+cacm-0804.html: exponentiation series <b>algorithms</b> algorithms 134 cacm july 1963 thacher jr h c ca630720 jb march 14 1978 819
+cacm-1342.html: transportation problem <b>algorithms</b> algorithms 293 h cacm december 1966 bayer g ca661207a jb march 2 1978 230 pm
+cacm-1374.html: evaluation determinant determinant evaluation <b>algorithms</b> algorithms 41f3 269f3 cacm september 1966 bergson a ca660909e jb march 23 1978 429 pm
+cacm-1660.html: index subject <b>algorithms</b> algorithms 1960-1968 cacm december 1968 ca681206 jb february 21 1978 139 pm
+cacm-1851.html: generator spanning trees <b>algorithms</b> algorithms 354 h cacm september 1969 mcilroy m d spanning trees trees graphs 5.32 ca690904 jb february 15 1978 450 pm
+cacm-1953.html: exponential integral eix <b>algorithms</b> algorithms 385 $s13 cacm december 1970 redish k a ansi fortran standard 4.0 4.22 ca701210 jb february 9 1978 304 pm
+cacm-2007.html: <b>algorithms</b> algorithms policy/revised august 1970 cacm august 1970 ca700814 jb february 10 1978 312 pm
+cacm-2627.html: addition presenting analyzing <b>algorithms</b> algorithms shown general mean-finishing-time problem independent tasks polynomial complete unlikely admit non-enumerative solution cacm july 1974 bruno j coffman e g jr sethi r minimizing mean finishing time minimizing mean flow time sequencing <b>algorithms</b> algorithms optimal scheduling <b>algorithms</b> algorithms deterministic scheduling models 4.32 5.39 ca740704 jb january 17 1978 1256 pm
+cacm-2725.html: comparison simulation event list <b>algorithms</b> algorithms corrigendum cacm august 1975 vaucher j c duval p ca750810 jb january 6 1978 343 pm
+cacm-2819.html: <b>algorithms</b> algorithms encoding string differ slightly earlier proposals
+cacm-2830.html: practitioners guide addressing <b>algorithms</b> algorithms corrigendum cacm september 1976 severance d g duhne r a ca760909 jb january 4 1978 843
+cacm-2904.html: algorithm reduction operator strength simple algorithm indexed temporary table perform reduction operator strength strongly connected regions presented.
+cacm-3166.html: <b>algorithms</b> algorithms well-known statistical computational literature <b>algorithms</b> algorithms specifically intended automatic computation
+cacm-2080.html: cacm april 1970 hansen p b multiprogramming operating systems <b>parallel</b> parallel processes process concept process communication message buffering process hierarchy process creation process removal 4.30 4.31 4.32 4.41 ca700404 jb february 13 1978 310 pm
+cacm-1924.html: cacm march 1969 mckellar a c coffman jr e g matrix <b>algorithms</b> algorithms array processing paging <b>algorithms</b> algorithms paged memory systems virtual memory systems array storage allocation storage allocation 4.12 4.39 5.14 ca690303 jb february 20 1978 935
+cacm-2146.html: optimizing polyphase sort dispersion <b>algorithms</b> algorithms polyphase sorting procedure examinedhe optimum algorithm based minimizing total number unit strings read displayed
+cacm-2767.html: comparison simulation event list <b>algorithms</b> algorithms <b>algorithms</b> algorithms considered schedule events general purpose discrete simulation system
+cacm-2997.html: presented <b>algorithms</b> algorithms divide conquer technique recursively apply merge procedure nonin tersecting convex hulls
+cacm-3132.html: experiments <b>algorithms</b> algorithms find central solutions pattern classification two-class pattern recognition standard technique algorithm finding hyperplanes separates classes linearly separable training set
+cacm-2902.html: dynamic memory allocation computer simulation paper investigates performance 35 dynamic memory allocation <b>algorithms</b> algorithms service simulation programs represented 18 test cases
+cacm-0409.html: cl-1, environment compiler flexible, large-scale programming system facilitate solution information processing problems provide intercommunication programs and/or programmers developed realized ibm 709/7090 computer.
+cacm-1171.html: comparison primal-simplex primal-dual <b>algorithms</b> algorithms linear programming statistical comparison primal-dual commonly primal-simplex algorithm solving linear programming problems made assumption starting full artificial basis
+cacm-2094.html: algorithm nonlinear minimax approximation nonlinear minimax approximation problems characterize properties permit application special <b>algorithms</b> algorithms mainly based exchange <b>algorithms</b> algorithms remes 1934 1935 solution
+cacm-2267.html: <b>algorithms</b> algorithms reveal properties floating-point arithmetic <b>algorithms</b> algorithms presented form fortran subroutines
+cacm-2272.html: sorting natural selection family sorting <b>algorithms</b> algorithms proposed members make fuller memory space yield longer sorted strings
+cacm-2324.html: cacm july 1972 shanno d f weil r l integer programming linear programming mathematical programming nonlinear programming quadratic programming management science operations research <b>algorithms</b> algorithms 5.41 8.3 ca720704 jb january 30 1978 314 pm
+cacm-2368.html: cacm april 1972 chase s m graph <b>algorithms</b> algorithms graph processing shannon switching games game playing graph theory positional games demonstration programs game theory spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-2389.html: <b>algorithms</b> algorithms solve problems expressed language rely heuristic programming
+cacm-2630.html: computing sets shortest paths graph <b>algorithms</b> algorithms presented construct shortest paths pair vertices directed graph
+cacm-2832.html: <b>algorithms</b> algorithms addition deletion data garbage collection outlined
+cacm-2953.html: cacm june 1977 bird r s recursion elimination optimization programs stacks trees sorting <b>algorithms</b> algorithms computational induction 4.0 4.2 5.20 5.24 5.25 5.31 ca770610 jb december 28 1977 1250 pm
+cacm-3055.html: analysis <b>algorithms</b> algorithms dutch national flag problem solutions dutch national flag problem dijkstra 1 meyer 3
+cacm-3151.html: optimal real-time algorithm planar convex hulls algorithm construction real-time convex hull set points plane.
+cacm-0320.html: logic-structure tables logic tables excellent developing expressing logic required procedures, operations, systems circuits.
+cacm-1200.html: reversible subroutines computers run backwards computer design describe permits subroutines executed backward forward, instructions unchanged replaced conjugate instructions.
+cacm-2973.html: cacm april 1977 thompson c d kung h t <b>parallel</b> computer <b>parallel</b> sorting <b>parallel</b> merge routing comparison steps perfect shuffle
+cacm-0950.html: <b>parallel</b> methods integrating ordinary differential equations paper dedicated proposition that order take full advantage real-time computations highly <b>parallel</b> computers expected future numerical analysis recast <b>parallel</b> form
+cacm-2266.html: cacm november 1972 patrick m l <b>parallel</b> numerical <b>algorithms</b> real polynomials real zeros newtons method starting values guaranteed convergence 5.15 ca721103 jb january 27 1978 235 pm
+cacm-3075.html: fast <b>parallel</b> sorting <b>algorithms</b> <b>parallel</b> bucket-sort algorithm presented requires time olog n processors
+cacm-2557.html: <b>algorithms</b> presented properly clean matrix sequences subject constraints machine organization
+cacm-2570.html: comparison list schedules <b>parallel</b> processing systems problem scheduling processors minimize execution time program consists set partially ordered tasks studied
+cacm-3156.html: computing connected components <b>parallel</b> computers present <b>parallel</b> algorithm n2 processors find connected components undirected graph vertices time olog2n
+cacm-2289.html: cacm september 1972 levitt k n kautz w h graph theory cellular logic-in-memory arrays <b>parallel</b> processing special purpose computers <b>algorithms</b> distance spanning tree problems 5.32 6.22 6.5 ca720901 jb january 30 1978 916
+cacm-2433.html: cacm october 1973 millstein r e array processing parallelism detection explicit parallelism array allocation <b>parallel</b> control structures illiac iv fortran 4.12 4.21 4.22 ca731007 jb january 20 1978 1130
+cacm-2692.html: <b>algorithms</b> able clip polygons irregular convex plane-faced volumes dimensions removing parts polygon lie volume
+cacm-1601.html: <b>parallel</b> numerical methods solution equations classical iterative procedures numerical solution equations provide stage single approximation root question
+cacm-2114.html: cacm february 1970 hsiao d attribute-value pair index keyword record record address k-pointer k-list file directory generalized structure inverted file index-sequential-file multilist file description search directory search serial processing lists prime keyword <b>parallel</b> processing lists 3.70 3.73 3.74 ca700201 jb february 14 1978 104 pm
+cacm-2838.html: analysis algorithm real time garbage collection real time garbage collection system avoids suspending operations list processor long times garbage collection requires performing garbage collection processor <b>parallel</b> list processing operations single processor time-shared them
+cacm-1468.html: <b>parallel</b> processing simulator originally written ibm 7094 system rewritten cdc 3600 system
+cacm-1957.html: efficiency derives evaluating expression <b>parallel</b> evaluating subexpressions sets arrive final result
+cacm-2685.html: <b>parallel</b> execution loops methods developed <b>parallel</b> execution iterations loop
+cacm-1262.html: procedure-oriented language statements facilitate <b>parallel</b> processing statements suggested allow programmer writing procedure-oriented language sections program executed <b>parallel</b>
+cacm-2700.html: reduction method proving properties <b>parallel</b> programs proving <b>parallel</b> program property convenient assume statement indivisible ie
+cacm-1158.html: program structures <b>parallel</b> processing constructs organizing explicating <b>parallel</b> program segments discussed extensions algol 60 constructs serve meta-commands motivated equipment multiprocessing capability
+cacm-2714.html: cacm october 1975 gavril f <b>parallel</b> processing <b>parallel</b> merging <b>parallel</b> binary insertion 5.31 ca751005 jb january 6 1978 1050
+cacm-2785.html: cacm march 1975 lawrie d h layman t baer d randal j m glypnir illiac iv programming language <b>parallel</b> computation <b>parallel</b> architecture 4.2 4.21 4.22 ca750303jb january 9 1978 457 pm
+cacm-0141.html: thoughts <b>parallel</b> processing cacm october 1960 yarbrough l d ca601007 jb march 20 1978 816 pm
+cacm-0392.html: comment paper <b>parallel</b> processing cacm february 1961 nekora m r ca610206 jb march 17 1978 1258
+cacm-1302.html: <b>parallel</b> signaling speeds data transmission proposed american stand ard cacm march 1965 ca650305 jb march 7 1978 608 pm
+cacm-1795.html: optimal code serial <b>parallel</b> computation cacm december 1969 fateman r j code optimization sequencing operations detection common subexpressions 4.12 ca691217 jb february 15 1978 159 pm
+cacm-1811.html: cacm december 1969 rosenfeld j l parallel-processor parallelism <b>parallel</b> programming multiprocessor multiprogramming tasking storage interference electrical network simulation relaxation jacobi gauss-seidel convergence 3.24 4.9 5.14 5.17 6.21 ca691201 jb february 15 1978 445 pm
+cacm-2851.html: formal verification <b>parallel</b> programs formal models <b>parallel</b> computation presented abstract conceptual model parallel-program model
+cacm-2195.html: method suitable <b>parallel</b> processing operations relative state computed <b>parallel</b> number stages equal length curves or log2 approximate method used
+cacm-2401.html: shrinking binary picture patterns <b>parallel</b> processing algorithm shrinking binary patterns obtain single isolated elements pattern presented
+cacm-3059.html: models <b>parallel</b> processing programs application cpui/o i/oi/o overlap approximate queueing models internal <b>parallel</b> processing individual programs multiprogrammed system developed paper
+cacm-2895.html: cacm december 1977 greif i formal specificationsprogram correctness <b>parallel</b> processing synchronization readers/writers problem 4.22 4.32 5.24 ca771205 dmm december 22 1977 1244 pm
+cacm-0371.html: remarks <b>algorithms</b> 2 3 algorithm 15 <b>algorithms</b> 25 26 cacm march 1961 wilkinson j h ca610311 jb march 17 1978 1235
+cacm-1367.html: character structure character parity sense parallel-by-bit data communication ascii* (proposed american standard) cacm september, 1966 ca660912 jb march 2, 1978 4:26 pm
+cacm-1569.html: implementing phrase-structure productions pl/i method implementing productions context-free phrase structure grammar pl/i procedure structure statements <b>parallel</b> structure notation grammar.
+cacm-1828.html: cacm november 1969 shoshani a bernstein a j <b>parallel</b> accessing <b>parallel</b> search search data base synchronization locking deadlock 3.73 3.74 4.32 ca691102 jb february 15 1978 113 pm
+cacm-2283.html: thinning <b>algorithms</b> rectangular hexagonal triangular arrays report thinning <b>algorithms</b> developed rectangular hexagonal triangular arrays
+cacm-2723.html: multiprocessing compactifying garbage collection <b>algorithms</b> multiprocessing compactifying garbage collector presented discussed
+cacm-2342.html: interference communicating <b>parallel</b> processes kinds interference communicating <b>parallel</b> processes examined dijkstra knuth others
+cacm-2950.html: unifying approach scheduling paper presents scheme classifying scheduling <b>algorithms</b> based abstract model scheduling system formalizes notion priority
+cacm-1658.html: analysis <b>algorithms</b> zero-one programming problem paper concerned review examination existing <b>algorithms</b> zero-one programming problem
+cacm-1952.html: index subject <b>algorithms</b> 1970 cacm december 1970 ca701211 jb february 9 1978 250 pm
+cacm-2226.html: evidence analysis <b>algorithms</b> zero-one programming problem purpose note report computational experience additional recently summarized gue al <b>algorithms</b> zero-one linear programming problem
+cacm-1008.html: scheduling meetings computer computer scheduling papers developed 1960 meeting federation american societies experimental biology (faseb) described.
+cacm-2182.html: interrupt driven programming cacm july 1971 zelkowitz m interrupts supervisors monitors debugging <b>parallel</b> processing associative memories microprogramming 3.51 4.32 4.42 ca710608 jb february 3 1978 949
+cacm-1747.html: cacm may 1968 van horn e c computer design computer design criteria computer systems computer systems design input equipment input equipment design operating systems operating systems design multiprogramming multiprogrammed systems multiprogrammed system design virtual computers programming languages programming language design program semantics programming language semantics determinism reproducibility repeatability deterministic computers protection memory protection information security information privacy computing reliability debugging program debugging program testing <b>parallel</b> processing <b>parallel</b> programming multiprocessing 2.11 4.12 4.13 4.20 4.30 4.42 4.43 5.24 6.20 6.35 ca680509 jb february 23 1978 906
+cacm-1846.html: simulating networks <b>parallel</b> processes simultaneous events occur problems simulating discrete event systems computer systems conventional digital computer dealt with
+cacm-2175.html: number subexpressions executed <b>parallel</b> exceeds number processors execution subexpressions postponed
+cacm-2865.html: verifying properties <b>parallel</b> programs axiomatic approach axiomatic method proving number properties <b>parallel</b> programs presented
+cacm-2896.html: exercise proving <b>parallel</b> programs correct <b>parallel</b> program dijkstras on-the-fly garbage collector proved correct proof method developed owicki
+cacm-1529.html: course analysis substructure discovered relevance relative performance <b>algorithms</b> absolute performance compared standard primal-simplex solution decomposition
+cacm-1796.html: index subject <b>algorithms</b> 1969 cacm december 1969 1969 index supplement index subject <b>algorithms</b> 1960 1968 comm
+cacm-1873.html: accelerating lp <b>algorithms</b> shown method computing related products accelerate pricing phase lp <b>algorithms</b>
+cacm-2903.html: recursion troduction <b>algorithms</b> manipulate stack translated recursive <b>algorithms</b> stack operations occur
+cacm-2884.html: permutation enumeration permutation <b>algorithms</b> classical permutation enumeration <b>algorithms</b> encounter special cases requiring additional computation nth permutation generating n
+cacm-1551.html: compiling <b>algorithms</b> arithmetic expressions paper deals <b>algorithms</b> concerning arithmetic expressions fortran iv compiler hitac-5020 computer accumulators
+cacm-2490.html: efficient <b>algorithms</b> graph manipulation h algorithm a447 efficient <b>algorithms</b> presented partitioning graph connected components biconnected components simple paths
+cacm-1341.html: levels computer systems building computer systems, tend break "levels" control, command communication; system, break problems correspondingly.
+cacm-1536.html: evaluation function derivative proceed <b>parallel</b> wengerts procedure imaginary parts variables declared complex bearing values derivatives real parts
+cacm-1554.html: computer technique displaying n-dimensional hyperobjects digital computer automatic plotter generate three-dimensional stereoscopic movies three-dimensional <b>parallel</b> perspective projections four-dimensional hyperobjects rotating four-dimensional space
+cacm-2514.html: array grammar programming system package fortran programs developed permits user interactively design test array grammars.
+cacm-2727.html: multiple byte processing full-word instructions method <b>parallel</b> processing packed data items ordinary full-word computer instructions processing requires operations execution contingent datum
+cacm-2952.html: functions realizable word-parallel logical two's-complement addition instructions cacm june, 1977 warren, h. s. jr. boolean functions, two's-complement, sign propagation 4.0 6.32 ca770611 jb december 28, 1977 12:45 pm
+cacm-3044.html: cacm november 1978 friedman d wise d <b>parallel</b> evaluation suspending cons lisp conditional forms if-then-else ambiguous function infinite structures 4.2 4.13 4.32 5.24 ca781107 dh january 26 1979 1044
+cacm-3175.html: breaking substitution ciphers relaxation algorithm substitution ciphers codes letter alphabet fixed substitute, word divisions change.
+cacm-0270.html: techniques storage allocation <b>algorithms</b> cacm october 1961 kelley jr j e ca611011 jb march 16 1978 1250 pm
+cacm-0804.html: exponentiation series <b>algorithms</b> 134 cacm july 1963 thacher jr h c ca630720 jb march 14 1978 819
+cacm-1342.html: transportation problem <b>algorithms</b> 293 h cacm december 1966 bayer g ca661207a jb march 2 1978 230 pm
+cacm-1374.html: evaluation determinant determinant evaluation <b>algorithms</b> 41f3 269f3 cacm september 1966 bergson a ca660909e jb march 23 1978 429 pm
+cacm-1660.html: index subject <b>algorithms</b> 1960-1968 cacm december 1968 ca681206 jb february 21 1978 139 pm
+cacm-1851.html: generator spanning trees <b>algorithms</b> 354 h cacm september 1969 mcilroy m d spanning trees trees graphs 5.32 ca690904 jb february 15 1978 450 pm
+cacm-1953.html: exponential integral eix <b>algorithms</b> 385 $s13 cacm december 1970 redish k a ansi fortran standard 4.0 4.22 ca701210 jb february 9 1978 304 pm
+cacm-2007.html: <b>algorithms</b> policy/revised august 1970 cacm august 1970 ca700814 jb february 10 1978 312 pm
+cacm-2627.html: addition presenting analyzing <b>algorithms</b> shown general mean-finishing-time problem independent tasks polynomial complete unlikely admit non-enumerative solution cacm july 1974 bruno j coffman e g jr sethi r minimizing mean finishing time minimizing mean flow time sequencing <b>algorithms</b> optimal scheduling <b>algorithms</b> deterministic scheduling models 4.32 5.39 ca740704 jb january 17 1978 1256 pm
+cacm-2725.html: comparison simulation event list <b>algorithms</b> corrigendum cacm august 1975 vaucher j c duval p ca750810 jb january 6 1978 343 pm
+cacm-2819.html: <b>algorithms</b> encoding string differ slightly earlier proposals
+cacm-2830.html: practitioners guide addressing <b>algorithms</b> corrigendum cacm september 1976 severance d g duhne r a ca760909 jb january 4 1978 843
+cacm-2904.html: algorithm reduction operator strength simple algorithm indexed temporary table perform reduction operator strength strongly connected regions presented.
+cacm-3166.html: <b>algorithms</b> well-known statistical computational literature <b>algorithms</b> specifically intended automatic computation
+cacm-2080.html: cacm april 1970 hansen p b multiprogramming operating systems <b>parallel</b> processes process concept process communication message buffering process hierarchy process creation process removal 4.30 4.31 4.32 4.41 ca700404 jb february 13 1978 310 pm
+cacm-1924.html: cacm march 1969 mckellar a c coffman jr e g matrix <b>algorithms</b> array processing paging <b>algorithms</b> paged memory systems virtual memory systems array storage allocation storage allocation 4.12 4.39 5.14 ca690303 jb february 20 1978 935
+cacm-2146.html: optimizing polyphase sort dispersion <b>algorithms</b> polyphase sorting procedure examinedhe optimum algorithm based minimizing total number unit strings read displayed
+cacm-2767.html: comparison simulation event list <b>algorithms</b> <b>algorithms</b> considered schedule events general purpose discrete simulation system
+cacm-2997.html: presented <b>algorithms</b> divide conquer technique recursively apply merge procedure nonin tersecting convex hulls
+cacm-3132.html: experiments <b>algorithms</b> find central solutions pattern classification two-class pattern recognition standard technique algorithm finding hyperplanes separates classes linearly separable training set
+cacm-2902.html: dynamic memory allocation computer simulation paper investigates performance 35 dynamic memory allocation <b>algorithms</b> service simulation programs represented 18 test cases
+cacm-0409.html: cl-1, environment compiler flexible, large-scale programming system facilitate solution information processing problems provide intercommunication programs and/or programmers developed realized ibm 709/7090 computer.
+cacm-1171.html: comparison primal-simplex primal-dual <b>algorithms</b> linear programming statistical comparison primal-dual commonly primal-simplex algorithm solving linear programming problems made assumption starting full artificial basis
+cacm-2094.html: algorithm nonlinear minimax approximation nonlinear minimax approximation problems characterize properties permit application special <b>algorithms</b> mainly based exchange <b>algorithms</b> remes 1934 1935 solution
+cacm-2267.html: <b>algorithms</b> reveal properties floating-point arithmetic <b>algorithms</b> presented form fortran subroutines
+cacm-2272.html: sorting natural selection family sorting <b>algorithms</b> proposed members make fuller memory space yield longer sorted strings
+cacm-2324.html: cacm july 1972 shanno d f weil r l integer programming linear programming mathematical programming nonlinear programming quadratic programming management science operations research <b>algorithms</b> 5.41 8.3 ca720704 jb january 30 1978 314 pm
+cacm-2368.html: cacm april 1972 chase s m graph <b>algorithms</b> graph processing shannon switching games game playing graph theory positional games demonstration programs game theory spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-2389.html: <b>algorithms</b> solve problems expressed language rely heuristic programming
+cacm-2630.html: computing sets shortest paths graph <b>algorithms</b> presented construct shortest paths pair vertices directed graph
+cacm-2832.html: <b>algorithms</b> addition deletion data garbage collection outlined
+cacm-2953.html: cacm june 1977 bird r s recursion elimination optimization programs stacks trees sorting <b>algorithms</b> computational induction 4.0 4.2 5.20 5.24 5.25 5.31 ca770610 jb december 28 1977 1250 pm
+cacm-3055.html: analysis <b>algorithms</b> dutch national flag problem solutions dutch national flag problem dijkstra 1 meyer 3
+cacm-3151.html: optimal real-time algorithm planar convex hulls algorithm construction real-time convex hull set points plane.
+cacm-0320.html: logic-structure tables logic tables excellent developing expressing logic required procedures, operations, systems circuits.
+cacm-1200.html: reversible subroutines computers run backwards computer design describe permits subroutines executed backward forward, instructions unchanged replaced conjugate instructions.

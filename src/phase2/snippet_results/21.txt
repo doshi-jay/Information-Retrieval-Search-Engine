@@ -1,0 +1,200 @@
+cacm-3018.html: cacm february 1978 kou l stockmeyer l wong c watson t keyword conflicts intersection graphs node clique cover edge clique cover <b>computational</b> computational <b>complexity</b> complexity np-complete problems polynomial-time heuristics 4.12 5.25 5.32 ca780205 jb march 28 1978 418 pm
+cacm-2337.html: cacm june 1972 pohl i sorting <b>computational</b> computational <b>complexity</b> complexity <b>computational</b> computational combinatorics 5.29 5.31 ca720608 jb january 30 1978 415 pm
+cacm-2702.html: cacm december 1975 hunt h b iii szymanski t g ullman j d <b>computational</b> computational <b>complexity</b> complexity context-free grammars parsing lrk grammars np-complete problems 4.12 5.23 5.25 ca751205 jb january 5 1978 428 pm
+cacm-3086.html: cacm july 1978 fredman m weide b analysis <b>algorithms</b> algorithms combinatorial problems <b>computational</b> computational <b>complexity</b> complexity <b>computational</b> computational models decision tree programs lower bounds 5.25 5.26 5.30 5.39 ca780702 dh february 8 1979 346 pm
+cacm-2837.html: cacm september 1976 yap c k selection problem <b>algorithms</b> algorithms comparison problems concrete <b>computational</b> computational <b>complexity</b> complexity upper bounds worst-case analysis 5.25 5.31 ca760902 jb january 4 1978 948
+cacm-3110.html: assembling code machines span-dependent instructions modern computers instructions lengths depend distance instance instruction operand instruction.
+cacm-2997.html: cacm february 1977 preparata f p hong s j <b>computational</b> computational <b>complexity</b> complexity convex hull optimal <b>algorithms</b> algorithms planar set poin ts spatial set poin ts 4.49 5.25 5.32 ca770203 jb december 30 1977 247
+cacm-2110.html: cacm february 1970 earley j syntax analysis parsing context-free grammar compilers <b>computational</b> computational <b>complexity</b> complexity 4.12 5.22 5.23 ca700205 jb february 14 1978 1035
+cacm-2932.html: cacm september 1977 rabin m o <b>complexity</b> complexity computations algebraic <b>complexity</b> complexity tractable problems probabilistic <b>algorithms</b> algorithms 5.25 ca770901 jb december 28 1977 654
+cacm-2325.html: are foundations finite precision number systems <b>computational</b> computational <b>complexity</b> complexity synthesis analysis <b>algorithms</b> algorithms analysis error programs program libraries
+cacm-2771.html: cacm april 1975 braid i c <b>computational</b> computational geometry computer-aided design graphics machined components polyhedra shape synthesis three-dimensional modeling 3.2 8.2 ca750406 jb january 9 1978 359 pm
+cacm-3165.html: cacm september 1979 nagy g wagle s polygon maps cellularization gridding geographic data structures <b>computational</b> computational geometry computer cartography automated cartography 3.14 4.34 8.2 ca790906 db january 14 1980 1204 pm
+cacm-2931.html: logic programming languages logic long terested answers questions computable principle, outcome puts bounds possibilities formalization.
+cacm-2743.html: sorting + cacm june 1975 harper l h payne t h savage j e straus e merge sorting <b>computational</b> computational <b>complexity</b> complexity data modeling computing models binary comparisons 5.25 5.31 ca750610 jb january 9 1978 1245 pm
+cacm-2189.html: generation rosary permutations expressed hamiltonian circuits systematic generation specific class permutations fundamental scheduling problems described.
+cacm-2216.html: solution integral equation advanced <b>algorithms</b> algorithms family makes minor <b>reductions</b> reductions expected sorting effort substantially reduces variance sorting effort
+cacm-2706.html: cacm november 1975 kou l t wong c k compaction character sets set basis set covering <b>computational</b> computational <b>complexity</b> complexity polynomial completeness clique cover 4.9 5.25 5.39 ca751106 jb january 6 1978 855
+cacm-3162.html: cacm september 1979 galil z <b>computational</b> computational <b>complexity</b> complexity linear time worst case string matching periodicity 3.74 4.40 5.25 ca790903 db january 14 1980 1027
+cacm-2950.html: criterion implementation <b>efficiency</b> efficiency algorithm developed results definition time-invariant <b>algorithms</b> algorithms include commonly implemented ones
+cacm-1650.html: unifying <b>computational</b> computational method analysis complete factorial experiments <b>computational</b> computational method calculation sums squares analysis variance complete factorial experiments computation main effect interaction means described
+cacm-2927.html: cacm september 1977 mairson h g <b>computational</b> computational <b>complexity</b> complexity sieve prime number generation number theory linked list preprocessing balancing 5.25 5.39 ca770907 jb december 27 1977 1255 pm
+cacm-2986.html: cacm march 1977 hunt h b iii szymanski t g ullman j d <b>computational</b> computational <b>complexity</b> complexity sparse relation boolean matrix directed graph wirth-weber precedence relation linear precedence function slr grammar t-canonical precedence relation 4.12 5.23 5.25 ca770306 jb december 29 1977 805
+cacm-1658.html: analysis <b>algorithms</b> algorithms zero-one programming problem paper concerned review examination existing <b>algorithms</b> algorithms zero-one programming problem
+cacm-2226.html: evidence analysis <b>algorithms</b> algorithms zero-one programming problem purpose note report <b>computational</b> computational experience additional recently summarized gue al <b>algorithms</b> algorithms zero-one linear programming problem
+cacm-3131.html: focus microcomputer number system focus number system supporting <b>computational</b> computational <b>algorithms</b> algorithms especially microcomputer control signal processing applications
+cacm-2703.html: cacm december 1975 jazayeri m ogden w f rounds w c attribute grammars circularity problem context-free grammars <b>computational</b> computational <b>complexity</b> complexity exponential time semantics 4.12 5.25 ca751204 jb january 5 1978 438 pm
+cacm-2169.html: altran system rational function manipulation-a survey altran complete system symbolic computation rational functions variables integer coefficients.
+cacm-2313.html: evolution storage structures data base management systems grown rapidly power <b>complexity</b> complexity 15-year history data processing commercially computers
+cacm-1309.html: special languages extract matran permits selective extraction data subset efficient processing <b>computational</b> computational sequence flexible presentation results tabular graphical form
+cacm-3132.html: experiments <b>algorithms</b> algorithms find central solutions pattern classification two-class pattern recognition standard technique algorithm finding hyperplanes separates classes linearly separable training set
+cacm-3055.html: analysis <b>algorithms</b> algorithms dutch national flag problem solutions dutch national flag problem dijkstra 1 meyer 3
+cacm-2903.html: recursion troduction <b>algorithms</b> algorithms manipulate stack translated recursive <b>algorithms</b> algorithms stack operations occur
+cacm-2627.html: addition presenting analyzing <b>algorithms</b> algorithms shown general mean-finishing-time problem independent tasks polynomial complete unlikely admit non-enumerative solution cacm july 1974 bruno j coffman e g jr sethi r minimizing mean finishing time minimizing mean flow time sequencing <b>algorithms</b> algorithms optimal scheduling <b>algorithms</b> algorithms deterministic scheduling models 4.32 5.39 ca740704 jb january 17 1978 1256 pm
+cacm-2454.html: <b>computational</b> computational <b>algorithms</b> algorithms closed queueing networks exponential servers methods presented computing equilibrium distribution customers closed queueing networks exponential servers
+cacm-1619.html: error-free methods statistical computations neely discussed <b>computational</b> computational error generated <b>algorithms</b> algorithms compute statistics.
+cacm-2389.html: <b>algorithms</b> algorithms solve problems expressed language rely heuristic programming
+cacm-2953.html: cacm june 1977 bird r s recursion elimination optimization programs stacks trees sorting <b>algorithms</b> algorithms <b>computational</b> computational induction 4.0 4.2 5.20 5.24 5.25 5.31 ca770610 jb december 28 1977 1250 pm
+cacm-3151.html: cacm july 1979 preparata f <b>computational</b> computational geometry convex hull planar set points real-time <b>algorithms</b> algorithms on-line <b>algorithms</b> algorithms
+cacm-2645.html: languages estimating program <b>efficiency</b> efficiency languages enabling users estimate <b>efficiency</b> efficiency computer programs presented
+cacm-2081.html: sequences matrices <b>and</b> and sequences sequences matrices considered matrix operators areext ended sequence operators cumulative operators
+cacm-2936.html: efficient data structure simulation event set recently <b>algorithms</b> algorithms presented realization event scheduling routines suitable general purpose discrete event simulation systems
+cacm-3163.html: represents improvement previous ly known insertion <b>algorithms</b> algorithms hirschberg kosaraju require time olog 2n
+cacm-2784.html: cacm march 1975 floyd r w rivest r l selection <b>computational</b> computational <b>complexity</b> complexity medians tournaments quantiles 5.30 5.39 ca750304 jb january 9 1978 452 pm
+cacm-2828.html: first range <b>complexity</b> complexity environment greatly increased visible <b>complexity</b> complexity scene fixed upper limit
+cacm-2701.html: fast linear algorithm global flow analysis (abstract only--complete paper jacm 23,1 january, 1976) algorithm global flow analysis reducible graphs presented.
+cacm-2749.html: significant event simulation paper compares method simulation organization, called significant event method, one, called clock pulse method, examples automobile traffic models.
+cacm-3070.html: accuracy <b>efficiency</b> efficiency hybrid technique demonstrated comparing result <b>computational</b> computational costs hybrid model equivalent simulation-only model
+cacm-3166.html: <b>algorithms</b> algorithms well-known statistical <b>computational</b> computational literature <b>algorithms</b> algorithms specifically intended automatic computation
+cacm-2033.html: cacm july 1970 bloom b h hash coding hash addressing scatter storage searching storage layout retrieval trade-offs retrieval <b>efficiency</b> efficiency storage <b>efficiency</b> efficiency 3.73 3.74 3.79 ca700704 jb february 13 1978 918
+cacm-3032.html: <b>algorithms</b> algorithms accomplishing delivery store-and-forward packet switching computer network include 1 transmission separately addressed packets
+cacm-2695.html: tridiagonalization permutations tridiagonalizing matrix similarity transformations important <b>computational</b> computational tool numerical linear algebra.
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> algorithms constraint networks constraint satisfaction graph coloring network consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-2030.html: cacm july 1970 woods w a context-sensitive grammars context-sensitive parsing formal grammars formal language theory parsing parsing <b>algorithms</b> algorithms recognition <b>algorithms</b> algorithms 3.42 5.22 5.23 ca700707 jb february 10 1978 443 pm
+cacm-0719.html: stacking operations made basis compiler decoding <b>algorithms</b> algorithms proper machines class compilation advantages machines fixed-length words
+cacm-2135.html: attempt made approximate f q polynomial approximating f <b>algorithms</b> algorithms developed rapid computation q wide class selections includes lagrangian hermitian rules special cases
+cacm-3118.html: permutation data blocks bubble memory common internal organization bubble memories consists set (minor) loops, connected (major) loop.
+cacm-2289.html: chief <b>computational</b> computational advantage offered cellular arrays improvement speed achieved virtue possibilities parallel processing
+cacm-2499.html: cacm june 1973 hamlet r g monitor executive multiprogramming <b>efficiency</b> efficiency resource allocation resource accounting 4.32 ca730601 jb january 23 1978 351 pm
+cacm-3153.html: parameterized <b>algorithms</b> algorithms partition main memory classes jobs considered
+cacm-3057.html: optimal togram matching monotone gray level transformation paper investigates problem optimal togram matching monotone gray level transformation, assigns picture points gray level gray level t(i) > j, t(i) > t(j).
+cacm-3037.html: method arithmetic <b>complexity</b> complexity algorithm presented mairson 6 however version simpler elegant
+cacm-2746.html: efficient string matching: aid bibliographic search paper describes simple, efficient algorithm locate occurrences finite number keywords string text.
+cacm-2916.html: cacm october 1977 boyer r s bibliographic search <b>computational</b> computational <b>complexity</b> complexity information retrieval linear time bound pattern matching text editing 3.74 4.40 5.25 ca771010 jb december 27 1977 943
+cacm-2365.html: matrix computations fortran paging <b>efficiency</b> efficiency conventional fortran programs matrix computations improved reversing order nested loops
+cacm-3065.html: cacm september 1978 ottmann t six h wood d dictionary problem search trees avl trees brother trees right-balanced treesone-sided height-balanced trees insertion deletion <b>algorithms</b> algorithms 3.73 3.74 5.31 ca780807 dh january 29 1979 708 pm
+cacm-1706.html: champ-character manipulation procedures programming language facility symbol manipulation described.
+cacm-1811.html: case study programming parallel-processors affirmative partial answer provided question program parallel-processor computing systems efficiently decrease execution time problems.
+cacm-1943.html: complete elliptic integrals (algorithm 165 [s21]) cacm january,1969 farkas, i. special functions, complete elliptic integral kind, complete elliptic integral kind 5.12 ca690106 jb february 20, 1978 11:54
+cacm-1886.html: generation optimal code expressions factorization set expressions compiled methods presented increasing <b>efficiency</b> efficiency object code produced factoring expressions ie
+cacm-2035.html: cacm july 1970 wilkes m a conversational computer access display editing display oriented system filing <b>algorithms</b> algorithms lap6 layering linc man-machine communication on-line editing on-line <b>efficiency</b> efficiency on-line environment scroll editing small machine system tape filing tape oriented system text editing 3.73 4.10 4.11 4.19 4.22 4.30 4.40 4.41 ca700702 jb february 13 1978 935
+cacm-1462.html: multilevel operating systems basic software newer computers built well-established need standard operating systems.
+cacm-2251.html: weighted increment linear search scatter tables linear search hash tables increment step function key addressed presented.
+cacm-3134.html: <b>algorithms</b> algorithms evaluating appropriateness approach information system described
+cacm-2679.html: <b>algorithms</b> algorithms 271 402 refinements algorithm 64 discussed detail
+cacm-1350.html: augmented predictive analyzer context-free languages-its relative <b>efficiency</b> efficiency proven greibach context-free grammar g standard-form grammar gs constructed generates languages generated rules form cy1 ym m o yi intermediate symbols terminal symbol
+cacm-2665.html: copying list structures bounded workspace <b>algorithms</b> algorithms presented list structure copying bounded workspace
+cacm-2766.html: previous bounded workspace copying <b>algorithms</b> algorithms achieved n^2 time tag bits log time tag
+cacm-3150.html: programming languages computer technology matures, growing ability create large systems leading basic nature programming.
+cacm-1572.html: sake <b>efficiency</b> efficiency greater applicability model implemented limited fortran subset compatible fortran iv compilers
+cacm-1957.html: <b>efficiency</b> efficiency derives evaluating expression parallel evaluating subexpressions sets arrive final result
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> algorithms intended reduce number comparisons required achieve desired result
+cacm-2435.html: class dynamic memory allocation <b>algorithms</b> algorithms anew dynamic memory allocation algorithm fibonacci system introduced
+cacm-2955.html: buddy systems <b>algorithms</b> algorithms presented implementing class buddy systems dynamic storage allocation
+cacm-2092.html: cacm march 1970 schwarcz r m burger j f simmons r f question answering natural language protosynthex iii lisp semantics artificial intelligence <b>computational</b> computational linguistics language processing fact retrieval 3.42 3.61 ca700306 jb february 13 1978 430 pm
+cacm-2628.html: <b>computational</b> computational requirements algorithm implements mtpt scheduling discipline shown comparable sltf <b>algorithms</b> algorithms
+cacm-2855.html: cacm june 1976 clark d w list moving list copying lisp space <b>complexity</b> complexity constant workspace 4.34 4.49 5.25 ca760607 jb january 4 1978 143 pm
+cacm-2111.html: spelling correction systems programs specialized techniques shown efficiently incorporating spelling correction <b>algorithms</b> algorithms compilers operating systems.
+cacm-3007.html: <b>complexity</b> complexity computations corrigendum cacm march 1978 rabin m ca780306 jb march 28 1978 102 pm
+cacm-0895.html: <b>computational</b> computational extension variate difference method presented <b>computational</b> computational extension variate difference method developed g tintner 1
+cacm-1659.html: cacm december 1968 kuno s oettinger a g <b>computational</b> computational linguistics mathematical linguistics language computer language data processing <b>computational</b> computational linguistics course curriculum <b>computational</b> computational linguistics graduate program <b>computational</b> computational linguistics bibliography computer science curriculum 1.52 3.42 3.43 ca681207 jb february 21 1978 137 pm
+cacm-0345.html: complete elliptic integral kind (algorithm 56) cacm april, 1961 herndon, j. r. ca610423 jb march 16, 197811:43 pm
+cacm-0346.html: complete elliptic integral kind (algorithm 55) cacm april, 1961 herndon, j. r. ca610422 jb march 16, 1978 11:44 pm
+cacm-0425.html: complete elliptic integral (algorithm 149) cacm december, 1962 merner, j. n. ca621214 jb march 17,1978 4:59 pm
+cacm-0876.html: complete elliptic integral (algorithm 149) cacm april, 1963 thacher, h. c. ca630415 jb march 14, 1978 12:14 pm
+cacm-0877.html: complete elliptic integral kind (algorithm 55) cacm april, 1963 thacher jr., h. c. ca630414 jb march 14, 1978 12:15 pm
+cacm-0883.html: complete elliptic integrals (algorithm 165) cacm april, 1963 thacher jr., h. c. ca630408 jb march 14, 1978 12:23 pm
+cacm-2848.html: synthesis decision rules decision tables effective tool interview record logic processes automated.
+cacm-2892.html: measurements line <b>efficiency</b> efficiency arpanet presented extrapolation measurements anticipate overhead heavily loaded network
+cacm-1496.html: formal semantics computer languages application compiler-compiler semantic meta-language developed representing meanings statements large class computer languages.
+cacm-0117.html: estimation relative <b>efficiency</b> efficiency internal sorting methods cacm november 1960 nagler h ca601118 jb march 20 1978 651 pm
+cacm-3018.html: cacm february 1978 kou l stockmeyer l wong c watson t keyword conflicts intersection graphs node clique cover edge clique cover <b>computational</b> <b>complexity</b> np-complete problems polynomial-time heuristics 4.12 5.25 5.32 ca780205 jb march 28 1978 418 pm
+cacm-2337.html: cacm june 1972 pohl i sorting <b>computational</b> <b>complexity</b> <b>computational</b> combinatorics 5.29 5.31 ca720608 jb january 30 1978 415 pm
+cacm-2702.html: cacm december 1975 hunt h b iii szymanski t g ullman j d <b>computational</b> <b>complexity</b> context-free grammars parsing lrk grammars np-complete problems 4.12 5.23 5.25 ca751205 jb january 5 1978 428 pm
+cacm-3086.html: cacm july 1978 fredman m weide b analysis <b>algorithms</b> combinatorial problems <b>computational</b> <b>complexity</b> <b>computational</b> models decision tree programs lower bounds 5.25 5.26 5.30 5.39 ca780702 dh february 8 1979 346 pm
+cacm-2837.html: cacm september 1976 yap c k selection problem <b>algorithms</b> comparison problems concrete <b>computational</b> <b>complexity</b> upper bounds worst-case analysis 5.25 5.31 ca760902 jb january 4 1978 948
+cacm-3110.html: assembling code machines span-dependent instructions modern computers instructions lengths depend distance instance instruction operand instruction.
+cacm-2997.html: cacm february 1977 preparata f p hong s j <b>computational</b> <b>complexity</b> convex hull optimal <b>algorithms</b> planar set poin ts spatial set poin ts 4.49 5.25 5.32 ca770203 jb december 30 1977 247
+cacm-2110.html: cacm february 1970 earley j syntax analysis parsing context-free grammar compilers <b>computational</b> <b>complexity</b> 4.12 5.22 5.23 ca700205 jb february 14 1978 1035
+cacm-2932.html: cacm september 1977 rabin m o <b>complexity</b> computations algebraic <b>complexity</b> tractable problems probabilistic <b>algorithms</b> 5.25 ca770901 jb december 28 1977 654
+cacm-2325.html: are foundations finite precision number systems <b>computational</b> <b>complexity</b> synthesis analysis <b>algorithms</b> analysis error programs program libraries
+cacm-2771.html: cacm april 1975 braid i c <b>computational</b> geometry computer-aided design graphics machined components polyhedra shape synthesis three-dimensional modeling 3.2 8.2 ca750406 jb january 9 1978 359 pm
+cacm-3165.html: cacm september 1979 nagy g wagle s polygon maps cellularization gridding geographic data structures <b>computational</b> geometry computer cartography automated cartography 3.14 4.34 8.2 ca790906 db january 14 1980 1204 pm
+cacm-2931.html: logic programming languages logic long terested answers questions computable principle, outcome puts bounds possibilities formalization.
+cacm-2743.html: sorting + cacm june 1975 harper l h payne t h savage j e straus e merge sorting <b>computational</b> <b>complexity</b> data modeling computing models binary comparisons 5.25 5.31 ca750610 jb january 9 1978 1245 pm
+cacm-2189.html: generation rosary permutations expressed hamiltonian circuits systematic generation specific class permutations fundamental scheduling problems described.
+cacm-2216.html: solution integral equation advanced <b>algorithms</b> family makes minor <b>reductions</b> expected sorting effort substantially reduces variance sorting effort
+cacm-2706.html: cacm november 1975 kou l t wong c k compaction character sets set basis set covering <b>computational</b> <b>complexity</b> polynomial completeness clique cover 4.9 5.25 5.39 ca751106 jb january 6 1978 855
+cacm-3162.html: cacm september 1979 galil z <b>computational</b> <b>complexity</b> linear time worst case string matching periodicity 3.74 4.40 5.25 ca790903 db january 14 1980 1027
+cacm-2950.html: criterion implementation <b>efficiency</b> algorithm developed results definition time-invariant <b>algorithms</b> include commonly implemented ones
+cacm-1650.html: unifying <b>computational</b> method analysis complete factorial experiments <b>computational</b> method calculation sums squares analysis variance complete factorial experiments computation main effect interaction means described
+cacm-2927.html: cacm september 1977 mairson h g <b>computational</b> <b>complexity</b> sieve prime number generation number theory linked list preprocessing balancing 5.25 5.39 ca770907 jb december 27 1977 1255 pm
+cacm-2986.html: cacm march 1977 hunt h b iii szymanski t g ullman j d <b>computational</b> <b>complexity</b> sparse relation boolean matrix directed graph wirth-weber precedence relation linear precedence function slr grammar t-canonical precedence relation 4.12 5.23 5.25 ca770306 jb december 29 1977 805
+cacm-1658.html: analysis <b>algorithms</b> zero-one programming problem paper concerned review examination existing <b>algorithms</b> zero-one programming problem
+cacm-2226.html: evidence analysis <b>algorithms</b> zero-one programming problem purpose note report <b>computational</b> experience additional recently summarized gue al <b>algorithms</b> zero-one linear programming problem
+cacm-3131.html: focus microcomputer number system focus number system supporting <b>computational</b> <b>algorithms</b> especially microcomputer control signal processing applications
+cacm-2703.html: cacm december 1975 jazayeri m ogden w f rounds w c attribute grammars circularity problem context-free grammars <b>computational</b> <b>complexity</b> exponential time semantics 4.12 5.25 ca751204 jb january 5 1978 438 pm
+cacm-2169.html: altran system rational function manipulation-a survey altran complete system symbolic computation rational functions variables integer coefficients.
+cacm-2313.html: evolution storage structures data base management systems grown rapidly power <b>complexity</b> 15-year history data processing commercially computers
+cacm-1309.html: special languages extract matran permits selective extraction data subset efficient processing <b>computational</b> sequence flexible presentation results tabular graphical form
+cacm-3132.html: experiments <b>algorithms</b> find central solutions pattern classification two-class pattern recognition standard technique algorithm finding hyperplanes separates classes linearly separable training set
+cacm-3055.html: analysis <b>algorithms</b> dutch national flag problem solutions dutch national flag problem dijkstra 1 meyer 3
+cacm-2903.html: recursion troduction <b>algorithms</b> manipulate stack translated recursive <b>algorithms</b> stack operations occur
+cacm-2627.html: addition presenting analyzing <b>algorithms</b> shown general mean-finishing-time problem independent tasks polynomial complete unlikely admit non-enumerative solution cacm july 1974 bruno j coffman e g jr sethi r minimizing mean finishing time minimizing mean flow time sequencing <b>algorithms</b> optimal scheduling <b>algorithms</b> deterministic scheduling models 4.32 5.39 ca740704 jb january 17 1978 1256 pm
+cacm-2454.html: <b>computational</b> <b>algorithms</b> closed queueing networks exponential servers methods presented computing equilibrium distribution customers closed queueing networks exponential servers
+cacm-1619.html: error-free methods statistical computations neely discussed <b>computational</b> error generated <b>algorithms</b> compute statistics.
+cacm-2389.html: <b>algorithms</b> solve problems expressed language rely heuristic programming
+cacm-2953.html: cacm june 1977 bird r s recursion elimination optimization programs stacks trees sorting <b>algorithms</b> <b>computational</b> induction 4.0 4.2 5.20 5.24 5.25 5.31 ca770610 jb december 28 1977 1250 pm
+cacm-3151.html: cacm july 1979 preparata f <b>computational</b> geometry convex hull planar set points real-time <b>algorithms</b> on-line <b>algorithms</b>
+cacm-2645.html: languages estimating program <b>efficiency</b> languages enabling users estimate <b>efficiency</b> computer programs presented
+cacm-2081.html: sequences matrices <b>and</b> sequences sequences matrices considered matrix operators areext ended sequence operators cumulative operators
+cacm-2936.html: efficient data structure simulation event set recently <b>algorithms</b> presented realization event scheduling routines suitable general purpose discrete event simulation systems
+cacm-3163.html: represents improvement previous ly known insertion <b>algorithms</b> hirschberg kosaraju require time olog 2n
+cacm-2784.html: cacm march 1975 floyd r w rivest r l selection <b>computational</b> <b>complexity</b> medians tournaments quantiles 5.30 5.39 ca750304 jb january 9 1978 452 pm
+cacm-2828.html: first range <b>complexity</b> environment greatly increased visible <b>complexity</b> scene fixed upper limit
+cacm-2701.html: fast linear algorithm global flow analysis (abstract only--complete paper jacm 23,1 january, 1976) algorithm global flow analysis reducible graphs presented.
+cacm-2749.html: significant event simulation paper compares method simulation organization, called significant event method, one, called clock pulse method, examples automobile traffic models.
+cacm-3070.html: accuracy <b>efficiency</b> hybrid technique demonstrated comparing result <b>computational</b> costs hybrid model equivalent simulation-only model
+cacm-3166.html: <b>algorithms</b> well-known statistical <b>computational</b> literature <b>algorithms</b> specifically intended automatic computation
+cacm-2033.html: cacm july 1970 bloom b h hash coding hash addressing scatter storage searching storage layout retrieval trade-offs retrieval <b>efficiency</b> storage <b>efficiency</b> 3.73 3.74 3.79 ca700704 jb february 13 1978 918
+cacm-3032.html: <b>algorithms</b> accomplishing delivery store-and-forward packet switching computer network include 1 transmission separately addressed packets
+cacm-2695.html: tridiagonalization permutations tridiagonalizing matrix similarity transformations important <b>computational</b> tool numerical linear algebra.
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> constraint networks constraint satisfaction graph coloring network consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-2030.html: cacm july 1970 woods w a context-sensitive grammars context-sensitive parsing formal grammars formal language theory parsing parsing <b>algorithms</b> recognition <b>algorithms</b> 3.42 5.22 5.23 ca700707 jb february 10 1978 443 pm
+cacm-0719.html: stacking operations made basis compiler decoding <b>algorithms</b> proper machines class compilation advantages machines fixed-length words
+cacm-2135.html: attempt made approximate f q polynomial approximating f <b>algorithms</b> developed rapid computation q wide class selections includes lagrangian hermitian rules special cases
+cacm-3118.html: permutation data blocks bubble memory common internal organization bubble memories consists set (minor) loops, connected (major) loop.
+cacm-2289.html: chief <b>computational</b> advantage offered cellular arrays improvement speed achieved virtue possibilities parallel processing
+cacm-2499.html: cacm june 1973 hamlet r g monitor executive multiprogramming <b>efficiency</b> resource allocation resource accounting 4.32 ca730601 jb january 23 1978 351 pm
+cacm-3153.html: parameterized <b>algorithms</b> partition main memory classes jobs considered
+cacm-3057.html: optimal togram matching monotone gray level transformation paper investigates problem optimal togram matching monotone gray level transformation, assigns picture points gray level gray level t(i) > j, t(i) > t(j).
+cacm-3037.html: method arithmetic <b>complexity</b> algorithm presented mairson 6 however version simpler elegant
+cacm-2746.html: efficient string matching: aid bibliographic search paper describes simple, efficient algorithm locate occurrences finite number keywords string text.
+cacm-2916.html: cacm october 1977 boyer r s bibliographic search <b>computational</b> <b>complexity</b> information retrieval linear time bound pattern matching text editing 3.74 4.40 5.25 ca771010 jb december 27 1977 943
+cacm-2365.html: matrix computations fortran paging <b>efficiency</b> conventional fortran programs matrix computations improved reversing order nested loops
+cacm-3065.html: cacm september 1978 ottmann t six h wood d dictionary problem search trees avl trees brother trees right-balanced treesone-sided height-balanced trees insertion deletion <b>algorithms</b> 3.73 3.74 5.31 ca780807 dh january 29 1979 708 pm
+cacm-1706.html: champ-character manipulation procedures programming language facility symbol manipulation described.
+cacm-1811.html: case study programming parallel-processors affirmative partial answer provided question program parallel-processor computing systems efficiently decrease execution time problems.
+cacm-1943.html: complete elliptic integrals (algorithm 165 [s21]) cacm january,1969 farkas, i. special functions, complete elliptic integral kind, complete elliptic integral kind 5.12 ca690106 jb february 20, 1978 11:54
+cacm-1886.html: generation optimal code expressions factorization set expressions compiled methods presented increasing <b>efficiency</b> object code produced factoring expressions ie
+cacm-2035.html: cacm july 1970 wilkes m a conversational computer access display editing display oriented system filing <b>algorithms</b> lap6 layering linc man-machine communication on-line editing on-line <b>efficiency</b> on-line environment scroll editing small machine system tape filing tape oriented system text editing 3.73 4.10 4.11 4.19 4.22 4.30 4.40 4.41 ca700702 jb february 13 1978 935
+cacm-1462.html: multilevel operating systems basic software newer computers built well-established need standard operating systems.
+cacm-2251.html: weighted increment linear search scatter tables linear search hash tables increment step function key addressed presented.
+cacm-3134.html: <b>algorithms</b> evaluating appropriateness approach information system described
+cacm-2679.html: <b>algorithms</b> 271 402 refinements algorithm 64 discussed detail
+cacm-1350.html: augmented predictive analyzer context-free languages-its relative <b>efficiency</b> proven greibach context-free grammar g standard-form grammar gs constructed generates languages generated rules form cy1 ym m o yi intermediate symbols terminal symbol
+cacm-2665.html: copying list structures bounded workspace <b>algorithms</b> presented list structure copying bounded workspace
+cacm-2766.html: previous bounded workspace copying <b>algorithms</b> achieved n^2 time tag bits log time tag
+cacm-3150.html: programming languages computer technology matures, growing ability create large systems leading basic nature programming.
+cacm-1572.html: sake <b>efficiency</b> greater applicability model implemented limited fortran subset compatible fortran iv compilers
+cacm-1957.html: <b>efficiency</b> derives evaluating expression parallel evaluating subexpressions sets arrive final result
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> intended reduce number comparisons required achieve desired result
+cacm-2435.html: class dynamic memory allocation <b>algorithms</b> anew dynamic memory allocation algorithm fibonacci system introduced
+cacm-2955.html: buddy systems <b>algorithms</b> presented implementing class buddy systems dynamic storage allocation
+cacm-2092.html: cacm march 1970 schwarcz r m burger j f simmons r f question answering natural language protosynthex iii lisp semantics artificial intelligence <b>computational</b> linguistics language processing fact retrieval 3.42 3.61 ca700306 jb february 13 1978 430 pm
+cacm-2628.html: <b>computational</b> requirements algorithm implements mtpt scheduling discipline shown comparable sltf <b>algorithms</b>
+cacm-2855.html: cacm june 1976 clark d w list moving list copying lisp space <b>complexity</b> constant workspace 4.34 4.49 5.25 ca760607 jb january 4 1978 143 pm
+cacm-2111.html: spelling correction systems programs specialized techniques shown efficiently incorporating spelling correction <b>algorithms</b> compilers operating systems.
+cacm-3007.html: <b>complexity</b> computations corrigendum cacm march 1978 rabin m ca780306 jb march 28 1978 102 pm
+cacm-0895.html: <b>computational</b> extension variate difference method presented <b>computational</b> extension variate difference method developed g tintner 1
+cacm-1659.html: cacm december 1968 kuno s oettinger a g <b>computational</b> linguistics mathematical linguistics language computer language data processing <b>computational</b> linguistics course curriculum <b>computational</b> linguistics graduate program <b>computational</b> linguistics bibliography computer science curriculum 1.52 3.42 3.43 ca681207 jb february 21 1978 137 pm
+cacm-0345.html: complete elliptic integral kind (algorithm 56) cacm april, 1961 herndon, j. r. ca610423 jb march 16, 197811:43 pm
+cacm-0346.html: complete elliptic integral kind (algorithm 55) cacm april, 1961 herndon, j. r. ca610422 jb march 16, 1978 11:44 pm
+cacm-0425.html: complete elliptic integral (algorithm 149) cacm december, 1962 merner, j. n. ca621214 jb march 17,1978 4:59 pm
+cacm-0876.html: complete elliptic integral (algorithm 149) cacm april, 1963 thacher, h. c. ca630415 jb march 14, 1978 12:14 pm
+cacm-0877.html: complete elliptic integral kind (algorithm 55) cacm april, 1963 thacher jr., h. c. ca630414 jb march 14, 1978 12:15 pm
+cacm-0883.html: complete elliptic integrals (algorithm 165) cacm april, 1963 thacher jr., h. c. ca630408 jb march 14, 1978 12:23 pm
+cacm-2848.html: synthesis decision rules decision tables effective tool interview record logic processes automated.
+cacm-2892.html: measurements line <b>efficiency</b> arpanet presented extrapolation measurements anticipate overhead heavily loaded network
+cacm-1496.html: formal semantics computer languages application compiler-compiler semantic meta-language developed representing meanings statements large class computer languages.
+cacm-0117.html: estimation relative <b>efficiency</b> internal sorting methods cacm november 1960 nagler h ca601118 jb march 20 1978 651 pm

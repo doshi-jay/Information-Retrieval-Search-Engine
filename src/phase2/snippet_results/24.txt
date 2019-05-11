@@ -1,0 +1,200 @@
+cacm-0020.html: accelerating convergence iterative <b>processes</b> processes technique discussed which <b>applied</b> applied iterative procedure solution equation accelerates rate convergence iteration converges induces convergence iteration diverges
+cacm-1410.html: interarrival statistics time sharing systems optimization time-shared system performance requires description <b>stochastic</b> stochastic <b>processes</b> processes governing user inputs program activity.
+cacm-1696.html: algorithm identifying ergodic subchains transient states <b>stochastic</b> stochastic matrix algorithm identifying ergodic subchains transient states <b>stochastic</b> stochastic matrix presented
+cacm-1194.html: establishment acm repository principles ir system <b>applied</b> applied operation history establishment acm repository moore school university pennsylvania reviewed briefly
+cacm-0268.html: <b>stochastic</b> stochastic evaluation static storage allocation cacm october 1961 cohen l j ca611013 jb march 16 1978 1248 pm
+cacm-0942.html: fortran subroutines time series analysis authors recently concerned time-series study constituted fairly typical piece <b>applied</b> applied statistical research involving extensive computations moderately large quantity data
+cacm-3120.html: event-driven compiling technique due linear structure source text, difficulties arise one-pass compilation process.
+cacm-2931.html: logic programming languages logic long terested answers questions computable principle, outcome puts bounds possibilities formalization.
+cacm-3043.html: distributed <b>processes</b> processes concurrent programming concept language concept concurrent <b>processes</b> processes common variables introduced
+cacm-1435.html: experimental design problems are 1 problem <b>stochastic</b> stochastic convergence 2 problem factor selection 3 problem motive 4 response problem
+cacm-1540.html: algorithm class scheduling section preference algorithm assignment students classes fixed time schedule students give preference sections courses given.
+cacm-2882.html: <b>stochastic</b> stochastic evaluation model database organization data retrieval systems experimental work valuation large scale data retrieval systems scarce due difficulty prohibitive cost
+cacm-2342.html: interference communicating parallel <b>processes</b> processes kinds interference communicating parallel <b>processes</b> processes examined dijkstra knuth others
+cacm-3141.html: improved algorithm decentralized extrema-finding circular configurations <b>processes</b> processes note presents improvement lelanns algorithm finding largest or smallest set uniquely numbered <b>processes</b> processes arranged circle central controller exists number <b>processes</b> processes known priori
+cacm-2371.html: system interprocess communication resource sharing computer network system communication <b>processes</b> processes time-sharing system communication system extended <b>processes</b> processes distributed computer network
+cacm-1235.html: <b>stochastic</b> stochastic approach grammatical coding english computer program assign word english text form class part speech
+cacm-2535.html: effects multiplexing computer-communications system study made asynchronous time division multiplexing <b>stochastic</b> stochastic nature arrival process user computer and consequently affects performance time-shared computer-communications system
+cacm-2742.html: improved event-scanning mechanisms discrete event simulation simulation models large, complex "real-world" applications occasionally earned reputation eating hours computer time.
+cacm-0293.html: <b>applied</b> applied mathematics laboratory david w taylor model basin cacm september 1961 richstone m ca610901 jb march 16 1978 1001 pm
+cacm-0927.html: linear programming <b>applied</b> applied ultraviolet absorption spectroscopy cacm february 1963 white w c shapiro b pratt a w ca630206 jb march 14 1978 219 pm
+cacm-3078.html: major purpose paper demonstrate difficulties obtaining analytical solutions markov <b>processes</b> processes considerably reduced application symbol manipulation programs
+cacm-0412.html: recursive <b>processes</b> processes algol translation cacm january 1961 gray a a ca610102 jb march 17 1978 129
+cacm-0618.html: computers key total systems control industrial viewpoint man-man-machine <b>processes</b> processes characterized main types markets type shown 1950 1960 estimated 1970 cacm march 1962 carlson w m ca620314 jb march 20 1978 253 pm
+cacm-1846.html: simulating networks parallel <b>processes</b> processes simultaneous events occur problems simulating discrete event systems computer systems conventional digital computer dealt with
+cacm-2255.html: comments moorers music computer composition cacm november 1972 smoliar s w artificial intelligence heuristic programming models cognitive <b>processes</b> processes computer music computer composition music theory 3.44 3.65 ca721114 jb january 27 1978 122 pm
+cacm-2376.html: demonstrated system consisting sending <b>processes</b> processes deposit messages buffer receiving <b>processes</b> processes remove messages buffer
+cacm-2504.html: concerning music computer composition computational linguistics cacm may 1973 mcmorrow c h artificial intelligence heuristic programming models cognitive <b>processes</b> processes computer music computer compositionmusic theory 3.44 3.65 ca730516 jb january 23 1978 427 pm
+cacm-2672.html: emotional content considered dangerous cacm march 1974 smoliar s w artificial intelligence heuristic programming models cognitive <b>processes</b> processes computer music computer composition music theory 3.44 3.65 ca740311 jb january 18 1978 1056
+cacm-2740.html: <b>processes</b> processes synchronize means semaphores extended semaphores queue semaphores
+cacm-2767.html: algorithms tested set typical <b>stochastic</b> stochastic scheduling distributions especially chosen show advantages limitations algorithms
+cacm-1441.html: methods numerical integration <b>applied</b> applied system trivial function evaluations study made determine methods numerical integration require computation time amount truncation error <b>applied</b> applied system ordinary differential equations function evaluations trivial
+cacm-1233.html: conventions <b>applied</b> applied symbols appearing proposed american standard flowchart symbols symbols se
+cacm-1438.html: method locating zeros complex functions method computing index winding number developed <b>applied</b> applied problem finding zeros functions plane plane
+cacm-1563.html: method finding hamilton paths knight's tours warnsdorff's rule finding knight's tour generalized <b>applied</b> applied problem finding hamilton path graph.
+cacm-1272.html: expanding editing function language data processing automatic abstracting, citation indexing, mechanical translation procedures, editing required automatic method leaves desired.
+cacm-2912.html: concurrent reading writing problem sharing data asynchronous process considered.
+cacm-2920.html: game interpretation deadlock avoidance problem deadlock avoidance problem defined informally determination priori information <b>processes</b> processes resources operating system etc safe situations realized endangering smooth running system
+cacm-3039.html: on-the-fly garbage collection exercise cooperation cooperation sequential <b>processes</b> processes mutual interference despite frequent manipulations large shared data space technique developed nearly activity needed garbage detection collection performed additional processor operating con-currently processor devoted computation proper
+cacm-0825.html: pip: photo-interpretive program analysis spark-chamber data* operating computer program <b>processes</b> processes photographically recorded data described.
+cacm-1199.html: computer center simulation project today's computation centers based rapidly changing technologies hardware software systems.
+cacm-1587.html: storage allocation iterative process method core storage allocation iterative process estimates machine time required given.
+cacm-2327.html: automata theory brains source ideas automata theory-the study brain-has pushed mathematical development theory.
+cacm-2848.html: synthesis decision rules decision tables effective tool interview record logic <b>processes</b> processes automated.
+cacm-1135.html: structure based identifying incorporating compiler aspects common <b>processes</b> processes class permits writing extremely compact programs comparatively complex applications terms tables control expressions express information characteristic application
+cacm-1748.html: scheduling philosophy multiprocessing systems collection basic ideas presented, evolved workers past years provide suitable framework design analysis multiprocessing systems.
+cacm-2320.html: cacm july 1972 hansen p b structured multiprogramming programming languages operating systems concurrent <b>processes</b> processes shared data mutual exclusion critical regions process communication synchronizing events
+cacm-2378.html: supervisor handles i/o external devices-the directory system-schedules active <b>processes</b> processes manages memory handle errors small set primitive functions execute process
+cacm-3128.html: synchronization mechanism proposed abstract objects called eventcounts sequencers <b>processes</b> processes control ordering events directly mutual exclusion protect manipulations shared variables control ordering events
+cacm-1892.html: degree multiprogramming page-on-demand systems simple <b>stochastic</b> stochastic model offers base understanding relationship number programs permitted share memory the degree multiprogramming drum traffic rates central processing unit utilization page-on-demand multiprogrammed time-shared computer systems
+cacm-2705.html: cacm december 1975 naur p analogies related social aspectspure <b>applied</b> applied mathematics language quality language development artificial auxiliary languages literature style descriptive prescriptive attitudes 4.20 ca751202 jb january 6 1978 830
+cacm-3020.html: recursion removal <b>applied</b> applied major parts final result process displayed
+cacm-0111.html: programming numerical solution polynomial equations numerical techniques presented computing roots polynomial equations.
+cacm-1008.html: scheduling meetings computer computer scheduling papers developed 1960 meeting federation american societies experimental biology (faseb) described.
+cacm-1110.html: fourier series method numerical solution class parabolic partial differential equations fourier series method which <b>applied</b> applied class parabolic partial differential equations reduces problem system ordinary differential equations
+cacm-1382.html: author examines projections concerning supply demand mathematicians united states mid-1970s comments briefly factors influence professional activities <b>applied</b> applied mathematicians years discusses broad terms information relate undergraduate training mathematicians
+cacm-1383.html: importance <b>applied</b> applied logic human affairs changed existence logical engine
+cacm-1631.html: testing random number generator 1,000,000 numbers produced random number generator general purpose systems simulator (gpss) subjected statistical tests.
+cacm-1673.html: approximate solution initial boundary wave equation problems boundary-value techniques boundary-value technique proposed treatment initial-boundary-value problems linear mildly nonlinear wave equations.
+cacm-2409.html: algorithm approximate solution wiener-hopf integral equations explicit approximate solution equation.
+cacm-2836.html: method <b>applied</b> applied problems involving probabilistic parsing combinatorial optimization
+cacm-1541.html: language modeling simulating dynamic systems general objective language facilitate modeling experimental aspects simulation studies.
+cacm-2519.html: problem communicating complex information nature difficulty involved communicating mathematical results scientists computer based information retrieval system examined.
+cacm-2895.html: language formal problem specification language tended behavior communicating parallel <b>processes</b> processes described.
+cacm-3056.html: counting large numbers events small registers small counter approximate counts large numbers.
+cacm-1753.html: virtual memory <b>processes</b> processes sharing multics basic concepts involved design multics operating system introduced
+cacm-2080.html: cacm april 1970 hansen p b multiprogramming operating systems parallel <b>processes</b> processes process concept process communication message buffering process hierarchy process creation process removal 4.30 4.31 4.32 4.41 ca700404 jb february 13 1978 310 pm
+cacm-2228.html: comments prevention system deadlocks habermann's method deadlock prevention discussed, deadlock defined system state resource allocations <b>processes</b> processes possible.
+cacm-0078.html: remarks practical solution characteristic problems paper concerned practical solution characteristic problem ordinary differential equation.
+cacm-0095.html: elimination special functions differential equations set ordinary differential equations mathematical functions requiring subroutines numerical solution electronic computer, tabular data numerical solution hand calculation function generators analog methods <b>applied</b> applied expanded equivalent set equations functions.
+cacm-0298.html: frequency tests distributions low-order moments runs down runs mean <b>applied</b> applied one-half million generated numbers lying interval 0,1 sets integers obtained bits generated numbers
+cacm-1180.html: imperatives <b>applied</b> applied accordance definitions symbolic terms presented systematically assertion table
+cacm-1554.html: computer technique displaying n-dimensional hyperobjects digital computer automatic plotter generate three-dimensional stereoscopic movies three-dimensional parallel perspective projections four-dimensional hyperobjects rotating four-dimensional space.
+cacm-1637.html: problems statistical analysis simulation experiments: comparison means length sample records research continued statistical analysis simulation experiments autocorrelated time series.
+cacm-1707.html: result construct similarity transformation which <b>applied</b> applied upper triangular matrix yields positive matrix preassigned positive spectrum
+cacm-1809.html: numerical analysis ph.
+cacm-2000.html: variation goodman-lance method solution two-point boundary problems recently published method interpolative solution nonlinear equations improved <b>applied</b> applied give significant variation goodman-lance method solution two-point boundary problems
+cacm-2019.html: normalization techniques hand printed numerals family pattern standardization techniques based geometrical projection <b>applied</b> applied digitized hand printed numerals obtained sales clerks
+cacm-2062.html: application sequential sampling simulation inventory model sequential sampling procedures <b>applied</b> applied analysis data generated computer simulation experiment multi-item inventory model
+cacm-2185.html: note compiling fixed point binary multiplications algorithm developed compiling, sequence shifts, additions,and subtractions, fixed point binary multiplications involving constant.
+cacm-2268.html: comparative study computer programs integrating differential equations study comparing performance computer programs integrating systems ordinary differential equations reported.
+cacm-2523.html: method <b>applied</b> applied construction cloud cover maps cloud cover pictures obtained satellites
+cacm-2900.html: paper present theorems <b>applied</b> applied priori sites or not included optimal allocation
+cacm-2953.html: notes recursion elimination methods recursion elimination <b>applied</b> applied schematic recursive procedure proc sx px nx sfx sgx mx fi
+cacm-3013.html: outputs obtained operators <b>applied</b> applied set test pictures compared standard digital laplacian gradient
+cacm-1749.html: cacm may 1968 dijkstra e w operating system multiprogramming system system hierarchy system structure real-time debugging program verification synchronizing primitives cooperating sequential <b>processes</b> processes system levels input-output buffering multiprogramming processor sharing multiprocessing 4.30 4.32 ca680507 jb february 23 1978 920
+cacm-1886.html: factors ascertained sequencing procedure <b>applied</b> applied orders factors expressions information computed correct sequence factors need retained memory minimal amount time
+cacm-2210.html: technique <b>applied</b> applied transform recursively defined functions iterative programs frequently major gain inefficiency
+cacm-0243.html: <b>processes</b> processes encoding error detection based parity evaluations prescribed dimensions array
+cacm-0278.html: general formulation storage allocation formalization general computer storage allocation process attempted.
+cacm-1145.html: git-graph isomorphism tester-incorporates variety <b>processes</b> processes attempt narrow search isomorphism demonstrate exists
+cacm-1308.html: mathematical model mechanical part description flexibility mathematical model takes advantage common information requirements computer-aided engineering drawing, numerical control tape generation, physical characteristic computation.
+cacm-1385.html: computer technology communist china 1956-1965 based information translations communist chinese news items periodical literature 1965 period computer technology china reviewed headings 1 initial planning organization educational aspects computer technology automation 2 machine development progress major specific machines 1958-59 soviet aid vacuum 1960-64 due withdrawal soviet aid presumably all-chinese-made machines 1965 present 3 computer applications 4 trend automation control production <b>processes</b> processes data processing 5 yun chou hsueh science operation programming campaign 1958-60 attempt made bring concepts linear programming ordinary chinese workers peasants
+cacm-1458.html: online programming transition made line online programming, number working conditions noted.
+cacm-1518.html: experimental model system/360 problem predicting performance modern computer systems formidable.
+cacm-2307.html: dynamic document processing role computers automatic document processing briefly outlined, reasons early promise library automation mechanization documentation <b>processes</b> processes fulfilled.
+cacm-2383.html: cacm february 1972 moorer j a artificial intelligence heuristic programming models cognitive <b>processes</b> processes computer music computer composition music theory 3.44 3.65 ca720208 jb january 31 1978 354 pm
+cacm-2522.html: design, implementation, evaluation working set dispatcher behavior computer system largely dependent algorithms employed allocate system resources <b>processes</b> processes competing them.
+cacm-2580.html: cacm november 1974 rader g m artificial intelligence heuristic programming models cognitive <b>processes</b> processes computer music computer composition music theory formal languages probabilistic grammars 3.44 3.65 5.23 ca741104 jb january 16 1978 1035
+cacm-2581.html: locally-organized parser spoken input paper describes lpars, locally-organized parsing system, designed continuous speech recognizer.
+cacm-2777.html: solution cigarette smoker's problem (without conditional statements) report discusses problem introduced patil, claimed cigarette smoker's problem solved operations introduced dijkstra conditional statements used.
+cacm-0020.html: accelerating convergence iterative <b>processes</b> technique discussed which <b>applied</b> iterative procedure solution equation accelerates rate convergence iteration converges induces convergence iteration diverges
+cacm-1410.html: interarrival statistics time sharing systems optimization time-shared system performance requires description <b>stochastic</b> <b>processes</b> governing user inputs program activity.
+cacm-1696.html: algorithm identifying ergodic subchains transient states <b>stochastic</b> matrix algorithm identifying ergodic subchains transient states <b>stochastic</b> matrix presented
+cacm-1194.html: establishment acm repository principles ir system <b>applied</b> operation history establishment acm repository moore school university pennsylvania reviewed briefly
+cacm-0268.html: <b>stochastic</b> evaluation static storage allocation cacm october 1961 cohen l j ca611013 jb march 16 1978 1248 pm
+cacm-0942.html: fortran subroutines time series analysis authors recently concerned time-series study constituted fairly typical piece <b>applied</b> statistical research involving extensive computations moderately large quantity data
+cacm-3120.html: event-driven compiling technique due linear structure source text, difficulties arise one-pass compilation process.
+cacm-2931.html: logic programming languages logic long terested answers questions computable principle, outcome puts bounds possibilities formalization.
+cacm-3043.html: distributed <b>processes</b> concurrent programming concept language concept concurrent <b>processes</b> common variables introduced
+cacm-1435.html: experimental design problems are 1 problem <b>stochastic</b> convergence 2 problem factor selection 3 problem motive 4 response problem
+cacm-1540.html: algorithm class scheduling section preference algorithm assignment students classes fixed time schedule students give preference sections courses given.
+cacm-2882.html: <b>stochastic</b> evaluation model database organization data retrieval systems experimental work valuation large scale data retrieval systems scarce due difficulty prohibitive cost
+cacm-2342.html: interference communicating parallel <b>processes</b> kinds interference communicating parallel <b>processes</b> examined dijkstra knuth others
+cacm-3141.html: improved algorithm decentralized extrema-finding circular configurations <b>processes</b> note presents improvement lelanns algorithm finding largest or smallest set uniquely numbered <b>processes</b> arranged circle central controller exists number <b>processes</b> known priori
+cacm-2371.html: system interprocess communication resource sharing computer network system communication <b>processes</b> time-sharing system communication system extended <b>processes</b> distributed computer network
+cacm-1235.html: <b>stochastic</b> approach grammatical coding english computer program assign word english text form class part speech
+cacm-2535.html: effects multiplexing computer-communications system study made asynchronous time division multiplexing <b>stochastic</b> nature arrival process user computer and consequently affects performance time-shared computer-communications system
+cacm-2742.html: improved event-scanning mechanisms discrete event simulation simulation models large, complex "real-world" applications occasionally earned reputation eating hours computer time.
+cacm-0293.html: <b>applied</b> mathematics laboratory david w taylor model basin cacm september 1961 richstone m ca610901 jb march 16 1978 1001 pm
+cacm-0927.html: linear programming <b>applied</b> ultraviolet absorption spectroscopy cacm february 1963 white w c shapiro b pratt a w ca630206 jb march 14 1978 219 pm
+cacm-3078.html: major purpose paper demonstrate difficulties obtaining analytical solutions markov <b>processes</b> considerably reduced application symbol manipulation programs
+cacm-0412.html: recursive <b>processes</b> algol translation cacm january 1961 gray a a ca610102 jb march 17 1978 129
+cacm-0618.html: computers key total systems control industrial viewpoint man-man-machine <b>processes</b> characterized main types markets type shown 1950 1960 estimated 1970 cacm march 1962 carlson w m ca620314 jb march 20 1978 253 pm
+cacm-1846.html: simulating networks parallel <b>processes</b> simultaneous events occur problems simulating discrete event systems computer systems conventional digital computer dealt with
+cacm-2255.html: comments moorers music computer composition cacm november 1972 smoliar s w artificial intelligence heuristic programming models cognitive <b>processes</b> computer music computer composition music theory 3.44 3.65 ca721114 jb january 27 1978 122 pm
+cacm-2376.html: demonstrated system consisting sending <b>processes</b> deposit messages buffer receiving <b>processes</b> remove messages buffer
+cacm-2504.html: concerning music computer composition computational linguistics cacm may 1973 mcmorrow c h artificial intelligence heuristic programming models cognitive <b>processes</b> computer music computer compositionmusic theory 3.44 3.65 ca730516 jb january 23 1978 427 pm
+cacm-2672.html: emotional content considered dangerous cacm march 1974 smoliar s w artificial intelligence heuristic programming models cognitive <b>processes</b> computer music computer composition music theory 3.44 3.65 ca740311 jb january 18 1978 1056
+cacm-2740.html: <b>processes</b> synchronize means semaphores extended semaphores queue semaphores
+cacm-2767.html: algorithms tested set typical <b>stochastic</b> scheduling distributions especially chosen show advantages limitations algorithms
+cacm-1441.html: methods numerical integration <b>applied</b> system trivial function evaluations study made determine methods numerical integration require computation time amount truncation error <b>applied</b> system ordinary differential equations function evaluations trivial
+cacm-1233.html: conventions <b>applied</b> symbols appearing proposed american standard flowchart symbols symbols se
+cacm-1438.html: method locating zeros complex functions method computing index winding number developed <b>applied</b> problem finding zeros functions plane plane
+cacm-1563.html: method finding hamilton paths knight's tours warnsdorff's rule finding knight's tour generalized <b>applied</b> problem finding hamilton path graph.
+cacm-1272.html: expanding editing function language data processing automatic abstracting, citation indexing, mechanical translation procedures, editing required automatic method leaves desired.
+cacm-2912.html: concurrent reading writing problem sharing data asynchronous process considered.
+cacm-2920.html: game interpretation deadlock avoidance problem deadlock avoidance problem defined informally determination priori information <b>processes</b> resources operating system etc safe situations realized endangering smooth running system
+cacm-3039.html: on-the-fly garbage collection exercise cooperation cooperation sequential <b>processes</b> mutual interference despite frequent manipulations large shared data space technique developed nearly activity needed garbage detection collection performed additional processor operating con-currently processor devoted computation proper
+cacm-0825.html: pip: photo-interpretive program analysis spark-chamber data* operating computer program <b>processes</b> photographically recorded data described.
+cacm-1199.html: computer center simulation project today's computation centers based rapidly changing technologies hardware software systems.
+cacm-1587.html: storage allocation iterative process method core storage allocation iterative process estimates machine time required given.
+cacm-2327.html: automata theory brains source ideas automata theory-the study brain-has pushed mathematical development theory.
+cacm-2848.html: synthesis decision rules decision tables effective tool interview record logic <b>processes</b> automated.
+cacm-1135.html: structure based identifying incorporating compiler aspects common <b>processes</b> class permits writing extremely compact programs comparatively complex applications terms tables control expressions express information characteristic application
+cacm-1748.html: scheduling philosophy multiprocessing systems collection basic ideas presented, evolved workers past years provide suitable framework design analysis multiprocessing systems.
+cacm-2320.html: cacm july 1972 hansen p b structured multiprogramming programming languages operating systems concurrent <b>processes</b> shared data mutual exclusion critical regions process communication synchronizing events
+cacm-2378.html: supervisor handles i/o external devices-the directory system-schedules active <b>processes</b> manages memory handle errors small set primitive functions execute process
+cacm-3128.html: synchronization mechanism proposed abstract objects called eventcounts sequencers <b>processes</b> control ordering events directly mutual exclusion protect manipulations shared variables control ordering events
+cacm-1892.html: degree multiprogramming page-on-demand systems simple <b>stochastic</b> model offers base understanding relationship number programs permitted share memory the degree multiprogramming drum traffic rates central processing unit utilization page-on-demand multiprogrammed time-shared computer systems
+cacm-2705.html: cacm december 1975 naur p analogies related social aspectspure <b>applied</b> mathematics language quality language development artificial auxiliary languages literature style descriptive prescriptive attitudes 4.20 ca751202 jb january 6 1978 830
+cacm-3020.html: recursion removal <b>applied</b> major parts final result process displayed
+cacm-0111.html: programming numerical solution polynomial equations numerical techniques presented computing roots polynomial equations.
+cacm-1008.html: scheduling meetings computer computer scheduling papers developed 1960 meeting federation american societies experimental biology (faseb) described.
+cacm-1110.html: fourier series method numerical solution class parabolic partial differential equations fourier series method which <b>applied</b> class parabolic partial differential equations reduces problem system ordinary differential equations
+cacm-1382.html: author examines projections concerning supply demand mathematicians united states mid-1970s comments briefly factors influence professional activities <b>applied</b> mathematicians years discusses broad terms information relate undergraduate training mathematicians
+cacm-1383.html: importance <b>applied</b> logic human affairs changed existence logical engine
+cacm-1631.html: testing random number generator 1,000,000 numbers produced random number generator general purpose systems simulator (gpss) subjected statistical tests.
+cacm-1673.html: approximate solution initial boundary wave equation problems boundary-value techniques boundary-value technique proposed treatment initial-boundary-value problems linear mildly nonlinear wave equations.
+cacm-2409.html: algorithm approximate solution wiener-hopf integral equations explicit approximate solution equation.
+cacm-2836.html: method <b>applied</b> problems involving probabilistic parsing combinatorial optimization
+cacm-1541.html: language modeling simulating dynamic systems general objective language facilitate modeling experimental aspects simulation studies.
+cacm-2519.html: problem communicating complex information nature difficulty involved communicating mathematical results scientists computer based information retrieval system examined.
+cacm-2895.html: language formal problem specification language tended behavior communicating parallel <b>processes</b> described.
+cacm-3056.html: counting large numbers events small registers small counter approximate counts large numbers.
+cacm-1753.html: virtual memory <b>processes</b> sharing multics basic concepts involved design multics operating system introduced
+cacm-2080.html: cacm april 1970 hansen p b multiprogramming operating systems parallel <b>processes</b> process concept process communication message buffering process hierarchy process creation process removal 4.30 4.31 4.32 4.41 ca700404 jb february 13 1978 310 pm
+cacm-2228.html: comments prevention system deadlocks habermann's method deadlock prevention discussed, deadlock defined system state resource allocations <b>processes</b> possible.
+cacm-0078.html: remarks practical solution characteristic problems paper concerned practical solution characteristic problem ordinary differential equation.
+cacm-0095.html: elimination special functions differential equations set ordinary differential equations mathematical functions requiring subroutines numerical solution electronic computer, tabular data numerical solution hand calculation function generators analog methods <b>applied</b> expanded equivalent set equations functions.
+cacm-0298.html: frequency tests distributions low-order moments runs down runs mean <b>applied</b> one-half million generated numbers lying interval 0,1 sets integers obtained bits generated numbers
+cacm-1180.html: imperatives <b>applied</b> accordance definitions symbolic terms presented systematically assertion table
+cacm-1554.html: computer technique displaying n-dimensional hyperobjects digital computer automatic plotter generate three-dimensional stereoscopic movies three-dimensional parallel perspective projections four-dimensional hyperobjects rotating four-dimensional space.
+cacm-1637.html: problems statistical analysis simulation experiments: comparison means length sample records research continued statistical analysis simulation experiments autocorrelated time series.
+cacm-1707.html: result construct similarity transformation which <b>applied</b> upper triangular matrix yields positive matrix preassigned positive spectrum
+cacm-1809.html: numerical analysis ph.
+cacm-2000.html: variation goodman-lance method solution two-point boundary problems recently published method interpolative solution nonlinear equations improved <b>applied</b> give significant variation goodman-lance method solution two-point boundary problems
+cacm-2019.html: normalization techniques hand printed numerals family pattern standardization techniques based geometrical projection <b>applied</b> digitized hand printed numerals obtained sales clerks
+cacm-2062.html: application sequential sampling simulation inventory model sequential sampling procedures <b>applied</b> analysis data generated computer simulation experiment multi-item inventory model
+cacm-2185.html: note compiling fixed point binary multiplications algorithm developed compiling, sequence shifts, additions,and subtractions, fixed point binary multiplications involving constant.
+cacm-2268.html: comparative study computer programs integrating differential equations study comparing performance computer programs integrating systems ordinary differential equations reported.
+cacm-2523.html: method <b>applied</b> construction cloud cover maps cloud cover pictures obtained satellites
+cacm-2900.html: paper present theorems <b>applied</b> priori sites or not included optimal allocation
+cacm-2953.html: notes recursion elimination methods recursion elimination <b>applied</b> schematic recursive procedure proc sx px nx sfx sgx mx fi
+cacm-3013.html: outputs obtained operators <b>applied</b> set test pictures compared standard digital laplacian gradient
+cacm-1749.html: cacm may 1968 dijkstra e w operating system multiprogramming system system hierarchy system structure real-time debugging program verification synchronizing primitives cooperating sequential <b>processes</b> system levels input-output buffering multiprogramming processor sharing multiprocessing 4.30 4.32 ca680507 jb february 23 1978 920
+cacm-1886.html: factors ascertained sequencing procedure <b>applied</b> orders factors expressions information computed correct sequence factors need retained memory minimal amount time
+cacm-2210.html: technique <b>applied</b> transform recursively defined functions iterative programs frequently major gain inefficiency
+cacm-0243.html: <b>processes</b> encoding error detection based parity evaluations prescribed dimensions array
+cacm-0278.html: general formulation storage allocation formalization general computer storage allocation process attempted.
+cacm-1145.html: git-graph isomorphism tester-incorporates variety <b>processes</b> attempt narrow search isomorphism demonstrate exists
+cacm-1308.html: mathematical model mechanical part description flexibility mathematical model takes advantage common information requirements computer-aided engineering drawing, numerical control tape generation, physical characteristic computation.
+cacm-1385.html: computer technology communist china 1956-1965 based information translations communist chinese news items periodical literature 1965 period computer technology china reviewed headings 1 initial planning organization educational aspects computer technology automation 2 machine development progress major specific machines 1958-59 soviet aid vacuum 1960-64 due withdrawal soviet aid presumably all-chinese-made machines 1965 present 3 computer applications 4 trend automation control production <b>processes</b> data processing 5 yun chou hsueh science operation programming campaign 1958-60 attempt made bring concepts linear programming ordinary chinese workers peasants
+cacm-1458.html: online programming transition made line online programming, number working conditions noted.
+cacm-1518.html: experimental model system/360 problem predicting performance modern computer systems formidable.
+cacm-2307.html: dynamic document processing role computers automatic document processing briefly outlined, reasons early promise library automation mechanization documentation <b>processes</b> fulfilled.
+cacm-2383.html: cacm february 1972 moorer j a artificial intelligence heuristic programming models cognitive <b>processes</b> computer music computer composition music theory 3.44 3.65 ca720208 jb january 31 1978 354 pm
+cacm-2522.html: design, implementation, evaluation working set dispatcher behavior computer system largely dependent algorithms employed allocate system resources <b>processes</b> competing them.
+cacm-2580.html: cacm november 1974 rader g m artificial intelligence heuristic programming models cognitive <b>processes</b> computer music computer composition music theory formal languages probabilistic grammars 3.44 3.65 5.23 ca741104 jb january 16 1978 1035
+cacm-2581.html: locally-organized parser spoken input paper describes lpars, locally-organized parsing system, designed continuous speech recognizer.
+cacm-2777.html: solution cigarette smoker's problem (without conditional statements) report discusses problem introduced patil, claimed cigarette smoker's problem solved operations introduced dijkstra conditional statements used.

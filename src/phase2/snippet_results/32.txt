@@ -1,0 +1,100 @@
+cacm-2177.html: algorithm compared detail proposed read 1 3 cacm july 1971 paton k algorithm block block-cutpoint-tree cutnode fundamental cycle set <b>graph</b> lobe lobe <b>decomposition</b> <b>graph</b> separable spanning tree web grammar 5.32 ca710705 jb february 3 1978 858
+cacm-3139.html: cacm april 1979 brelaz d np-complete <b>graph</b> structure balancing <b>graph</b> <b>coloring</b> scheduling comparison methods 5.25 5.32 ca790405 dh june 5 1979 205 pm
+cacm-3156.html: computing connected components parallel computers present parallel algorithm n2 processors <b>find</b> connected components undirected <b>graph</b> vertices time olog2n
+cacm-1563.html: <b>method</b> finding hamilton paths knights tours warnsdorffs rule finding knights tour generalized applied problem finding hamilton path <b>graph</b>
+cacm-2289.html: example adjacency <b>matrix</b> <b>graph</b> easily mapped array <b>matrix</b> element stored cell array typical row column operations readily implemented simple cell logic
+cacm-1839.html: <b>singular</b> <b>decomposition</b> complex <b>matrix</b> algorithm 358 f1 4,5 cacm october 1969 businger p a goulub g h <b>singular</b> values <b>matrix</b> <b>decomposition</b> squares solution pseudoinverse 5.14 ca691007 jb february 15 1978 322 pm
+cacm-2368.html: cacm april 1972 chase s m <b>graph</b> <b>algorithms</b> <b>graph</b> processing shannon switching games game playing <b>graph</b> theory positional games demonstration programs game theory spinning trees 3.69 5.32 ca720405 jb january 31 1978 134 pm
+cacm-3018.html: relationship edge-clique-cover problem <b>graph</b> <b>coloring</b> problem established <b>algorithms</b> problems constructed algorithm other
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> constraint networks constraint satisfaction <b>graph</b> <b>coloring</b> network consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-2883.html: relations representation minimization problem dynamic programming approach discussed showing <b>graph</b> search <b>method</b> lead substantial improvements computing time
+cacm-1905.html: simplex <b>method</b> linear programming lu <b>decomposition</b> standard computer implementations dantzigs simplex <b>method</b> linear programming <b>based</b> forming inverse basic <b>matrix</b> updating inverse step <b>method</b>
+cacm-2408.html: cacm november 1973 ehrlich l w biharmonic direct <b>method</b> block iterative eigenvector-eigenvalue <b>decomposition</b> 5.14 5.17 ca731118 jb january 19 1978 328 pm
+cacm-2980.html: scheme <b>based</b> definitions <b>graph</b> properties satisfied spurious region present editing equivalent fast <b>graph</b> operations
+cacm-1145.html: situation similar prevailing areas game-playing theorem-proving practical <b>algorithms</b> unknown <b>for</b> interesting cases practical partially successful techniques available
+cacm-2619.html: <b>graph</b> <b>coloring</b> conditions existence solutions timetable problem sufficient condition presented existence solution gotlieb class-teacher timetable problem
+cacm-1727.html: easier estimate sij quantities pijsijci/sumsij j1n ci arbitrary positive constant i pij <b>are</b> i proportional sij estimation pij easier estimate probabilities events instruction executed instruction ii
+cacm-2484.html: note information organization storage logical structure data base represented tree <b>graph</b> natural view process designing data base constructing tree <b>graph</b>
+cacm-2490.html: efficient <b>algorithms</b> <b>graph</b> manipulation h algorithm a447 efficient <b>algorithms</b> presented partitioning <b>graph</b> connected components biconnected components simple paths
+cacm-2630.html: computing sets shortest paths <b>graph</b> <b>algorithms</b> presented construct shortest paths pair vertices directed <b>graph</b>
+cacm-1961.html: efficient search algorithm <b>find</b> elementary circuits <b>graph</b> theoretically efficient search algorithm presented exhaustive search <b>find</b> elementary circuits <b>graph</b>
+cacm-1504.html: <b>algorithms</b> finding fundamental set cycles undirected linear <b>graph</b> adjacency <b>matrix</b> <b>graph</b> algorithm presented paper finds spanning tree constructs set fundamental cycles
+cacm-2430.html: elementary circuits <b>graph</b> h algorithm a459 cacm october 1973 syslom
+cacm-2275.html: strategy yielded success consisted essential points 1 fit known experimental data curve properties derive properties as unknown function 2 stabilize computation unknown function <b>singular</b> <b>decomposition</b> 3 constrain unknown function approximation since represents probability distribution nonnegative
+cacm-2695.html: cacm january 1974 gibbs n e poole w g jr tridiagonal <b>matrix</b> permutation algorithm eigenvalues <b>graph</b> bandwidth sparse <b>matrix</b> 5.14 5.32 ca740104 jb january 18 1978 231 pm
+cacm-2172.html: <b>graph</b> plotter j6 algorithm 412 cacm july 1971 cermak j plot <b>graph</b> line printer plot 4.41 ca710710 jb february 2 1978 432 pm
+cacm-2790.html: elementary circuits <b>graph</b> algorithm r459 cacm february 1975 syslo m m ca750209 jb january 12 1978 254 pm
+cacm-2568.html: <b>graph</b> formulation school scheduling algorithm problem classically titled <b>the</b> examination schedule problem takes forms literature
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> intended reduce number comparisons required achieve desired result
+cacm-1529.html: <b>decomposition</b> programming analysis <b>matrix</b> substructure petroleum blending problem analyzed order compare primal primal-dual <b>decomposition</b> <b>algorithms</b>
+cacm-3164.html: pad <b>algorithms</b> presented simple path <b>matrix</b> representation list artificial gradient
+cacm-1847.html: algorithm finding fundamental set cycles <b>graph</b> fast <b>method</b> presented finding fundamental set cycles undirected finite <b>graph</b>
+cacm-1423.html: simple algorithm computing generalized inverse <b>matrix</b> generalized inverse <b>matrix</b> important analysis extension concept inverse applies matrices
+cacm-2701.html: <b>graph</b> edges algorithm worst case time bound oe log e function operations
+cacm-2290.html: predominators directed <b>graph</b> h algorithm a430 cacm august 1972 purdom jr p w moore e f predominator predominator <b>graph</b> theory directed <b>graph</b> shortest path articulation connectivity program optimization optimizing compiler 4.12 5.32 ca720812 jb january 30 1978 919
+cacm-2052.html: scheduling reduce conflict meetings conflicts scheduling treated defining undirected linear <b>graph</b> independently relation activities conflict additional constraints time space
+cacm-2015.html: cacm august 1970 ichbiah j d morse s p translator writing systems syntactic analysis floyd-evans productions precedence grammars translator optimization merger algorithm minimum cost inverse-arborescence <b>graph</b> theory 4.12 5.23 5.32 ca700806 jb february 10 1978338 pm
+cacm-2763.html: basic cycle generation h algorithm 491 cacm may 1975 gibbs n e <b>graph</b> basic cyclesfundamental cycle spanning tree vertex adjacency <b>matrix</b> 5.32 3.24 ca750504 jb january 9 1978 239 pm
+cacm-2877.html: cacm march 1976 allen j e cocke j program optimization data flow analysis flow graphs <b>algorithms</b> compilers 4.12 5.24 ca760303 jb january 5 1978 833
+cacm-1415.html: automatic derivation microsentences <b>decomposition</b> long complex english sentences shorter kernel-like constituent sentences microsentenceshas suggested avenue conducting automatic retrieval natural language messages
+cacm-2178.html: language extension <b>graph</b> processing formal semantics simple programming language extension graspe processing directed graphs defined
+cacm-2752.html: generation cycles <b>graph</b> set basic cycles h algorithm 492 cacm june 1975 gibbs n e basic cycle cycle <b>graph</b> 5.32 3.24 ca750601 jb january 9 1978 155 pm
+cacm-2697.html: fast <b>method</b> solving class tridiagonal linear systems solution linear systems real symmetric diagonally dominanttridiagonal coefficient matrices constant diagonals considered
+cacm-2606.html: taylor series <b>method</b> <b>method</b> shown superior speed accuracy <b>method</b> shown superior solution required singularity
+cacm-2925.html: optimal surface reconstruction planar contours scientific technical endeavors, three-dimensional solid reconstructed serial sections, aid comprehension object's structure facilitate automatic manipulation analysis.
+cacm-3138.html: mathematical programming updating <b>method</b> modified givens transformations applied lp problems efficient numerically stable <b>method</b> presented problem updating orthogonal <b>decomposition</b> <b>matrix</b> column <b>or</b> row vectors
+cacm-1481.html: <b>graph</b> plotter algorithm 278 j6 cacm february 1966 lloyd p ca660206d jb march 23 1978 730 pm
+cacm-1983.html: spanning tree $h algorithm 399 cacm october 1970 seppanen j j <b>graph</b> tree spanning tree 5.32 ca701007 jb february 10 1978 924
+cacm-2161.html: algorithm blocks cutnodes <b>graph</b> corrigendum cacm september 1971 paton k ca710903 jb february 2 1978 224 pm
+cacm-2461.html: <b>graph</b> plotter algorithm r412 cacm august 1973 watkins r p ca730813 jb january 23 1978 1030
+cacm-2769.html: cacm april 1975 warren h s jr warshalls algorithm transitive closure reachability <b>matrix</b> directed <b>graph</b> digraph boolean <b>matrix</b> binary relation 5.30 5.32 ca750408 jb january 9 1978 349 pm
+cacm-3124.html: jenkins m nested arrays apl arrays recursive data structures trees data-driven <b>algorithms</b> theory arrays 4.22 5.29 ca790203 dh april 10 1979 341 pm
+cacm-1432.html: <b>method</b> control output alphanumeric information digital <b>graph</b> plotter
+cacm-3059.html: models parallel processing programs: application cpu:i/o i/o:i/o overlap approximate queueing models internal parallel processing individual programs multiprogrammed system developed paper.
+cacm-1791.html: triangular factors modified matrices algorithm 319 f1 cacm january 1968 green d r <b>matrix</b> <b>decomposition</b> <b>matrix</b> factors <b>matrix</b> modifier <b>matrix</b> perturbation 5.14 ca680102 jb february 23 1978 250 pm
+cacm-2986.html: cacm march 1977 hunt h b iii szymanski t g ullman j d computational complexity sparse relation boolean <b>matrix</b> directed <b>graph</b> wirth-weber precedence relation linear precedence function slr grammar t-canonical precedence relation 4.12 5.23 5.25 ca770306 jb december 29 1977 805
+cacm-3100.html: interference matching technique inducing abstractions <b>method</b> inducing knowledge abstraction sequence training examples described
+cacm-1822.html: shortest-path forest topological ordering algorithm h cacm november 1969 dial r b shortest path tree network directed <b>graph</b> 5.32 5.42 ca691108 jb february 15 1978 1221 pm
+cacm-2444.html: finding cliques undirected <b>graph</b> algorithm a457 cacm september 1973 bron c kerbosch j cliques maximal complete subgraphs clusters backtracking algorithm branch bound technique recursion 3.71 5.32 ca730911 jb january 23 1978 844
+cacm-2155.html: <b>based</b> directed graphs named edges transformations graphs
+cacm-2189.html: nonoriented complete <b>graph</b> vertices hamitonian circuits equivalent .5n 1
+cacm-2771.html: synthesis solids bounded faces technique presented class solid objects synthesized stored computer.
+cacm-1350.html: section 2 augmented predictive analyzer parsing algorithm arbitrary context-free languages compared parsing <b>algorithms</b> selective top-to-bottom algorithm similar irons error correcting clean algorithm constituent analyzer extension sakai-cockes algorithm normal grammars
+cacm-2923.html: paper proposes simple general <b>method</b> high-level data flow analysis free escape jump statements avoids large graphs compiling large programs facilitates updating data flow information reflect program changes derives global information helpful solving familiar global flow analysis problems
+cacm-1159.html: machine independence: technology economics survey offered techniques transferring programs, <b>especially</b> compilers, computer another.
+cacm-1456.html: storage retrieval aspects meaning directed <b>graph</b> structures experimental system lisp make conceptual dictionary described
+cacm-3125.html: global optimization suppression partial redundancies elimination redundant computations moving invariant computations loops separately, invariants moved outward loop loop.
+cacm-1899.html: simplex <b>method</b> procedure employing lu <b>decomposition</b> algorithm 350 h cacm may 1969 bartels r h golub g h simplex <b>method</b> linear programming lu <b>decomposition</b> round-off errors computational stability 5.41 ca690510 jb february 17 1978 321 pm
+cacm-1935.html: search <b>method</b> binary nature offers potential information retrieval systems
+cacm-2195.html: technique <b>heuristic</b> problem embedded recognition algorithm expressed figure merit
+cacm-2934.html: comment computing shortest paths <b>graph</b> cacm august 1977 lawler e l <b>graph</b> network shortest path algorithm ranking 5.32 ca770809 jb december 28 1977 700
+cacm-2646.html: methods restricted numerical computations <b>matrix</b> partial differential equation methods typical examples use
+cacm-2059.html: language treating graphs language representation <b>graph</b> described formulation <b>graph</b> operations node and/or link deletion insertion union intersection comparison traversal graphs given
+cacm-2125.html: note minimal length polygonal approximation digitized contour <b>method</b> extracting smooth polygonal contour digitized image illustrated
+cacm-3172.html: cacm october 1979 lozano-perez t wesley m path finding collision-free paths polyhedral objects polyhedral obstacles <b>graph</b> searching growing objects 3.15 3.64 3.66 8.1 ca791005 db january 17 1980 1013
+cacm-1931.html: present paper <b>method</b> proposed hasen r r smith compared straightforward i determinant evaluation
+cacm-2520.html: greatest common divisor integers multipliers algorithm c386 cacm april 1973 ragland l c good d i proof <b>algorithms</b> greatest common divisor euclidean algorithm inductive assertion <b>method</b> 3.15 4.42 5.10 5.24 ca730408 jb january 24 1978 927
+cacm-1181.html: simple data transmission system office telephone <b>method</b> evolved transmitting data type originating laboratory situation direct central computer
+cacm-3153.html: parameterized <b>algorithms</b> partition main memory classes jobs considered
+cacm-1373.html: gamma function gamma function range 1 2 reciprocal gamma function real argument gamma function logarithm gamma function <b>algorithms</b> 34s14 54s14 80s14 221s14 291s14 cacm september 1966 pike m c hill i d ca660909d jb march 23 1978 428 pm
+cacm-2819.html: <b>method</b> general applies equally english pl/i digital data
+cacm-1721.html: intersection point determined identified <b>singular</b> point modifications applied system ensure <b>singular</b> point stable ie
+cacm-1934.html: cacm february 1969 redziejowski r r arithmetic expression compiler design <b>graph</b> theory programming storage minimization topological orderingtree 4.12 5.32 ca690204 jb february 20 1978 1111
+cacm-2051.html: cacm june 1970 frantz d g comparative linguistics natural language processing comparative <b>method</b> historical linguistics diachronic linguistics genetic relationship sound change sound correspondence regular correspondence list processing 3.42 ca700604 jb february 13 1978 1151
+cacm-2199.html: sparse <b>matrix</b> package part i f4 algorithm 408 cacm april 1971 mcnamee j m <b>matrix</b> sparse <b>matrix</b> <b>matrix</b> manipulation 5.14 ca710406 jb february 3 1978 320 pm
+cacm-2523.html: region <b>coloring</b> technique scene analysis <b>method</b> converting picture cartoon map regions correspond differently textured regions described
+cacm-1433.html: note linear programming algorithm design: combinatorial problem linear programming models grow bigger bigger size, actual data memorized put magnetic tape disk, improportionality fast rise consumption computer timeo cut expense, increasing effort made design efficient algorithms.
+cacm-2906.html: high level programming language data processing applications application development today labor-in tensive.
+cacm-2856.html: synthetic approach decision table conversion previous approaches problem converting decision tables computer programs <b>based</b> decomposition.
+cacm-2396.html: muse: model understand simple english muse computer model natural language processing, <b>based</b> semantic memory network quillian's tlc.
+cacm-0452.html: nesting statement (algorithm 137) cacm november, 1962 dahm, d. m. wells, m. ca621109 jb march 17, 1978 6:15 pm
+cacm-1821.html: permanent function square <b>matrix</b> ii algorithm 361 g6 cacm november 1969 shriver b eberlein p j dixon r d <b>matrix</b> permanent determinant 5.30 ca691109 jb february 15 19781218 pm
+cacm-2039.html: permanent function square <b>matrix</b> ii algorithm 361 $g6 cacm june 1970 shriver b eberlein p j dixon r d <b>matrix</b> permanent determinant 5.30 ca700616 jb february 13 1978 1001
+cacm-2392.html: in-situ transposition rectangular <b>matrix</b> f1 algorithm c380 cacm january 1972 macleod i d g rectangular <b>matrix</b> transpose 5.14 ca720111 jb february 1 1978 857
+cacm-2213.html: roots <b>matrix</b> pencils generalized <b>eigenvalue</b> problem f2 algorithm 405 cacm february 1971 dell a m weil r l thompson g l eigenvalues <b>matrix</b> roots pencil roots 5.1 5.3 ca710208 jb february 8 1978 837
+cacm-1824.html: aparel-a parse-request language aparel described: language extension algorithmic language (pl/i) pattern-matching capabilities found special purpose languages snobol4 tmg.
+cacm-2567.html: <b>method</b> designed general purpose nature <b>especially</b> efficient dealing stiff systems differential equations
+cacm-1925.html: cacm march 1969 morse s p map contour map contour lines topological properties geometrical properties <b>graph</b> contour map navigation 3.1 ca690302 jb february 20 1978 941
+cacm-2920.html: bipartite <b>graph</b> representation game construct explicitly set safe states study properties
+cacm-3008.html: cacm march 1978 demillo r eisenstat s lipton r arrays <b>graph</b> embedding linear lists proximity average proximity trees 4.34 5.24 5.25 5.32 ca780305 jb march 28 1978 107 pm
+cacm-2554.html: reduction band-symmetric generalized <b>eigenvalue</b> problem algorithm reducing generalized <b>eigenvalue</b> problem ax lambda bx ordinary problem case symmetric band matrices positive definite

@@ -1,0 +1,100 @@
+cacm-2265.html: paper attempts isolate <b>notion</b> <b>type</b> checking presents partial solution <b>type</b> checking problem based notions abstraction application functions
+cacm-3031.html: cacm december 1978 guttag j horowitz e musser d abstract <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification 4.34 5.24 ca781208 dh january 18 1979 251 pm
+cacm-2956.html: ideas <b>data</b> <b>types</b> high-level languages number issues explored concerning <b>notion</b> <b>data</b> <b>type</b> set values set primitive operations values
+cacm-2957.html: cacm june 1977 smith j m smith d c p <b>data</b> abstraction relational database <b>data</b> <b>type</b> aggregation database design <b>data</b> structure knowledge representation <b>data</b> definition language 3.65 3.69 3.79 4.29 4.33 4.34 ca770606 jb december 29 1977 1233
+cacm-3142.html: consumer difficulties computerized transactions: empirical investigation prevalence errors encountered end targets computerized <b>process</b> assessed.
+cacm-2233.html: simulations provide convincing evidence signatures <b>process</b> <b>data</b> dependent strongly mr beales cyphers real merely matter time finds <b>correct</b> source document locates vault common-wealth virginia
+cacm-3103.html: cacm may 1978 low j abstract <b>data</b> <b>types</b> automatic programming <b>data</b> structures optimizing compilers sets lists 4.12 4.22 4.6 ca780504 dh february 26 1979 151 pm
+cacm-2912.html: assumed <b>process</b> time modify <b>data</b> concurrent reading writing permitted
+cacm-3105.html: programming languages access control <b>data</b> <b>types</b> abstract <b>data</b> <b>types</b> <b>type</b> checking capabilities 4.20 4.35 ca780502 dh february 26 1979 319 pm
+cacm-2632.html: mechanisms presented dealing objects including creation <b>types</b> specification operations applicable <b>type</b> sharing protection reference object improper application operations defined respect <b>type</b> object
+cacm-3021.html: important consequences 1 couriers secure means needed transmit keys <b>message</b> enciphered encryption key publicly revealed intended recipient
+cacm-2560.html: queuing model multiprogrammed computer two-level storage <b>system</b> results presented analysis probabilistic model multiprogrammed computer <b>system</b> two-level storage <b>system</b> sequential dependency accesses devices
+cacm-2341.html: cacm june 1972 gimpel j f character manipulation output formatting string processing graphics nonnumerical programming snobol4 <b>data</b> <b>types</b> two-dimensional mathematics test processing flowcharting 4.22 4.41 ca720604 jb january 30 1978 438 pm
+cacm-2794.html: method representing problems first-order logic inference <b>system</b> employed resolution-based theorem prover determines set clauses interpreted state-spacer mode problem-reduction mode presented
+cacm-2651.html: resulting treatment <b>data</b> <b>types</b> includes provision programmer-defined <b>data</b> <b>types</b> <b>data</b> <b>types</b> generic routines programmer control <b>type</b> conversion flexible <b>data</b> <b>type</b> behavior context efficient compiled code compact <b>data</b> representation
+cacm-0695.html: disk stretch paper begins briefly <b>describing</b> stretch ibm 7030 computer special emphasis organization operation input-output equipment
+cacm-2376.html: <b>synchronization</b> communicating <b>processes</b> formalization well-defined <b>synchronization</b> mechanism prove concurrently running <b>processes</b> <b>system</b> communicate correctly
+cacm-0243.html: <b>processes</b> encoding error detection based parity evaluations prescribed dimensions array
+cacm-2941.html: specific topics addressed <b>are</b> module structure defining abstractions data-structuring facilities mesa equivalence algorithm <b>types</b> <b>type</b> coercions benefits <b>type</b> <b>system</b> breached occasionally difficulty making treatment variant records safe
+cacm-2184.html: cacm july 1971 fraser <b>a</b> g file operating <b>system</b> programming language functions names context directory dictionary lambda calculus theory programming 3.73 4.22 4.39 5.23 5.24 ca710606 jb february 3 1978 958
+cacm-2003.html: interactive software <b>system</b> computers-aided design application circuit project characteristics interactive software <b>system</b> intended constitute interface designer computer steps design <b>process</b> presented
+cacm-2321.html: interfaces consideration problems coordination <b>synchronization</b> error control signaling <b>stream</b> multiplexing switch control addition minimizing technological interdependence specific subsystem designs
+cacm-0618.html: computers key total systems control industrial viewpoint man-man-machine <b>processes</b> characterized main <b>types</b> markets <b>type</b> shown 1950 1960 estimated 1970 cacm march 1962 carlson w m ca620314 jb march 20 1978 253 pm
+cacm-2051.html: output list correspondence <b>types</b> frequency occurrence <b>data</b> separate listing correspondence word-pairs showing correspondence unless relative arbitrarily chosen cutoff point
+cacm-2850.html: <b>system</b> called effigy symbolic execution program testing debugging described
+cacm-2958.html: abstract <b>data</b> <b>types</b> development <b>data</b> structures abstract <b>data</b> <b>types</b> play significant role development software reliable efficient flexible
+cacm-1426.html: <b>types</b> policies examined admission based percentages discharge rates discharge rates minus constant fixed authorizations independent discharge rates
+cacm-1181.html: simple <b>data</b> transmission <b>system</b> office telephone method evolved transmitting <b>data</b> <b>type</b> originating laboratory situation direct central computer
+cacm-1143.html: analysis decay-type <b>data</b> comparative study made variety numerical techniques fitting experimental <b>data</b> decay <b>type</b> forms involving sums exponentials
+cacm-0409.html: cl-1 environment compiler flexible large-scale programming <b>system</b> facilitate solution information processing problems provide intercommunication programs and/or programmers developed realized ibm 709/7090 computer
+cacm-2558.html: cacm january 1973 morris j h jr protection <b>types</b> environmentstrademarks seals access keys access control authentication secrecy 4.2 4.3 ca730103jb january 24 1978 445 pm
+cacm-3153.html: initially closed <b>system</b> consisting <b>process</b> paging devices fixed numbers jobs studied determine optimal degrees multiprogramming proportion processor time devoted class
+cacm-2369.html: paper describes polygon comparison scheme relationships polygons classified tree <b>types</b> discusses <b>relationship</b> changed pair polygons rotation axis
+cacm-2815.html: high-level binding low-level linkers easy implement scheme compiler enforce agreement complex <b>data</b> <b>types</b> separately compiled modules.
+cacm-2342.html: interference communicating parallel <b>processes</b> kinds interference communicating parallel <b>processes</b> examined dijkstra knuth others
+cacm-3039.html: on-the-fly garbage collection exercise cooperation cooperation sequential <b>processes</b> mutual interference despite frequent manipulations large shared <b>data</b> space technique developed nearly activity needed garbage detection collection performed additional processor operating con-currently processor devoted computation proper
+cacm-3141.html: decentralized algorithm technique selective <b>message</b> extinction order achieve average number <b>message</b> passes order n log n on2
+cacm-1719.html: cacm july 1968 stimler s brons k <b>a</b> real-time <b>system</b> analysis real-time <b>system</b> design real-time <b>system</b> performance criteria real-time <b>system</b> cost performance ratio 3.27 3.80 3.81 3.89 6.9 ca680710 jb february 22 1978 1140
+cacm-0867.html: squares fitting planes surfaces dynamic programming dynamic programming recently stone, bellman gluss determine closet fit broken line segments curve interval constraint number segments fixed.
+cacm-1415.html: authors conclude microsentences quality achieved open prospects improving performance automatic <b>message</b> retrieval systems practical man-machine systems human monitors select preferred syntactic interpretation sentence
+cacm-2527.html: machine allocates memory executes statements calls functions converts numbers <b>type</b> another checks subscripts detects <b>types</b> programmer errors
+cacm-2060.html: functional approach <b>data</b> structures references insure <b>process</b> accepts <b>data</b> structure accept logically equivalent structure regardless internal representation
+cacm-3048.html: experiments reveal <b>that</b> case study major bottlenecks <b>system</b> memory unit fixed point unit
+cacm-2931.html: experience independent workers method <b>data</b> <b>types</b> lattices or partial orderings information content ordering continuous mappings demonstrated flexibility approach providing definitions proofs clean undue dependence implementations
+cacm-1637.html: problems statistical analysis simulation experiments: comparison means length sample records research continued statistical analysis simulation experiments autocorrelated time series.
+cacm-2083.html: creation control internal <b>data</b> bases fortran programming environment method definition users common structure automatic generation common dimension equivalence <b>type</b> declarations users routines
+cacm-2194.html: paper demonstrates wide class problems <b>type</b> formulated covering problems solvable means elementary arithmetic operations column vectors ternary matrix
+cacm-2002.html: amesplot-a higher level <b>data</b> plotting software <b>system</b> amesplot extensible software <b>system</b> designed make display <b>data</b> simple painless neat possible
+cacm-1844.html: modular computer sharing <b>system</b> alternative approach design organization general purpose interactive multiterminal computing <b>system</b> presented
+cacm-2470.html: shown <b>system</b> build composite <b>data</b> <b>types</b> simper operations rowing structuring uniting
+cacm-1828.html: <b>synchronization</b> parallel-accessed <b>data</b> base problem considered <b>data</b> base manipulated simultaneously <b>process</b> rules <b>synchronization</b> maximize amount parallel activity allowed
+cacm-2939.html: cacm august 1977 liskov b snyder <b>a</b> atkinson r schaffert c programming languages <b>data</b> <b>types</b> <b>data</b> abstractions control abstractions programming methodology separate compilation 4.0 4.12 4.20 4.22 ca770804 jb december 28 1977 749
+cacm-2177.html: denotes word length machine employed storage <b>in</b> machine words required graph nodes edges increases essentially 2m+n case i n^2/win case ii
+cacm-1432.html: incorporation nonstandard input/output devices fortran systems fortran <b>system</b> readily modified handle input/output nonstandard media basis handles standard media
+cacm-2631.html: information-theoretic approach text searching direct access systems direct access computer bibliographic information <b>attempt</b> made overcome problems information retrieval namely maintenance large dictionaries greater part infrequently
+cacm-2406.html: cacm december 1973 sibley e h taylor r w <b>data</b> definition language <b>data</b> storage structure <b>data</b> translation <b>data</b> base management systems translation 3.51 3.70 3.73 4.29 4.82 ca731202 jb january 19 1978 258 pm
+cacm-1591.html: model multifunctional teaching <b>system</b> teaching <b>system</b> model incorporated operating <b>system</b> large computer described
+cacm-2948.html: terminal-oriented communication <b>system</b> paper describes <b>system</b> full-duplex communication time-shared computer terminals
+cacm-2937.html: experimental evaluation <b>data</b> <b>type</b> conventions language programs written substantial effect reliability resulting programs
+cacm-0040.html: <b>the</b> choice decimal binary representation binary number <b>system</b> offers advantages decimal representation high-performance general-purpose computer
+cacm-1747.html: define scope criteria <b>notion</b> abstract machine programming language <b>notion</b> virtual computer explained
+cacm-2353.html: equation treated <b>system</b> order equations simple smoothing <b>process</b> essential convergence
+cacm-1410.html: interarrival statistics time sharing systems optimization time-shared <b>system</b> performance requires description stochastic <b>processes</b> governing user inputs program activity
+cacm-2033.html: reduction space accomplished exploiting possibility small fraction errors commission tolerable applications <b>particular</b> applications large amount <b>data</b> involved core resident hash area feasible conventional methods
+cacm-1398.html: robot <b>data</b> screening solution multivariate <b>type</b> problems biological social sciences approach outlined solution <b>type</b> multivariate problem found biological social sciences medicine
+cacm-2890.html: quadratic adaptive routing algorithms analytic models store-and-forward communications network constructed find optimal <b>message</b> routing illustrate equilibrium stationary state maintained adaptive routing algorithm
+cacm-1474.html: tests probabilistic models propagation roundoff errors prolonged computation generally assumed accumulated effect roundoff errors sense statistical.
+cacm-3128.html: <b>synchronization</b> eventcounts sequencers <b>synchronization</b> concurrent <b>processes</b> requires controlling relative ordering events <b>processes</b>
+cacm-1003.html: computer analysis method thermal diffusion biochemical systems thermal detection rapid biochemical reactions <b>correct</b> temperature <b>data</b> transient heat conduction losses cylindrical calorimeter
+cacm-3006.html: <b>type</b> anomaly example concerns fact <b>that</b> reference strings paging algorithms increase mean memory allocation result increase fault rate
+cacm-2242.html: product <b>type</b> two-point gauss-legendre-simpsons integration d1 algorithm a438 cacm december 1972 boland w r numerical integration product <b>type</b> quadrature gaussian quadrature simpsons rule 5.16 ca721213 jb january 27 1978 908
+cacm-0252.html: programming duplex computer <b>system</b> paper describes method duplex-computer programming computers military defense <b>system</b>
+cacm-2911.html: anomalous behavior fifty-percent rule dynamic memory allocation paper reports simulation <b>data</b> showing <b>that</b> dynamic memory allocation average free-to-allocated-block ratio differ considerably directions predictions 50 percent rule
+cacm-1625.html: automatic simplification source-language programs methods simplification applied programs written algol-like language discussed.
+cacm-2920.html: game interpretation deadlock avoidance problem deadlock avoidance problem defined informally determination priori information <b>processes</b> resources operating <b>system</b> etc safe situations realized endangering smooth running <b>system</b>
+cacm-2080.html: cacm april 1970 hansen p b multiprogramming operating systems parallel <b>processes</b> <b>process</b> concept <b>process</b> communication <b>message</b> buffering <b>process</b> hierarchy <b>process</b> creation <b>process</b> removal 4.30 4.31 4.32 4.41 ca700404 jb february 13 1978 310 pm
+cacm-0676.html: computation <b>type</b> incompletebeta functions cacm november 1963 tang i c ca631116 jb march 13 1978 327 pm
+cacm-1062.html: symbol manipulation fortran-sasp subroutines set subroutines fortran purpose synthesize output strings (i) input strings analyzed shadow general syntactic analysis subroutine reported earlier, and/or (ii) packed bcd strings formed way.
+cacm-1626.html: structure lisp <b>system</b> two-level storage ideal list-processing <b>system</b> core memory <b>data</b> programs
+cacm-1012.html: formal parsing <b>system</b> vutr consists finite disjoint vocabularies t many-many map u t recursive set strings called syntactic sentence classes
+cacm-2490.html: efficient algorithms graph manipulation [h] (algorithm a447) efficient algorithms presented partitioning graph connected components, biconnected components simple paths.
+cacm-2229.html: shown <b>that</b> elementary operations addition subtraction multiplication rational positive negative powers series constructed
+cacm-2835.html: recursion analysis compiler optimization simple method detection recursive procedures presented compiler optimization.
+cacm-2938.html: cacm august 1977 wirth n multiprogramming real-time programming <b>process</b> <b>synchronization</b> processor sharing program validation modula 3.80 4.22 ca770805 jb december 28 1977739
+cacm-1213.html: format <b>types</b> give fortran programmer control input/output specifications execution time
+cacm-1652.html: code non-numeric information processing applications online systems code specifically designed simplify internal information processing operations online computer <b>system</b> respect non-numeric applications maximize transfer rate information channel linking <b>system</b> <b>system</b> user
+cacm-2141.html: algorithmic selection method compressing map <b>data</b> strings dozen methods compressing map <b>data</b> illustrated
+cacm-2513.html: <b>particular</b> algorithm requires storage nodes list moved additional bits node marking algorithm runs time proportional number nodes list
+cacm-0242.html: notes geometric weighted <b>check</b> digit verification note describes method utilizing geometric weight modulus 11 checking digits computer multiplication division
+cacm-2801.html: storage-efficient representation decimal <b>data</b> decimal digits represented 4n bits computers
+cacm-1152.html: floating-point arithmetic 84-bit numbers classic straightforward technique presented limited size <b>type</b> number representation multiple precision arithmetic.
+cacm-1736.html: heading format <b>data</b> transmission <b>a</b> usaai tutorial standards cacm june 1968 <b>data</b> transmission heading format heading format <b>message</b> format <b>data</b> transmission <b>message</b> headings 3.57 3.81 6.39 ca680609 jb february 22 1978 407 pm
+cacm-2289.html: cellular arrays solution graph problems cellular array two-dimensional checkerboard <b>type</b> interconnection identical modules or cells cell bits memory small amount combinational logic communicates mainly neighbors array
+cacm-2167.html: algebraic simplification: guide perplexed algebraic simplification examined point view user needs comprehend large expression, point view designer wants construct efficient system.
+cacm-2888.html: principles methodical coding discussed logical connections <b>data</b> items reflected reference code framework shown set-theoretic information model
+cacm-1827.html: performance monitoring time-sharing <b>system</b> software measurement facility part general purpose time-sharing <b>system</b> described
+cacm-1847.html: stage <b>process</b> take top element pushdown list examine it ie
+cacm-2537.html: cacm march 1973 wagner r <b>a</b> diagnostic messages error messages common phrases minimum space text storage optimization dynamic programming 3.73 4.10 5.41 ca730302 jb january 24 1978 112 pm
+cacm-2519.html: cacm may 1973 pager d complex information information communication mathematics proof interactive <b>system</b> language 1.0 1.1 1.50 1.52 1.59 2.42 3.32 3.51 3.62 3.70 3.81 ca730501 jb january 24 1978 925
+cacm-1412.html: banking information <b>system</b> concept large commercial banks progressed point major accounting applications automated sophisticated usage <b>data</b> processing equipment sought

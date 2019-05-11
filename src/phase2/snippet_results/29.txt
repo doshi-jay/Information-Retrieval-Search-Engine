@@ -1,0 +1,100 @@
+cacm-2644.html: theorem-proving language experimentation large <b>number</b> strategies inference rules presently consideration automated <b>theorem</b> proving need developing language <b>especially</b> oriented automated <b>theorem</b> proving
+cacm-2089.html: <b>prime</b> <b>number</b> algorithm 310 $a1 cacm march 1970 rapp d g scott l d <b>prime</b> numbers generator 5.0 ca700309 jb february 13 1978 345 pm
+cacm-3021.html: security system rests part difficulty factoring published divisor n cacm february 1978 rivest r shamir a adleman l digital signatures public-key cryptosystems privacy authentication security factorization <b>prime</b> <b>number</b> electronic mail message-passing electronic funds transfer cryptography
+cacm-3131.html: focus microcomputer <b>number</b> system focus <b>number</b> system supporting computational <b>algorithms</b> <b>especially</b> microcomputer control signal processing applications
+cacm-2200.html: complement division division algorithm <b>theorem</b> expressed form permits serve basis devising division operations produce quotient <b>remainder</b> complement form
+cacm-1933.html: <b>prime</b> factorization 261 2 primitive root 261 1 largest <b>prime</b> mersenne <b>number</b> construction pseudo-random <b>number</b> generator increased cycle length
+cacm-1840.html: efficient <b>prime</b> <b>number</b> generator algorithm 357 a1 cacm october 1969 singleton r c <b>prime</b> numbers factoring <b>number</b> theory 3.15 5.30 ca691006 jb february 15 1978 323 pm
+cacm-1874.html: cacm july 1969 hemmerle w j random <b>number</b> uniform distribution pseudo-random <b>number</b> random <b>number</b> generator multiplicative congruential generator power residue twos complement arithmetic ibm 360 arithmetic 3.15 5.5 6.32 ca690706 jb february 17 1978 917
+cacm-2232.html: object work clarify word description made precise computer <b>algorithms</b> feature extraction obtained focus theoretical subject matter
+cacm-2927.html: cacm september 1977 mairson h g computational complexity sieve <b>prime</b> <b>number</b> generation <b>number</b> theory linked list preprocessing balancing 5.25 5.39 ca770907 jb december 27 1977 1255 pm
+cacm-0942.html: fortran subroutines time <b>series</b> analysis authors recently concerned time-series study constituted fairly typical piece applied statistical research <b>involving</b> extensive computations moderately large quantity data
+cacm-2462.html: efficient <b>prime</b> <b>number</b> generator algorithm r357 cacm august 1973 demorgan r m ca730812 jb january 23 1978 1031
+cacm-2289.html: major challenge effective cellular arrays solution graph problems determination <b>algorithms</b> exploit possibilities parallelism <b>especially</b> problems solutions inherently serial
+cacm-2167.html: algebraic simplification: guide perplexed algebraic simplification examined point view user needs comprehend large expression, point view designer wants construct efficient system.
+cacm-1420.html: uniform pseudorandom <b>number</b> generator multiplicative congruential pseudorandom <b>number</b> generator discussed modulus largest <b>prime</b> accumulator capacity multiplier primitive root <b>prime</b>
+cacm-1539.html: <b>prime</b> <b>number</b> generator 1 <b>prime</b> <b>number</b> generator 2 algorithm 35a1 algorithm 310a1 algorithm 311a1 cacm september 1967 chartres b a ca670907c jb march 23 1978 237 pm
+cacm-1841.html: <b>prime</b> <b>number</b> generator treesort principle algorithm 356 a1 cacm october 1969 singleton r c <b>prime</b> numbers <b>number</b> theory sorting 3.15 5.30 5.31 ca691005 jb february 15 1978 325 pm
+cacm-2524.html: closest terms metric key space suitably defined structures presented search <b>algorithms</b> intended reduce <b>number</b> comparisons required achieve desired result
+cacm-1725.html: circuits paper termed column indicators reduces considerably <b>number</b> memory accesses retrieve order <b>number</b> distinct words memory
+cacm-1537.html: <b>prime</b> <b>number</b> generator 1 algorithm 310 a1 cacm september 1967 chartres b a ca670907a jb february 27 1978 312 pm
+cacm-1538.html: <b>prime</b> <b>number</b> generator 2 algorithm 311 a1 cacm september 1967 chartres b a ca670907b jb march 23 1978 234 pm
+cacm-1967.html: improved algorithm produce complex primes algorithm 401 $a1 cacm november 1970 bratley p <b>number</b> theory <b>prime</b> numbers complex numbers 5.39 ca701112 jb february 9 1978 428 pm
+cacm-2695.html: algorithm requires arithmetic <b>number</b> comparisons <b>number</b> assignments <b>number</b> increments linear n compares favorably standard transformation methods
+cacm-2402.html: pictorial pattern recognition techniques make <b>number</b> approaches x-ray structure determination based molecular model building ie
+cacm-2276.html: <b>number</b> procedures convert taylor <b>series</b> expansions directly sampling steps approach sampling continuous distribution
+cacm-2229.html: cacm january 1971 brucke r a <b>series</b> expansion <b>series</b> inversion root extraction binomial <b>theorem</b> newton iterations chebyshev <b>series</b> poisson <b>series</b> fourier <b>series</b> 3.11 3.15 3.21 5.0 ca710105 jb february 8 1978 1057
+cacm-1257.html: program online user insert delete in symbolic assembly language <b>number</b> lines point previously assembled program core <b>remainder</b> program relocated appropriately
+cacm-2031.html: <b>number</b> arithmetic operations <b>number</b> storage locations linear n <b>theorem</b> lame bound <b>number</b> iterations euclidean algorithm integers extended case integers
+cacm-2206.html: exact solution linear equations residue arithmetic f4 algorithm 406 cacm march 1971 howell j residue arithmetic symmetric residue modulus mixed-radix representation symmetric mixed-radix representation mixed-radix conversion <b>prime</b> <b>number</b> linear equations gaussian elimination matrix inversion determinant adjoint matrix ill-condition 3.15 5.14 ca710306 jb february 3 1978 423 pm
+cacm-2507.html: exact solution linear equations residue arithmetic algorithm r406 cacm may 1973 howell j residue arithmetic symmetric residue modulus mixed-radix representation symmetric mixed-radix representation mixed radix conversion <b>prime</b> <b>number</b> linear equations gaussian elimination matrix inversion determinant adjoint matrix ill-condition 3.5 5.14 ca730513 jb january 23 1978 434 pm
+cacm-2420.html: experiments automatic theorem-prover havingpartial ordering inference rules automatic theorem-provers need made efficient.
+cacm-1171.html: comparison primal-simplex primal-dual <b>algorithms</b> linear programming statistical comparison primal-dual commonly primal-simplex algorithm solving linear programming problems made assumption starting full artificial basis
+cacm-1691.html: comparison correlational behavior random <b>number</b> generators ibm 360 hutchinson states new <b>prime</b> modulo multiplicative congruential pseudorandom generator attributed d h lehmer passed usual statistical tests random <b>number</b> generators
+cacm-2490.html: <b>number</b> vertices <b>number</b> edges algorithm requires time space proportional max ve executed random access computer
+cacm-2283.html: thinning <b>algorithms</b> rectangular hexagonal triangular arrays report thinning <b>algorithms</b> developed rectangular hexagonal triangular arrays
+cacm-2306.html: ancient babylonian <b>algorithms</b> early origins mathematics discussed emphasizing aspects greatest interest standpoint computer science
+cacm-2770.html: quadratic hash method table size <b>prime</b> <b>number</b> previous work quadratic hash methods limited mainly case table size <b>prime</b> <b>number</b>
+cacm-2605.html: precise numerical analysis program description program computing solution small <b>number</b> standard numerical analysis problems accuracy limit 2000 correct decimal places
+cacm-2217.html: <b>number</b> experiments performed test effectiveness generality learning program
+cacm-1679.html: fast fourier transform algorithm real-valued <b>series</b> procedure presented calculating complex discrete fourier transform real-valued time <b>series</b>
+cacm-1924.html: shown carefully designed matrix <b>algorithms</b> lead enormous savings <b>number</b> page faults occurring small part total matrix main memory time
+cacm-1497.html: normalization requirement divisor divide <b>and</b> correct methods paper presents analysis normalization requirement divisor divide-and-correct method
+cacm-2948.html: system consists communications computer directly connected time-shared system <b>number</b> small remote computers terminals attached connecting medium speed telephone lines
+cacm-3141.html: decentralized algorithm technique selective message extinction order achieve average <b>number</b> message passes order n log n on2
+cacm-1710.html: asp-a ring implemented associative structure package asp general purpose associative data structure package arbitrary <b>number</b> data items arbitrary <b>number</b> relationships data items represented
+cacm-2208.html: entries filed entire hierarchy expression derived expected <b>number</b> entries filed first-level storehis expression measure effectively first-level store used
+cacm-3027.html: description instruction set includes <b>number</b> features conducive production efficient compiled code high-level language source programs
+cacm-2267.html: <b>algorithms</b> reveal properties floating-point arithmetic <b>algorithms</b> presented form fortran subroutines
+cacm-3055.html: <b>algorithms</b> dijkstra shown expected <b>number</b> swaps 2/3n + 01 values differ 1/3 swap asymptotically 1/4 swap
+cacm-2146.html: optimizing polyphase sort dispersion <b>algorithms</b> polyphase sorting procedure examinedhe optimum algorithm based minimizing total <b>number</b> unit strings read displayed
+cacm-1099.html: blind professional <b>number</b> aids techniques developed mediate machines programmer
+cacm-1862.html: <b>number</b> computers small capacity larger ibm 360/40 exception computing science academic programs rare
+cacm-0804.html: exponentiation <b>series</b> <b>algorithms</b> 134 cacm july 1963 thacher jr h c ca630720 jb march 14 1978 819
+cacm-2726.html: cacm august 1975 shwayder k quine-mccluskey method <b>prime</b> implicants minimization maximization logic circuit boolean method coding decision tables flowcharting sorting 3.5 3.74 4.12 5.31 5.6 ca750809 jb january 6 1978 353 pm
+cacm-1433.html: <b>number</b> repetitions transfer data tape core memory considered
+cacm-1504.html: <b>algorithms</b> finding fundamental set cycles undirected linear graph adjacency matrix graph algorithm presented paper finds spanning tree constructs set fundamental cycles
+cacm-1609.html: principle examination schedule requires minimum <b>number</b> examination periods satisfies constraint student required take examinations simultaneously found steps
+cacm-3164.html: experiments suggest large considerably faster asymptotically onr <b>number</b> nodes expected <b>number</b> nodes reachable paths node
+cacm-3166.html: <b>algorithms</b> well-known statistical computational literature <b>algorithms</b> specifically intended automatic computation
+cacm-2657.html: cacm april 1974 lee r c t chang c l waldinger r j program-synthesizing <b>algorithms</b> <b>theorem</b> proving consequence finding primitive resolutions 3.60 3.64 4.20 4.42 5.21 5.22 5.24 ca740413 jb january 18 1978 932
+cacm-2837.html: upper bounds selection worst-case minimum <b>number</b> comparisons complexity vin i-th selection problem considered
+cacm-3118.html: lower bound <b>number</b> steps required buy permutation algorithm derived class optimum <b>algorithms</b> identified
+cacm-1386.html: symbolic factoring polynomials variables algorithm finding symbolic factors multi-variate polynomial integer coefficients presented.
+cacm-1879.html: note storage fragmentation program segmentation main purpose paper presentation results <b>series</b> simulation experiments investigating phenomenon storage fragmentation
+cacm-2095.html: striking feature measurements large <b>number</b> small segments-about 60 percent segments 40 words
+cacm-2142.html: <b>algorithms</b> all monte carlo methods designed solve problem
+cacm-2924.html: method synthesis spline theory <b>algorithms</b> teractive means man-machine communication software static dynamic graphics display
+cacm-2963.html: fast algorithm computing longest common subsequences previously published <b>algorithms</b> finding longest common subsequence sequences length best-case running time on^2
+cacm-3018.html: covering edges cliques regard keyword conflicts intersection graphs kellerman presented method determining keyword conflicts heuristic algorithm solves combinatorial optimization problem connection method.
+cacm-1812.html: fortran random <b>number</b> generators cacm november 1969 grosenbaugh l r random <b>number</b> generation monte carlo simulation 5.5 ca691118 jb february 15 1978 1157
+cacm-2087.html: <b>number</b> system permutations cacm march 1970 pager d permutation ordering <b>number</b> <b>number</b> system p-number combinatorial 4.49 5.39 ca700311 jb february 13 1978 342 pm
+cacm-1727.html: estimating frequencies jumps program segmentation program reasonable estimation values sij sij mean <b>number</b> jumps i-th instruction j-th instruction run time
+cacm-0944.html: trees information storage retrieval properties applicable problems <b>involving</b> large quantities data problems quantity word length distribution stored information known priori rapidly processing
+cacm-2109.html: shown classes <b>prime</b> numbers complement set quadratic residues easily determined entire table size p <b>prime</b> <b>number</b> searched
+cacm-2325.html: are foundations finite precision <b>number</b> systems computational complexity synthesis analysis <b>algorithms</b> analysis error programs program libraries
+cacm-3037.html: linear sieve algorithm finding <b>prime</b> numbers algorithm presented finding primes 2 n algorithm executes time proportional assuming multiplication integers larger performed unit time
+cacm-2606.html: taylor <b>series</b> method method shown superior speed accuracy method shown superior solution required singularity
+cacm-2138.html: language designed <b>especially</b> suitable writing production software systems specific machine the pdp-10 compilers operating systems etc
+cacm-2936.html: efficient data structure simulation event set recently <b>algorithms</b> presented realization event scheduling routines suitable general purpose discrete event simulation systems
+cacm-3163.html: represents improvement previous ly known insertion <b>algorithms</b> hirschberg kosaraju require time olog 2n
+cacm-2767.html: comparison simulation event list <b>algorithms</b> <b>algorithms</b> considered schedule events general purpose discrete simulation system
+cacm-2498.html: minimizing wasted space partitioned segmentation paged virtual memory system finite <b>number</b> page sizes considered.
+cacm-3152.html: storage reorganization techniques matrix computation paging environment order multiply matrices minimizing <b>number</b> page fetches required efficient reorganize data submatrix form block multiplication known <b>algorithms</b> leave matrices stored rowor columnoriented form
+cacm-1930.html: cacm february 1969 kruskal j b random <b>number</b> generators random numbers random <b>number</b> analysis random generators linear sequential generators random <b>number</b> program pseudo random numbers 4.49 5.19 5.5 ca690208 jb february 20 1978 1043
+cacm-1783.html: in-and-out conversions byan in-and-out conversion mean floating-point <b>number</b> base converted floating-point <b>number</b> base converted back floating-point <b>number</b> original base
+cacm-2555.html: recomputation algorithm applied expressions <b>involving</b> variable-precision operations o10^-p + sumei error bounds denotes operations precision ei denotes error operations ith argument
+cacm-1886.html: assignment algorithm executed order minimize total <b>number</b> temporary storage cells required hold results evaluating factors
+cacm-2860.html: practitioners guide addressing <b>algorithms</b> paper consolidates <b>number</b> popular rules thumb suggested design record addressing <b>algorithms</b> discusses applicability rules large commercial databases
+cacm-3134.html: examples given results respect <b>number</b> disk accesses disk space compared common approaches
+cacm-1145.html: situation similar prevailing areas game-playing theorem-proving practical <b>algorithms</b> unknown for interesting cases practical partially successful techniques available
+cacm-0626.html: method representation storage retrieval 13 random codes 4-digit <b>number</b> 16 random codes 5-digit <b>number</b> cacm march 1962 foster m b ca620306 jb march 20 1978 307 pm
+cacm-2334.html: general random <b>number</b> generator algorithm r370 cacm june 1972 proll l g random <b>number</b> generator probability density function transformation cumulative distribution function 5.13 5.5 ca720611 jb january 30 1978 409 pm
+cacm-1385.html: computer technology communist china 1956-1965 based information translations communist <b>chinese</b> news items periodical literature 1965 period computer technology china reviewed headings 1 initial planning organization educational aspects computer technology automation 2 machine development progress major specific machines 1958-59 soviet aid vacuum 1960-64 due withdrawal soviet aid presumably all-chinese-made machines 1965 present 3 computer applications 4 trend automation control production processes data processing 5 yun chou hsueh science operation programming campaign 1958-60 attempt made bring concepts linear programming ordinary <b>chinese</b> workers peasants
+cacm-1697.html: cacm september 1968 hayashl h duncan s kuno s <b>chinese</b> characters input/output orthography rand tablet pdp-1 automatic typesetting man-machine communication computer graphics graphical input on-line editing 3.40 4.41 ca680904 jb february 22 1978 913
+cacm-2355.html: cacm may 1972 gentleman w m clenshaw curtis numerical integration automatic quadrature error estimates chebyshev <b>series</b> 5.16 ca720505 jb january 31 1978 1005
+cacm-2114.html: cacm february 1970 hsiao d attribute-value pair index keyword record record address k-pointer k-list file directory generalized structure inverted file index-sequential-file multilist file description search directory search serial processing lists <b>prime</b> keyword parallel processing lists 3.70 3.73 3.74 ca700201 jb february 14 1978 104 pm
+cacm-2648.html: design <b>number</b> theory package optimized trial division routine <b>number</b> theory package doubly linked list structures storing multiprecise integers
+cacm-3036.html: feature reduce <b>number</b> characters needed represent document transmission printing
+cacm-0197.html: imaginary <b>number</b> system cacm april 1960 knuth d e ca600414 jb march 22 1978 135 pm
+cacm-0216.html: note abacus <b>number</b> conversion cacm march 1960 kanner h ca600302 jb march 22 1978 203 pm

@@ -1,0 +1,100 @@
+cacm-2949.html: cacm july 1977 tajibnapis w d distributed computer <b>network</b> correctness proofs computer <b>networks</b> distributed control <b>network</b> topology <b>routing</b> problem <b>networks</b> distributed operating system store forward <b>packet</b> switching store forward message switching traffic control 3.81 4.32 ca770703 jb december 28 1977 1159
+cacm-3032.html: <b>algorithms</b> accomplishing delivery store-and-forward <b>packet</b> switching computer <b>network</b> include 1 transmission separately addressed packets
+cacm-2849.html: ethernet distributed <b>packet</b> switching local computer <b>networks</b> ethernet branching broadcast communication system carrying digital data packets locally distributed computing stations
+cacm-2892.html: cacm january 1976 kleinrock l naylor w e opderbeck h arpanet computer communication <b>networks</b> interprocess communication measurement <b>packet</b> switching performance evaluation efficiency resource sharing 3.81 4.39 4.6 4.9 ca760101 jb january 5 1978 1049
+cacm-0616.html: hoped report read a avid <b>interest</b> programming language designers implementors <b>interested</b> developing theoretical approach data processing b <b>interest</b> understanding professional programmers systems analysts c appreciation businessman-analyst-manager
+cacm-2572.html: cacm december 1974 press l <b>i</b> community <b>information</b> utilities social implications public policy 2.1 2.3 ca741202 jb january 16 1978 1002
+cacm-1181.html: cacm october 1965 neilsen <b>i</b> r ca651014 jb march 6 1978 625 pm
+cacm-0944.html: trees <b>information</b> storage retrieval properties applicable problems involving large quantities data problems quantity word length distribution stored <b>information</b> known priori rapidly processing
+cacm-2890.html: cacm january 1976 agnew c e <b>routing</b> <b>algorithms</b> adaptive <b>routing</b> quadratic <b>routing</b> alternate <b>routing</b> store-and-forward <b>network</b> distributed <b>network</b> computer <b>network</b> message switching 3.81 8.0 8.1 8.3 ca760103 jb january 5 1978 1037
+cacm-1846.html: simulating <b>networks</b> parallel processes simultaneous events occur problems simulating discrete event systems computer systems conventional digital computer dealt <b>with</b>
+cacm-1867.html: expected lengths sequences generated sorting replacement selecting replacement-selecting technique sorting <b>interested</b> ratio lj expected length j-th sequence generated technique number memory cells <b>used</b>
+cacm-2289.html: <b>particular</b> parallelized <b>algorithms</b> presented solution spanning tree distance path problems direct applications wire <b>routing</b> pert chart analysis analysis types <b>networks</b>
+cacm-0397.html: card format reference <b>information</b> processing paper proposes card format suitable variety reference <b>information</b> processing
+cacm-2311.html: cacm july 1972 benjamin r <b>i</b> computing milieu management data processing <b>hardware</b> systems software systems systems development process functional systems management systems 2.0 3.50 4.0 6.20 ca720717 jb january 30 1978 1122
+cacm-1769.html: expanding world computers onward sweep automatic processing <b>information</b> impeded principal barriers geography cost problem complexity man-machine communication inadequate sensors lack understanding distance time size
+cacm-1623.html: paper concerned programming techniques formac actual engineering problem readers <b>interested</b> problem stated general mathematical sense <b>interest</b> areas circuit analysis
+cacm-2445.html: <b>routing</b> problem algorithm a456 cacm september 1973 fencl z <b>routing</b> problem shortest path traveling salesman problem hamiltonian circuit 5.40 ca730910 jb january 23 1978 847
+cacm-1612.html: essential weakness method <b>dealing</b> complicated syntactic structures practice sparsely occupied eg arithmetic expressions
+cacm-2424.html: prime dynamic verification ensure users <b>information</b> user gratuitously presence single <b>hardware</b> software faultthe amount additional <b>hardware</b> software required dynamic verification modest
+cacm-1928.html: exclusive simulation activity digital <b>networks</b> technique simulating detailed logic <b>networks</b> large active digital systems described
+cacm-1135.html: general business-oriented language based decision expressions* structure digital compute programming language covers wide class business processing applications presented.
+cacm-1516.html: fully automatic rapid three-part compressor <b>any</b> body <b>information</b> greatly reduce slow external storage requirements increase rate <b>information</b> transmission computer paper
+cacm-1165.html: emulator makes <b>hardware</b> micro-program routines software routines accomplish function
+cacm-2002.html: system formulate user supply minimum <b>information</b> fully integrable users program written conventional higher languages
+cacm-1768.html: global parser context-free phrase structure grammars algorithm analyzing context-free phrase structure grammar generating program clean sentence language (or sentence invalid) described.
+cacm-1572.html: simulation time sharing systems development large scale time-sharing systems raised number problems computation center management.
+cacm-0595.html: cacm may 1962 greene <b>i</b> ca620510 jb march 20 1978 144 pm
+cacm-2967.html: apld functions duplicated tx-2 computer ms lincoln laboratory leap language data structure comparison <b>hardware</b> approach software simulation illustrates advantages <b>hardware</b> associative memory areas 1 processing speed 2 storage requirements 3 flexibility
+cacm-2923.html: paper proposes simple general method high-level data flow analysis free escape jump statements avoids large graphs compiling large programs facilitates updating data flow <b>information</b> reflect program <b>changes</b> derives global <b>information</b> helpful solving familiar global flow analysis problems
+cacm-2401.html: procedure counting patterns matrix <b>hardware</b> implementation algorithm large scale integrated technology envisioned
+cacm-1159.html: finally reasons believing machine-independence problem substantially diminished trends computer design process convergence <b>hardware</b> design foreseeable software developments lead satisfactory resolution
+cacm-2016.html: tools include special <b>hardware</b> clocks data channels general purpose programmed probing recording tools specialized measurement facilities
+cacm-2439.html: multiple terminals user program control time-sharing environment user-written programs dartmouth time-sharing system communicate remote terminals simultaneously control interactions terminals.
+cacm-2516.html: hierarchical storage <b>information</b> retrieval probabilistic analysis employed determine effect hierarchical storage organizations <b>information</b> retrieval operations
+cacm-2786.html: language designed easy learn people <b>for</b> example secretaries mathematical typists know mathematics typesetting
+cacm-1458.html: online programming transition made line online programming, number working conditions noted.
+cacm-1456.html: dictionary associates english word syntactic <b>information</b> definitional material references contexts define words
+cacm-2888.html: <b>information</b> reference coding items business systems identified reference codes later data codes keys data processing system
+cacm-2308.html: computer be properly <b>used</b> respect human dignity civil liberty significant factor improving efficiency urban process
+cacm-1611.html: scheduling project <b>networks</b> basic concepts terminology project networking developed
+cacm-2833.html: <b>algorithms</b> designed work systems multiple levels storage large virtual address space
+cacm-1745.html: cacm may 1968 dennis j b <b>information</b> <b>networks</b> <b>information</b> systems computing free enterprise computing economics computer installation management government regulation communications services distributed data base program leasing 2.3 2.40 3.80 4.30 ca680511 jb february 23 1978 849
+cacm-1526.html: parameter readily calculated <b>hardware</b> characteristics program statistics proposed gauging effect multiprogramming
+cacm-2711.html: vector space model automatic indexing document retrieval pattern matching environment stored entities documents compared incoming patterns search requests appears indexing property space entity lies possible circumstances indexing system expressible function density object space <b>particular</b> retrieval performance correlate inversely space density
+cacm-2046.html: cacm june 1970 codd e f data bank data base data structure data organization hierarchies data <b>networks</b> data relations derivability redundancy consistency composition join retrieval language predicate calculus security data integrity 3.70 3.73 3.75 4.20 4.22 4.29 ca700609 jb february 13 1978 1057
+cacm-1770.html: rules ethics <b>information</b> processing background motivation adoption acm council november 11 1966 set guidelines professional conduct <b>information</b> processing described
+cacm-1695.html: plexus-an on-line system modeling neural <b>networks</b> description presented plexus system enables user construct neural <b>network</b> analyze output data produced <b>network</b> store retrieve <b>networks</b> data library
+cacm-2776.html: major <b>networks</b> included arpa net california state college <b>network</b> university iowa/iowa state university <b>network</b> michigan educational research <b>information</b> triad inc triangle universities computation center <b>network</b> north carolina
+cacm-1665.html: cacm december 1968 johnson w l porter j h ackley s <b>i</b> ross d t character string compiler finite-state automata finite-state machine lexical processor nondeterministic machine parsing plex structure regular expressionssequential machine syntactic analysis 3.63 3.75 4.12 5.22 5.24 5.31 ca681201 jb february 21 1978 219 pm
+cacm-2625.html: cacm july 1974 fabry r s addressing capabilities addressing <b>hardware</b> protection protection <b>hardware</b> shared addresses <b>information</b> sharing operating systems computer utility segmentation tagged architecture 4.30 4.32 4.34 6.21 ca740706 jb january 17 1978 1239 pm
+cacm-2106.html: computer education graduate school management years experience led belief creative design evaluation management <b>information</b> systems requires understanding related computer technology
+cacm-1601.html: parallel numerical methods solution equations classical iterative procedures numerical solution equations provide stage single approximation root question.
+cacm-1441.html: methods numerical integration applied system trivial function evaluations study made determine methods numerical integration require computation time amount truncation error applied system ordinary differential equations function evaluations trivial.
+cacm-2973.html: sorting mesh-connected parallel computer <b>algorithms</b> presented sorting n^2 elements mesh-connected processor array require <b>on</b> <b>routing</b> comparison steps
+cacm-3127.html: thoth encourages structuring programs <b>networks</b> communicating processes providing efficient interprocess communication primitives
+cacm-3158.html: secure personal computing insecure <b>network</b> method implementing secure personal computing <b>network</b> central facilities proposed
+cacm-3001.html: detection combined occurrences paper supposed variables x1,...,xn finite range variable xi taking pi values values variables changing time.
+cacm-1723.html: experimentally programmed fortran ii ibm 7094 cacm july 1968 fisher a c liebman j s nemhauser g l project <b>networks</b> pert cpm topological ordering <b>network</b> construction computer 5.32 ca680706 jb february 22 1978 1207 pm
+cacm-2254.html: dynamic partitioning array languages classical process partitioning array subarrays extended array language operation.
+cacm-0497.html: remarks line segment curve-fitting dynamic programming recent paper, bellman showed dynamic programming determine solution problem previously considered stone.
+cacm-2219.html: policy-driven scheduler time-sharing system service received process time-sharing operating system characterized resource count sum{w[i]r[ij]} r[ij] number units service received process resource w[i] cost unit service.
+cacm-2033.html: reduction space accomplished exploiting possibility small fraction errors commission tolerable applications <b>particular</b> applications large amount data involved core resident hash area feasible conventional methods
+cacm-1664.html: algorithm deriving equations mathematical physics symbolic manipulation method digital computer derive equations mathematical physics curvilinear coordinate system requested user.
+cacm-1206.html: instrument reliability factors irf exactly define limits reliability measured item <b>information</b> compute maximum permitted error mpe values ordinate
+cacm-1457.html: data manipulation programming problems automatic <b>information</b> retrieval automatic <b>information</b> retrieval programs require manipulation variety data structures including linear text sparse matrices tree list structures
+cacm-2274.html: generating english discourse semantic <b>networks</b> system generating english sentences form semantic nets nodes word-sense meanings paths primarily deep case relations
+cacm-1397.html: proceedings acm symposium symbolic algebraic manipulation acm symposium symbolic algebraic manipulation brought hundred people <b>interested</b> programming languages designed manipulation algebraic formulas symbol strings applications <b>algorithms</b> implementation
+cacm-1421.html: contribution development algol programming language similar respects algol 60, incorporating large number improvements based years experience language, detail.
+cacm-2652.html: reduction compilation costs language contraction programming languages tailored groups users constructed removing unwanted features general purpose language.
+cacm-2916.html: random english pattern length 5 algorithm typically inspect i/4 characters string finding match <b>i</b> furthermore algorithm implemented <b>on</b> average fewer i+patlen machine instructions executed
+cacm-1696.html: algorithm identifying ergodic subchains transient states stochastic matrix algorithm identifying ergodic subchains transient states stochastic matrix presented.
+cacm-2614.html: arrow precedence <b>network</b> transformation h algorithm a481 cacm august 1974 crandall k c critical path <b>networks</b> precedence <b>networks</b> 3.23 5.40 ca740810 jb january 17 1978 937
+cacm-2113.html: structuring area computers central core storage individual locations bytes bits come represent data involved matching procedure shifting <b>information</b> reduced minimum searching lists eliminated altogether
+cacm-2265.html: <b>particular</b> program mapped expression decidable subset lambda calculus characterizes type relations program eliminates <b>information</b>
+cacm-3134.html: normal multiplication tables <b>information</b> storage retrieval paper describes method organization retrieval attribute based <b>information</b> systems normal multiplication table directory <b>information</b> system
+cacm-1931.html: application <b>i</b> determinants program test set functions form chebyshev system presented
+cacm-2845.html: buddy system variation disk storage allocation generalization buddy system storage allocation described.
+cacm-0356.html: <b>interest</b> algorithm 45 cacm april 1961 ingerman p z ca610412 jb march 17 1978 1200
+cacm-1755.html: proceedings acm symposium operating system principles cacm may 1968 acm special <b>interest</b> committee ca680501 jb february 23 1978 956
+cacm-2631.html: information-theoretic approach text searching direct access systems direct access computer bibliographic <b>information</b> attempt made overcome problems <b>information</b> retrieval namely maintenance large dictionaries greater part infrequently
+cacm-2396.html: cacm january 1972 mccalla g <b>i</b> sampson j r natural language processing semantic memory text comprehension question answering artificial intelligence human memory simulation 3.36 3.42 3.62 3.65 3.74 ca720107 jb february 1 1978 920
+cacm-2092.html: shown semantic <b>information</b> deductive question answering greatly facilitates process top-down procedure works question answer enables effective made <b>information</b>
+cacm-1844.html: modular computer sharing system alternative approach design organization general purpose interactive multiterminal computing system presented.
+cacm-2380.html: implementation required compromise achieve system operational months <b>hardware</b> checkout tenex met major goals provided reliable service sites arpa <b>network</b>
+cacm-1099.html: <b>interest</b> fact blind especially suited programming work
+cacm-2536.html: telecommunications front-end minicomputer front-end minicomputer provide varied remote terminal access large scale computer considered.
+cacm-2801.html: cacm january 1975 chi chen t ho <b>i</b> t binary-coded decimal digits decimal data storage 6.32 6.34 ca750110 jb january 12 1978 942
+cacm-3040.html: cacm november 1978 freuder e backtrack combinatorial <b>algorithms</b> constraint <b>networks</b> constraint satisfaction graph coloring <b>network</b> consistency relaxation scene labeling search 3.63 3.64 5.25 5.30 5.32 ca781111 dh january 22 1979 343 pm
+cacm-3196.html: reactive typewriter operate commercially <b>used</b> dial-type telephone voice telegraph telex line leased nondial telegraph lines interchangeably
+cacm-0820.html: checking loops <b>networks</b> cacm july 1963 gordon r m ca630704 jb march 14 1978 847
+cacm-2176.html: buffer allocation merge-sorting fixed buffer allocation merge-sorting presented minimizes number input-output operations order merge.
+cacm-2981.html: relation subgoal induction commonly induction rules explored <b>and</b> <b>particular</b> shown subgoal induction viewed specialized form computation induction
+cacm-0322.html: programming systems coded utilize fixed set <b>hardware</b> components recognizing fact occupying storage medium required first
+cacm-1430.html: multiple precision floating-point conversion decimal-to-binary vice versa decimal-to-binary binary-to-decimal floating-point conversion performed table powers 10^i, (ia positive integer) converting base 10 base 2, table coefficient polynomial approximation 10^x, (0<=x<1) converting base 2 base 10. tables occupy large storage region case nonsingle precision conversion.
+cacm-1707.html: generation positive test matrices known positive spectra sufficient conditions real matrix similar positive matrix.
+cacm-2969.html: optimal program data locations computer <b>networks</b> optimization procedure allocation program data computer <b>network</b> presented
+cacm-3038.html: encryption authentication large <b>networks</b> computers encryption achieve authenticated communication computer <b>networks</b> discussed
+cacm-0441.html: topological sorting large <b>networks</b> topological sorting procedure required problems involving analysis <b>networks</b>
+cacm-0248.html: sponsored special <b>interest</b> committee mathematical programming acm hall discussion/on september 7th 16th national acm meeting los angeles
+cacm-0531.html: <b>interested</b> maintenance psychiatric case register maryland reports hundred psychiatric agencies refer patient

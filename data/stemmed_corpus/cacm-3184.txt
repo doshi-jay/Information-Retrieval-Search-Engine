@@ -1,0 +1,1 @@
+revis report on the algorithm languag algol 60 the report give a complet defin descript of the intern algorithm languag algol 60 thi is a languag suitabl for express a larg class of numer process in a form suffici concis for direct automat translat into the languag of program automat comput cacm januari 1963 nuar p ca630117 es march 17 1982 10 10 am
